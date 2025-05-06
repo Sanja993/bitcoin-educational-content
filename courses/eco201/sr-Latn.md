@@ -13,7 +13,7 @@ objectives:
 # Putovanje u ekonomiju
 
 
-Dobrodošli na kurs Théa Mogeneta! Strastven prema ekonomiji, istoriji, književnosti, političkim naukama i tehnologiji, odlučio je da podeli svoje znanje o austrijskoj ekonomiji sa vama. Ova grana, manje poznata u ekonomiji, zasniva se na ljudskoj racionalnosti i ponašanju slobodnih aktera. Manje intenzivna u matematici, pre svega je pitanje logike i društvene studije.
+Dobrodošli na kurs Théo-a Mogeneta! Strastven prema ekonomiji, istoriji, književnosti, političkim naukama i tehnologiji, odlučio je da podeli svoje znanje o austrijskoj ekonomiji sa vama. Ova grana, manje poznata u ekonomiji, zasniva se na ljudskoj racionalnosti i ponašanju slobodnih aktera. Manje intenzivna u matematici, pre svega je pitanje logike i društvene studije.
 
 
 Ova škola mišljenja već ima nekoliko vekova iza sebe i čitav panoram autora, misli i ekonomista iza sebe. Velika imena u ekonomiji kao što su Hayek, Rothbard, Mises, Bastiat ili Menger dugo su branili ovaj pokret. Za razliku od sveprisutnog kejnzijanizma našeg doba, austrijska škola stavlja pojedinca ponovo u centar jednačine sa liberalnijim, kapitalističkim, pa čak i anarhističkim pristupom.
