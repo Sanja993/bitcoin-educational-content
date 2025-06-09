@@ -1,6 +1,6 @@
 ---
 name: Dobijanje svojih prvih bitkoina
-goal: Dobijanje svojih prvih bitkoina i njihovo sigurno čuvanje u Bitcoin Wallet koristeći Mnemonic frazu i plan nasleđivanja.
+goal: Dobijanje svojih prvih bitkoina i njihovo sigurno čuvanje u Bitkoin novčaniku koristeći Mnemonic frazu i plan nasleđivanja.
 objectives: 
 
   - Ažurirajte svoju online sigurnost
