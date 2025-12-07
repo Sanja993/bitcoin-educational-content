@@ -1,29 +1,29 @@
 ---
 name: Dobijanje svojih prvih bitkoina
-goal: Naučite kako da kupite, osigurate i upravljate svojim prvim bitcoinima samostalno.
+goal: Naučite kako da kupite, osigurate i upravljate svojim prvim bitkoinima samostalno.
 objectives: 
 
-  - Identifikujte i izbegnite uobičajene zamke povezane sa Bitcoin
-  - Razumeti osnove Bitcoin
+  - Identifikujte i izbegnite uobičajene zamke povezane sa Bitkoinom
+  - Razumite osnove Bitkoina
   - Izaberite pravu strategiju bezbednosti koja najbolje odgovara vašim potrebama
-  - Naučite kako i gde da nabavite svoje prve bitkoine.
-  - Pripremite plan nasledstva za prenos vaših bitkoina
+  - Naučite kako i gde da nabavite svoje prve bitkoine
+  - Pripremite plan nasledstva za prenos svojih bitkoina
 
 
 ---
-# Putovanje do vaših prvih bitkoina
+# Putovanje do vašeg prvog bitkoina
 
 
-Ekosistem Bitcoin doživljava spektakularan i neviđen rast. Tehnološke, ekonomske i društvene transformacije pokrenute izumom Satoshi Nakamota se intenziviraju iz dana u dan i postepeno otvaraju vrata ka novom svetu, od kojeg sada možete u potpunosti imati koristi.
+Ekosistem Bitkoina doživljava spektakularan i neviđen rast. Tehnološke, ekonomske i društvene transformacije pokrenute izumom Satošija Nakamoto-a se intenziviraju iz dana u dan i postepeno otvaraju vrata ka novom svetu, od kojeg sada možete u potpunosti imati koristi.
 
 
-Uronjavanje u zečju rupu Bitcoin je uzbudljiva intelektualna avantura koja će stimulisati vaše kritičko razmišljanje i izazvati mnoga vaša uverenja. Ovo istraživanje će vam ne samo pružiti duboko razumevanje kako Bitcoin funkcioniše, već i stvarnu priliku da povratite svoju ličnu slobodu, zaštitite svoju privatnost i postignete istinsku finansijsku suverenost.
+Uronjavanje u "zečju rupu Bitcoina" je uzbudljiva intelektualna avantura koja će stimulisati vaše kritičko razmišljanje i izazvati mnoga vaša uverenja. Ovo istraživanje će vam ne samo pružiti duboko razumevanje kako Bitkoin funkcioniše, već i stvarnu priliku da povratite svoju ličnu slobodu, zaštitite svoju privatnost i postignete istinsku finansijsku suverenost.
 
 
-Da bih vas efikasno vodio kroz ovo putovanje, kreirao sam ovaj potpuno besplatan kurs. Ovde je fokus isključivo na Bitcoin. Nema nebitnih diskusija, nema pomena drugih kriptovaluta, samo jasan, precizan i direktan sadržaj.
+Da bih vas efikasno vodio kroz ovo putovanje, kreirao sam ovaj potpuno besplatan kurs. Ovde je fokus isključivo na Bitkoinu. Nema nebitnih diskusija, nema pomena drugih kriptovaluta, samo jasan, precizan i direktan sadržaj.
 
 
-Ovaj kurs je dizajniran da vam pruži potpunu kontrolu nad načinom na koji učite, omogućavajući vam da istražujete Bitcoin svojim tempom, prateći put koji najbolje odgovara vašim interesovanjima i ciljevima.
+Ovaj kurs je osmišljen da vam pruži potpunu kontrolu nad načinom na koji učite, omogućavajući vam da istražujete Bitkoin svojim tempom, prateći put koji najbolje odgovara vašim interesovanjima i ciljevima.
 
 
 +++
@@ -41,46 +41,46 @@ Ovaj kurs je dizajniran da vam pruži potpunu kontrolu nad načinom na koji uči
 :::video id=58e578ef-bb3c-423d-8431-0c16db8e5f29:::
 
 
-Dobrodošli u BTC102! Ako ste već završili BTC101, istražili ste ključne teorijske koncepte zašto je Bitcoin tako revolucionarna tehnologija. Sada, sa BTC102, vreme je da to znanje sprovedete u delo. Ovaj kurs je osmišljen da vam pomogne da izgradite svoj lični Bitcoin plan, korak po korak.
+Dobrodošli u BTC102! Ako ste već završili BTC101, istražili ste ključne teorijske koncepte zašto je Bitkoin tako revolucionarna tehnologija. Sada, uz BTC102, vreme je da to znanje primenite u praksi. Ovaj kurs je osmišljen da vam pomogne da izgradite svoj lični Bitkoin plan, korak po korak.
 
 
-U narednim poglavljima, vodićemo vas kroz praktične korake kako **dobiti svoje prve bitkoine**, **sigurno** ih zaštititi i sa samopouzdanjem napraviti prve korake u ovom brzo rastućem ekosistemu.
+U narednim poglavljima, vodićemo vas kroz praktične korake kako **nabavite svoje prve bitkoine**, kako da ih pravilno **obezbedite** i kako da sa samopouzdanjem zakoračite u ovaj brzo rastući ekosistem.
 
 
 https://planb.academy/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 
-Iako Bitcoin postoji više od 16 godina, industrija je i dalje mlada, dinamična i duboko ukorenjena u slobodi. Njegov osnovni protokol je potpuno decentralizovan i otporan na kontrolu bilo koje centralne vlasti, što omogućava ekosistemu da raste na prirodan i organski način.
+Iako Bitkoin postoji više od 16 godina, industrija je i dalje mlada, dinamična i duboko ukorenjena u slobodi. Njegov osnovni protokol je potpuno decentralizovan i otporan na kontrolu bilo koje centralne vlasti, što omogućava ekosistemu da raste na prirodan i organski način.
 
 Iako ova sloboda podstiče neverovatan talas inovacija i mogućnosti, ona takođe nosi određene rizike, uključujući prevare, uobičajene greške i zamke koje često proizlaze iz nedostatka znanja. Glavni cilj ovog kursa je da vam pomogne da se krećete kroz ovaj novi ekosistem sa samopouzdanjem i sigurnošću.
 
 
-Da bi se to postiglo, kurs BTC102 je podeljen u nekoliko sekcija, od kojih se svaka fokusira na ključni aspekt vašeg putovanja sa Bitcoin:
+Da bi se to postiglo, kurs BTC102 je podeljen u nekoliko sekcija, od kojih se svaka fokusira na ključni aspekt vašeg Bitkoin putovanja:
 
 
-Prvi deo, "Preduslovi za razumevanje Bitcoin", efikasno vas priprema za put koji je pred vama. Naučićete kako da prepoznate glavne zamke povezane sa prevarama i finansijskim prevarama koje mogu postojati u ekosistemu Bitcoin. Zatim ćemo pokriti osnovne osnove online bezbednosti.
+Prvi deo, "Preduslovi za razumevanje Bitkoina", efikasno vas priprema za put koji je pred vama. Naučićete kako da prepoznate glavne zamke povezane sa prevarama i finansijskim prevarama koje mogu postojati u Bitkoin ekosistemu. Zatim ćemo pokriti osnovne osnove online bezbednosti.
 
-Konačno, daću vam nekoliko praktičnih saveta posebno dizajniranih za početnike kako biste izbegli uobičajene greške prilikom prvog rada sa Bitcoin.
+Na kraju, daću vam nekoliko praktičnih saveta posebno osmišljenih za početnike kako biste izbegli uobičajene greške prilikom prvog dodira sa Bitkoinom.
 
 
 ![image](assets/sr-Latn/001.webp)
 
 
-Drugi deo, "Razumevanje u šta se upuštate", produbiće vaše ukupno razumevanje Bitcoin. Počećemo sa pregledom kako bismo osigurali da u potpunosti razumete osnovne pojmove.
+Drugi deo, "Razumevanje u šta se upuštate", produbiće vaše ukupno razumevanje Bitkoina. Počećemo sa pregledom kako bismo osigurali da u potpunosti razumete osnovne pojmove.
 
-Zatim ćemo objasniti zašto je Bitcoin fundamentalno važan sa tehnološke, ekonomske i društvene perspektive, jačajući vaša uverenja u njegovu vrednost. Takođe ćete istražiti Bitcoin industriju u celini: njene ključne igrače, njenu organizaciju i njen razvoj tokom godina. Na kraju, pokrićemo slojevitu arhitekturu Bitcoin ekosistema, ključni koncept za razumevanje kako ovaj sistem nastavlja da inovira bez kompromitovanja integriteta svog osnovnog protokola.
+Zatim ćemo objasniti zašto je Bitkoin fundamentalno važan sa tehnološke, ekonomske i društvene perspektive, jačajući vaša uverenja u njegovu vrednost. Takođe ćete istražiti Bitkoin industriju u celini: njene ključne aktere, njenu organizaciju i njen razvoj tokom godina. Na kraju, pokrićemo slojevitu arhitekturu Bitkoin ekosistema, ključni koncept za razumevanje kako ovaj sistem nastavlja da inovira bez kompromitovanja integriteta svog osnovnog protokola.
 
 
 ![image](assets/sr-Latn/002.webp)
 
 
-Treći deo, „Postavljanje vašeg plana“, fokusira se na vaš lični pristup Bitcoin. Počećemo tako što ćemo vam pomoći da definišete vaš korisnički profil iz četiri glavne kategorije:
+Treći deo, „Postavljanje vašeg plana“, fokusira se na vaš lični pristup Bitkoinu. Počećemo tako što ćemo vam pomoći da definišete vaš korisnički profil iz četiri glavne kategorije:
 
 
 
-- **hodler**, fokusiran na dugoročno držanje Bitcoin ;
-- **stacker**, koji kupuje redovno i metodično;
-- **korisnik**, koji daje prioritet korišćenju Bitcoin svakodnevno;
-- i na kraju *paranoični*, koji želi maksimalnu sigurnost kako bi efikasno zaštitio svoju imovinu i privatnost.
+- **držalac**, fokusiran na dugoročno držanje bitkoina;
+- **sakupljač, redovni kupac**, koji kupuje redovno i metodično;
+- **korisnik**, koji daje prioritet korišćenju bitcoina svakodnevno;
+- i na kraju **paranoičar**, koji želi maksimalnu sigurnost kako bi efikasno zaštitio svoju imovinu i privatnost.
 
 
 Provešćemo vas kroz implementaciju strategije koja odgovara vašem profilu i pomaže vam da postignete svoje lične ciljeve.
@@ -89,27 +89,27 @@ Provešćemo vas kroz implementaciju strategije koja odgovara vašem profilu i p
 ![image](assets/sr-Latn/003.webp)
 
 
-Konačno, četvrti deo, "Zaštita vaših naslednika i bogatstva," pokriva ključnu temu koja se često zanemaruje: kako osigurati da vaš Bitcoin bude prenesen vašim voljenima u slučaju neočekivanog događaja. Naučićete kako da kreirate i postavite Bitcoin plan nasledstva, osiguravajući očuvanje vašeg bogatstva i nakon vašeg života.
+Konačno, četvrti deo, "Zaštita vaših naslednika i imovine," pokriva ključnu temu koja se često zanemaruje: kako osigurati da vaš bitkoin bude prenet vašim voljenima u slučaju neočekivanog događaja. Naučićete kako da kreirate i postavite Bitcoin plan nasledstva, osiguravajući očuvanje vašeg bogatstva i nakon vašeg života.
 
 
 ![image](assets/sr-Latn/004.webp)
 
 
-Do kraja ovog kursa, imaćete sve praktične alate koji su vam potrebni da sa samopouzdanjem upravljate Bitcoin ekosistemom i postanete jedan od njegovih najnaprednijih korisnika!
+Do kraja ovog kursa, imaćete sve praktične alate koji su vam potrebni da sa samopouzdanjem upravljate Bitkoin ekosistemom i postanete jedan od njegovih najnaprednijih korisnika!
 
 
-Spremni da započnete svoje putovanje u svet Bitcoin? Krenimo!
+Spremni da započnete svoje putovanje u svet Bitkoina? Krenimo!
 
 
-**Napomena**: Ako tokom kursa naiđete na nepoznate termine, molimo vas da pogledate [glosar](https://planb.academy/resources/glossary) za definicije.
+**Napomena**: Ako tokom kursa naiđete na nepoznate termine, molimo vas da pogledate [rečnik](https://planb.academy/resources/glossary) za definicije.
 
-# Preduslovi za razumevanje Bitcoin
+# Preduslovi za razumevanje Bitkoina
 
 
 <partId>4481fc4b-0f83-489e-ad07-81517c5d6bad</partId>
 
 
-## Prevare i finansijske prevare
+## Prevare i finansijske obmane
 
 
 <chapterId>8af2948b-2ab5-54c4-862c-3414b8a285a2</chapterId>
@@ -118,32 +118,32 @@ Spremni da započnete svoje putovanje u svet Bitcoin? Krenimo!
 :::video id=9f3a7b2e-2c4d-4c1e-8b1f-3a2c1d4e5f6a:::
 
 
-Ekosistem Bitcoin i njegova okolina su još uvek relativno mladi i slabo regulisani, u zavisnosti od zemlje. Iako ova sloboda otvara velike mogućnosti, takođe stvara plodno tlo za finansijske prevare, prevare i razne oblike manipulacije. Zato je prvo poglavlje toliko ključno: razumevanje uobičajenih zamki pomoći će vam da ih izbegnete. Vaša finansijska sigurnost je prioritet jer loše iskustvo ne utiče samo na vas, već i na celu Bitcoin zajednicu.
+Bitkoin ekosistem i njegova okolina su još uvek relativno mladi i slabo regulisani, u zavisnosti od zemlje. Iako ova sloboda otvara velike mogućnosti, takođe stvara plodno tlo za finansijske prevare, obmane i razne oblike manipulacije. Zato je prvo poglavlje toliko ključno: razumevanje uobičajenih zamki pomoći će vam da ih izbegnete. Vaša finansijska sigurnost je prioritet jer loše iskustvo ne utiče samo na vas, već i na celu Bitkoin zajednicu.
 
 
-### Bitcoin vs cryptos: razumevanje razlika
+### Bitkoin vs. kriptovalute: razumevanje razlika
 
 
 Pre nego što nastavimo dalje, važno je jasno razlikovati dva suštinski različita sveta:
 
 
 
-- **Ekosistem Bitcoin** je usredsređen na ideju zdravog novca, izgrađenog na snažnoj decentralizaciji, dugoročnoj otpornosti, privatnosti i individualnom suverenitetu. Od svog lansiranja 2009. godine, Bitcoin funkcioniše pouzdano i sigurno, podržan od strane globalne, posvećene zajednice programera. To nije prolazni trend, već stabilan i dobro uspostavljen protokol dizajniran da očuva vrednost tokom vremena.
+- **Bitcoin Ekosistem** je usredsređen na ideju zdravog novca, izgrađenog na snažnoj decentralizaciji, dugoročnoj otpornosti, privatnosti i individualnom suverenitetu. Od svog lansiranja 2009. godine, Bitkoin funkcioniše pouzdano i sigurno, podržan od strane globalne, posvećene zajednice programera. To nije prolazni trend, već stabilan i dobro uspostavljen protokol dizajniran da očuva vrednost tokom vremena.
 
 
 
-- **Industrija kriptovaluta**, s druge strane, mnogo je veća i uključuje desetine hiljada različitih projekata, svaki sa svojim token. Ovaj prostor često pokreću brze inovacije, hajp i kratkoročne finansijske spekulacije. Mnogi od ovih projekata su centralizovani, manje sigurni i ne nude mnogo stvarne vrednosti—uprkos smelim obećanjima i blještavom marketingu.
+- **Industrija kriptovaluta**, s druge strane, mnogo je veća i uključuje desetine hiljada različitih projekata, od kojih svaki ima sopstveni token.  Ovaj prostor često pokreću brze inovacije, hajp(medijska buka) i kratkoročne finansijske spekulacije. Mnogi od ovih projekata su centralizovani, manje sigurni i ne nude mnogo stvarne vrednosti—uprkos smelim obećanjima i upadljivom marketingu.
 
 
 ![image](assets/sr-Latn/005.webp)
 
 
-Ako želite bolje razumeti odakle dolazi Bitcoin i šta ga zaista čini drugačijim od drugih projekata, preporučujem da kasnije pogledate ovaj besplatni prateći kurs o istoriji Bitcoin:
+Ako želite bolje razumeti odakle dolazi Bitkoin i šta ga zaista čini drugačijim od drugih projekata, preporučujem da kasnije pogledate ovaj besplatni prateći kurs o istoriji Bitkoina:
 
 
 https://planb.academy/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 
-Kao što znate, platforma Plan ₿ Academy je isključivo posvećena Bitcoin. Međutim, razumevanje razlike u odnosu na druge kriptovalute pomoći će vam da izbegnete zamke povezane sa beskorisnim, a ponekad čak i prevarantskim projektima.
+Kao što znate, platforma Plan ₿ Academy je isključivo posvećena Bitkoinu. Međutim, razumevanje razlike u odnosu na druge kriptovalute pomoći će vam da izbegnete zamke povezane sa beskorisnim, a ponekad čak i prevarantskim projektima.
 
 
 ![image](assets/sr-Latn/006.webp)
@@ -158,7 +158,7 @@ Evo najčešćih prevara na koje možete naići na svom putovanju:
 #### Piramidalne šeme i Ponzi šeme
 
 
-Ovo su neke od najčešćih prevara u svetu kriptovaluta. U Ponzijevoj šemi, rani učesnici dobijaju isplate koristeći novac od novijih; ne iz bilo kakve stvarne investicije ili proizvoda. Ne stvara se stvarna vrednost. Sistem funkcioniše samo dok se novi ljudi pridružuju. Kada se priliv novih učesnika uspori, cela šema se raspada.
+Ovo su neke od najčešćih prevara u svetu kriptovaluta. U Ponzi šemi, rani učesnici dobijaju isplate koristeći novac od novih učesnika; ne iz bilo kakve stvarne investicije ili proizvoda. Ne stvara se nikakva stvarna vrednost. Sistem funkcioniše samo dok se novi ljudi pridružuju. Kada se priliv novih učesnika uspori, cela šema se raspada.
 
 
 ![image](assets/sr-Latn/007.webp)
@@ -174,13 +174,13 @@ Ove prevare obično sadrže :
 - Potpuni nedostatak transparentnosti o pravom izvoru obećanih povrata.
 
 
-Na kraju, sve piramidalne i Ponzi šeme su osuđene na propast. Njihova osnovna slabost leži u konstantnoj potrebi za dovođenjem novih investitora kako bi se isplatile zarade ranijim učesnicima. Ova potreba postaje matematički neodrživa tokom vremena jer broj novih regruta koji su potrebni eksponencijalno raste kako sistem raste. Kada se dostigne kritična tačka, učesnici počinju da sumnjaju, poverenje nestaje, i cela piramida se urušava. U ovoj fazi, poslednji ljudi koji se pridruže, često najmanje informisani, gube celu svoju investiciju bez mogućnosti da je povrate, dok organizatori ili rani investitori obično već povuku svoja sredstva i napuste sistem.
+Na kraju, sve piramidalne i Ponzi šeme su osuđene na propast. Njihova osnovna slabost leži u konstantnoj potrebi za dovođenjem novih investitora kako bi se isplatile zarade ranijim učesnicima. Ova potreba postaje matematički neodrživa tokom vremena, jer broj novih regruta mora eksponencijalno da raste kako sistem raste. Kada se dostigne kritična tačka, učesnici počinju da sumnjaju, poverenje nestaje, i cela piramida se urušava. U ovoj fazi, poslednji ljudi koji se pridruže, često najmanje informisani, gube celu svoju investiciju bez mogućnosti da je povrate, dok organizatori ili rani investitori obično već povuku svoja sredstva i napuste sistem.
 
 
-U svetu kriptovaluta, Ponzi šeme mogu poprimiti mnoge oblike, često dizajnirane da prikriju svoju prevarantsku prirodu iza tehnološke ili finansijske maske. Ove prevare mogu izgledati kao nove token ponude ili Početne Ponude Kovanica (ICOs), koje su operacije prikupljanja sredstava gde se nova kriptovaluta prodaje javnosti. Iza tehničkih termina kao što su "Blockchain," "pametni ugovori," ili "staking," neki projekti zapravo kriju složene piramidalne šeme. Drugi tvrde da nude visoke prinose kombinovanjem sumnjivih kripto-imovina sa sistemima kompenzacije koji se u potpunosti oslanjaju na kontinuirani priliv novih investitora.
+U svetu kriptovaluta, Ponzi šeme mogu poprimiti mnoge oblike, često dizajnirane da prikriju svoju prevarantsku prirodu iza tehnološke ili finansijske maske. Ove prevare mogu izgledati kao nove token ponude ili Početne Ponude Kovanica (ICO-Initial Coin Offerings), što su operacije prikupljanja sredstava gde se nova kriptovaluta prodaje javnosti. Iza tehničkih termina kao što su "Blockchain," "pametni ugovori," ili "staking," neki projekti zapravo kriju složene piramidalne šeme. Drugi tvrde da nude visoke prinose kombinovanjem sumnjivih kripto-imovina sa sistemima kompenzacije koji se u potpunosti oslanjaju na kontinuirani priliv novih investitora.
 
 
-U novije vreme, Ponzi šeme su se takođe proširile u svet decentralizovanih finansija (DeFi). Iako je DeFi namenjen pružanju finansijskih usluga bez posrednika, neki projekti ga koriste da bi svojim prevarama dali lažni osećaj legitimnosti. Određene DeFi platforme obećavaju visoke, zagarantovane prinose u Exchange za kripto depozite u automatizovane protokole. Ova privlačna obećanja često su podržana netransparentnim i neproverljivim mehanizmima, sa tokenima kreiranim specifično za prevaru. U stvarnosti, ovi sistemi nemaju održiv poslovni model—prinosi se jednostavno isplaćuju iz sredstava novih korisnika, baš kao u tradicionalnoj Ponzi šemi. Kada poverenje počne da slabi ili priliv novih učesnika uspori, ovi sistemi neizbežno kolabiraju, što dovodi do značajnih gubitaka za nesvesne investitore.
+U novije vreme, Ponzi šeme su se takođe proširile u svet decentralizovanih finansija (DeFi). Iako je DeFi namenjen pružanju finansijskih usluga bez posrednika, neki projekti ga koriste da bi svojim prevarama dali lažni osećaj legitimnosti. Određene DeFi platforme obećavaju visoke, zagarantovane prinose u zamenu za kripto depozite u automatizovane protokole. Ova privlačna obećanja često su podržana netransparentnim i neproverljivim mehanizmima, sa tokenima kreiranim specifično za prevaru. U stvarnosti, ovi sistemi nemaju održiv poslovni model—prinosi se jednostavno isplaćuju iz sredstava novih korisnika, baš kao u tradicionalnoj Ponzi šemi. Kada poverenje počne da slabi ili priliv novih učesnika uspori, ovi sistemi se neizbežno urušavaju, što dovodi do značajnih gubitaka za nesumnjičave investitore.
 
 
 Imajte na umu da je sadržaj ovog kursa namenjen isključivo u obrazovne svrhe i ne treba ga tumačiti kao finansijski savet. Vaša finansijska sigurnost zavisi od vaše sposobnosti da ostanete oprezni, skeptični i dobro informisani prilikom svake finansijske odluke koju donesete.
@@ -198,9 +198,9 @@ Ova vrsta prevare uključuje veštačko naduvavanje cene imovine—često kripto
 
 
 - Grupa insajdera ili uticajnih figura tiho akumulira veliku količinu ciljanog sredstva.
-- Zatim pokreću agresivnu promotivnu kampanju kako bi generate podigli hajp i povećali cenu.
-- Šira javnost, vođena FOMO-om (strah od propuštanja), počinje masovno kupovati imovinu, gurajući cenu još više.
-- Na vrhuncu hajpa, insajderi odjednom rasprodaju svoje deonice.
+- Zatim pokreću agresivnu promotivnu kampanju kako bi stvorili hajp i povećali cenu.
+- Šira javnost, vođena FOMO (Fear of Missing Out) efektom (strah od propuštanja prilike), počinje masovno kupovati imovinu, dodatno podižući cenu.
+- Na vrhuncu hajpa, insajderi odjednom rasprodaju svoja sredstva.
 - Cena pada, ostavljajući one koji su zakasnili sa velikim gubicima.
 
 
@@ -209,16 +209,16 @@ Ova vrsta prevare uključuje veštačko naduvavanje cene imovine—često kripto
 ![image](assets/sr-Latn/008.webp)
 
 
-Važno je napomenuti da su strategije Pump & Dump ilegalne u mnogim zemljama i smatraju se oblikom tržišne manipulacije. Uprkos tome, takve šeme i dalje cvetaju, posebno u prostoru kriptovaluta, gde regulativa još uvek sustiže.
+Važno je napomenuti da su strategije Pump & Dump ilegalne u mnogim zemljama i smatraju se oblikom tržišne manipulacije. Uprkos tome, takve šeme i dalje cvetaju, posebno u prostoru kriptovaluta, gde regulativa još uvek sustiže praksu.
 
 
-Budite posebno oprezni sa privatnim "signal" grupama na platformama kao što su Telegram, Discord ili drugi kanali društvenih medija. Ove grupe često vode influenseri ili samoproglašeni stručnjaci, od kojih neki čak naplaćuju ulazne naknade. Iako ove grupe tvrde da nude ekskluzivne investicione prilike, stvarnost je mnogo jednostranija: samo organizatori profitiraju, dok većina učesnika na kraju izgubi svoj novac.
+Budite posebno oprezni sa privatnim "signal" grupama na platformama kao što su Telegram, Discord ili druge društvene mreže. Ove grupe često vode influenseri ili samoproglašeni stručnjaci, od kojih neki čak naplaćuju članarinu. Iako ove grupe tvrde da nude ekskluzivne investicione prilike, stvarnost je mnogo jednostranija: samo organizatori profitiraju, dok većina učesnika na kraju izgubi svoj novac.
 
 
 ![image](assets/sr-Latn/009.webp)
 
 
-Istina je da neki učesnici mogu privremeno profitirati od ovakvih vrsta manipulacija tržištem, ali njihov uspeh je obično zasnovan na ničemu više osim na sreći i savršenom tajmingu. Na duže staze, ovi šematski planovi nisu održivi. Oni zahtevaju konstantno uključivanje u visokorizične aktivnosti i ponovljeno učešće u prevarantskim postavkama koje neizbežno propadaju.
+Istina je da neki učesnici mogu privremeno profitirati od ovakvih vrsta manipulacija tržištem, ali njihov uspeh se obično zasniva isključivo na sreći i savršenom tajmingu. Na duže staze, ovi šematski planovi nisu održivi. Oni zahtevaju konstantno uključivanje u visokorizične aktivnosti i ponovljeno učešće u prevarantskim postavkama koje neizbežno propadaju.
 
 
 Još gore, oni doprinose opasnoj iluziji: verovanju da je moguće brzo i lako zaraditi novac bez razumevanja kako finansijski sistemi zapravo funkcionišu. Ovakav način razmišljanja ne samo da dovodi pojedince u rizik, već i podriva kredibilitet celokupnog ekosistema kriptovaluta.
@@ -226,61 +226,61 @@ Još gore, oni doprinose opasnoj iluziji: verovanju da je moguće brzo i lako za
 
 Iz svih ovih razloga, najbolja strategija je pridržavati se ozbiljnog, promišljenog pristupa ulaganju, onog koji je zasnovan na finansijskom obrazovanju, čvrstom razumevanju osnova i dugoročnoj perspektivi.
 
-Strpljivim izgrađivanjem svog znanja, bićete daleko manje podložni emocionalnoj manipulaciji i nerealnim obećanjima; i mnogo bolje opremljeni da izbegnete vrstu finansijskih zamki koje mogu dovesti do stvarnih gubitaka.
+Strpljivim građenjem znanja, bićete daleko manje podložni emocionalnoj manipulaciji i nerealnim obećanjima; i mnogo bolje opremljeni da izbegnete finansijske zamke koje mogu dovesti do stvarnih gubitaka.
 
 
-#### Donacije, Lutrija i Lažne Nagradne Igre Prevare
+#### Prevare sa donacijama, lutrijama i lažnim poklonima
 
 
-Ova vrsta prevare obećava besplatne Bitcoin ili druge nagrade u Exchange ako prvo pošaljete malu sumu novca. Važno je zapamtiti: nijedna legitimna osoba ili organizacija nikada neće tražiti od vas da unapred pošaljete kriptovalutu uz obećanje da će vam poslati više zauzvrat.
+Ova vrsta prevare obećava besplatne bitkoine ili druge nagrade u zamenu za to da vi prvo pošaljete malu sumu novca. Važno je zapamtiti: nijedna legitimna osoba ili organizacija nikada neće tražiti od vas da unapred pošaljete kriptovalutu uz obećanje da ćete zauzvrat dobiti više.
 
 
-Prevaranti često imitiraju poznate javne ličnosti(poput Elona Muska ili drugih poznatih osoba)kako bi namamili žrtve putem društvenih mreža. Uvek dvaput proverite legitimnost naloga i veb-sajtova pre nego što stupite u interakciju s njima, i nikada ne verujte ponudama koje deluju previše velikodušno ili predobro da bi bile istinite.
+Prevaranti često imitiraju poznate javne ličnosti (poput Elona Muska ili drugih poznatih osoba) kako bi namamili žrtve putem društvenih mreža. Uvek dvaput proverite legitimnost naloga i veb-sajtova pre nego što stupite u interakciju s njima, i nikada ne verujte ponudama koje deluju previše velikodušno ili predobro da bi bile istinite.
 
 
-Ponekad se ove prevare pojavljuju kao prevare sa "avansnom naknadom". Obećava vam se nagrada ili nagrada (novac, proizvod ili usluga), ali se prvo traži da platite naknadu, navodno da pokrijete stvari kao što su dostava, porezi ili troškovi transakcije. Kada se uplata izvrši, prevarant nestaje, a obećana nagrada nikada ne stiže.
+Ponekad se ove prevare pojavljuju kao prevare sa "avansnom naknadom". Obećava vam se nagrada (novac, proizvod ili usluga), ali se prvo traži da platite naknadu, navodno da pokrijete stvari kao što su dostava, porezi ili troškovi transakcije. Kada se uplata izvrši, prevarant nestaje, a obećana nagrada nikada ne stiže.
 
 
 ![image](assets/sr-Latn/010.webp)
 
 
-#### Shitcoins i kriptovalute u ponudi
+#### Shitcoini i kriptovalute koje se nude
 
 
 Centralizovani projekti kripto-valuta ponekad nude besplatne tokene ("*airdrops*") kako bi privukli korisnike. Ovi tokeni obično imaju malu ili nikakvu stvarnu vrednost i uglavnom se koriste za stvaranje iluzije popularnosti ili za podsticanje špekulacija. Budite izuzetno oprezni sa ovakvim vrstama promotivnih ponuda; često su to marketinške zamke, a ne prave prilike.
 
 
-#### Krađa identiteta i fišing
+#### Krađa identiteta i fišing napadi
 
 
-Napadači često koriste lažne veb-sajtove, naloge na društvenim mrežama ili obmanjujuće mejlove kako bi pokušali da ukradu vaša sredstva. Ove prevare mogu doći kroz bilo koji kanal komunikacije: mejl, društvene mreže, telefonski pozivi ili čak tradicionalna pošta...
+Napadači često koriste lažne veb-sajtove, naloge na društvenim mrežama ili obmanjujuće mejlove kako bi pokušali da ukradu vaša sredstva. Ove prevare mogu doći kroz bilo koji kanal komunikacije: mejl, društvene mreže, telefonske pozive ili čak tradicionalnu poštu...
 
 
 Pre nego što kliknete na link ili preduzmete bilo kakvu akciju, uvek dvaput proverite identitet pošiljaoca. Kada ste u nedoumici, posetite sajt ručno umesto da koristite dati link. Najvažnije, nikada ne delite svoje privatne ključeve ili lozinke sa bilo kim.
 
 
-#### Bitcoin Hardforks
+#### Bitcoin Hardfork-ovi
 
 
-Tokom godina, Bitcoin je doživeo nekoliko *Hard forkova*, što je rezultiralo stvaranjem alternativnih verzija originalne kriptovalute. Jednostavno rečeno, *Hard Fork* je podela u mreži koja vodi do dve odvojene blokčejn mreže, obe deleći istu istoriju sve do trenutka podele. Ovi forkovi se obično dešavaju kada deo zajednice programera ili širi Bitcoin ekosistem želi da uvede velike promene u originalni protokol, ali ne može da postigne široki konsenzus. Umesto da odustanu od svojih ideja, odlučuju da pokrenu novu verziju Bitcoin(sa izmenjenim pravilima)u nadi da će korisnici i rudari odlučiti da prate njihov Fork umesto toga.
+Tokom godina, Bitkoin je doživeo nekoliko *Hard forkova*, što je rezultiralo stvaranjem alternativnih verzija originalne kriptovalute. Jednostavno rečeno, *Hard Fork* je podela u mreži koja vodi do dve odvojene blokčejn mreže, obe deleći istu istoriju sve do trenutka podele. Ovi forkovi se obično dešavaju kada deo zajednice programera ili širi Bitkoin ekosistem želi da uvede velike promene u originalni protokol, ali ne može da postigne široki konsenzus. Umesto da odustanu od svojih ideja, odlučuju da pokrenu novu verziju Bitkoina (sa izmenjenim pravilima) u nadi da će korisnici i rudari odlučiti da prate njihov Fork umesto toga.
 
 
 ![image](assets/sr-Latn/011.webp)
 
 
-Nisu sve *Hard vilice* prevarantske, jer neke nastaju zbog tehničkih ili ideoloških neslaganja unutar zajednice. Međutim, druge su vođene komercijalnim interesima ili čak nepoštenim motivima. Najpoznatiji primeri ovih hardforkova su **Bitcoin Cash (BCH)** i **Bitcoin Satoshi Vision (BSV)**. Pokrenuti 2017. i 2018. godine, ove alternativne valute često tvrde da su "bolje verzije" originalnog Bitcoin. Promovišu navodne prednosti kao što su niže naknade za transakcije ili brže transakcije zbog povećanih veličina blokova. Međutim, ove tehničke promene dolaze sa značajnim kompromisima u pogledu sigurnosti, decentralizacije i robusnosti; Elements koji može biti u sukobu sa osnovnim principima Bitcoin.
+Nisu svi *Hard forkovi* prevarantski, jer neki nastaju zbog tehničkih ili ideoloških neslaganja unutar zajednice. Međutim, drugi su vođeni komercijalnim interesima ili čak nepoštenim motivima. Najpoznatiji primeri ovih hardforkova su **Bitcoin Cash (BCH)** i **Bitcoin Satoshi Vision (BSV)**. Pokrenuti 2017. i 2018. godine. Ove alternativne valute često tvrde da su "bolje verzije" originalnog Bitkoina. Promovišu navodne prednosti kao što su niže naknade za transakcije ili bržih transakcija zahvaljujući povećanju veličine blokova. Međutim, ove tehničke promene dolaze sa značajnim kompromisima u pogledu bezbednosti, decentralizacije i robusnosti- elemenata koji mogu biti u sukobu sa osnovnim principima Bitkoina.
 
 
-Iza tehničkih razlika, ove alternativne valute često koriste konfuziju kako bi privukle neinformisane investitore. Mogu koristiti marketinške taktike osmišljene da namerno zavedu novajlije koje veruju da kupuju pravi Bitcoin (BTC).
+Pored tehničkih razlika, ove alternativne valute često koriste zbrku i neinformisanost kako bi privukle neupućene investitore. Mogu primenjivati marketinške taktike osmišljene da namerno zavedu novajlije koje veruju da kupuju pravi bitkoin (BTC).
 
 
-Da biste izbegli upadanje u ovu zamku, uvek proverite valutu koju kupujete. Originalni Bitcoin koristi oznaku **BTC**, dok Bitcoin Cash i njegovi derivati koriste različite akronime, kao što su BCH ili BSV.
+Da biste izbegli upadanje u ovu zamku, uvek proverite valutu koju kupujete. Originalni Bitkoin koristi oznaku **BTC**, dok Bitcoin Cash i njegovi derivati koriste različite akronime, kao što su BCH ili BSV.
 
 
 #### Neiskreni influenseri i lažni gurui
 
 
-Kako kriptovalute dobijaju pažnju glavnog toka, društvene mreže su zabeležile porast influensera, samozvanih stručnjaka i takozvanih "*crypto gurua*". Dok neki mogu ponuditi istinske obrazovne uvide, mnogi drugi koriste svoju vidljivost da promovišu sumnjive projekte ili opasno rizične (a ponekad i potpuno lažne) strategije trgovanja. Ove osobe obično motivišu lični finansijski interesi, često primajući direktnu ili indirektnu naknadu za promociju određenih tokena ili platformi.
+Kako kriptovalute dobijaju sve više pažnje u javnosti, društvene mreže su zabeležile porast influensera, samoproklamovanih stručnjaka i takozvanih "*kripto gurua*". Dok neki mogu ponuditi istinske edukativne uvide, mnogi drugi koriste svoju vidljivost da promovišu sumnjive projekte ili opasno rizične (a ponekad i potpuno lažne) strategije trgovanja. Ove osobe obično motivišu lični finansijski interesi, često primajući direktnu ili indirektnu naknadu za promociju određenih tokena ili platformi.
 
 
 ![image](assets/sr-Latn/012.webp)
@@ -292,7 +292,7 @@ Ovi influenseri često se oslanjaju na proverene taktike kako bi privukli počet
 Važno je razumeti da većina "besplatnih" saveta od ovih ličnosti nikada nije zaista besplatna. Iza fasade velikodušnosti često se krije proračunata strategija da se ljudi usmere ka kupovini sumnjivih sredstava. Čak i ako su neki influenseri iskreni, repliciranje njihovih rezultata bilo bi gotovo nemoguće; njihov uspeh često zavisi od specifičnog tajminga, insajderskog znanja ili jedinstvenih okolnosti kojima jednostavno nemate pristup.
 
 
-Neki influenseri mogu vas pozvati da se pridružite privatnim, plaćenim grupama gde tvrde da dele ekskluzivne signale za trgovanje ili insajderske savete koji obećavaju brzu i laku zaradu. U stvarnosti, ove grupe uglavnom koriste organizatori sami. Često koriste svoje pratioce kao izvor likvidnosti, suštinski prebacujući imovinu za ličnu korist. Pretplatnici obično završe gubeći novac, jer nisu u mogućnosti da reaguju tako brzo kao insajderi koji orkestriraju trgovine (pogledajte odeljak o Pump & Dump šemama).
+Neki influenseri mogu vas pozvati da se pridružite privatnim, plaćenim grupama gde tvrde da dele ekskluzivne signale za trgovanje ili insajderske savete koji obećavaju brzu i laku zaradu. U stvarnosti, ove grupe uglavnom koriste svoje pratioce kao izvor likvidnosti, praktično prebacujući imovinu za ličnu korist. Pretplatnici obično završe gubeći novac, jer nisu u mogućnosti da reaguju tako brzo kao insajderi koji orkestriraju trgovine (pogledajte odeljak o Pump & Dump šemama).
 
 
 U svetlu ove realnosti, evo nekoliko dobrih navika koje treba usvojiti kako biste izbegli upadanje u zamke koje postavljaju nepošteni influenseri:
@@ -311,19 +311,19 @@ Mnogi od ovih kurseva promovišu rizične ili previše pojednostavljene strategi
 
 - Ne postoji zagarantovan način da kopirate nečije trgovine i dobijete identične rezultate.
 
-Svaka investiciona strategija zavisi od ličnog konteksta, vremena, znanja i drugih faktora koji se ne mogu tačno duplicirati.
+Svaka investiciona strategija zavisi od ličnog konteksta, vremena, znanja i drugih faktora koji se ne mogu tačno ponoviti.
 
 
 - Posebno budite oprezni prema savetima koji zvuče previše dobro da bi bili istiniti.
 
-Nerealna obećanja ili zagarantovani profiti su gotovo uvek znakovi manipulacije. Zapamtite: samo zato što neko nešto kaže sa sigurnošću, ne znači da je to istina.
+Nerealna obećanja ili zagarantovani profiti su gotovo uvek znakovi manipulacije. Zapamtite: samo zato što neko govori samouvereno ne znači da je istina.
 
 
-Uvek zapamtite, svako koga sretnete u Bitcoin ili širem kripto ekosistemu ima ličnu agendu; bilo da je jasno izražena ili skrivena između redova. Ne postoji nešto kao potpuno neutralna informacija. Čak i ovaj kurs, BTC102, ima jasan cilj, *da promoviše bolje razumevanje Bitcoin.*
+Uvek zapamtite, svako koga sretnete u Bitkoin ili širem kripto ekosistemu ima lične interese- bilo da su jasno izraženi ili skriveni između redova. Ne postoji nešto kao potpuno neutralna informacija. Čak i ovaj kurs, BTC102, ima jasan cilj, *da promoviše bolje razumevanje Bitkoina.*
 
 Zato je važno biti svestan pravih motiva iza svakog sadržaja koji konzumirate. I nikada ne zaboravite ovo zlatno pravilo interneta:
 
-*Ako proizvod ili usluga deluju besplatno, verovatno ste vi proizvod.*
+*Ako proizvod ili usluga deluju besplatno, velika je verovatnoća ste vi proizvod.*
 
 
 U konačnici, vaša najbolja odbrana je lično obrazovanje, zdravi skepticizam i što je najvažnije, navika da sami proveravate činjenice.
