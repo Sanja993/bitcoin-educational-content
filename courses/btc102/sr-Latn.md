@@ -332,17 +332,17 @@ U konačnici, vaša najbolja odbrana je lično obrazovanje, zdravi skepticizam i
 ### Kako izbeći prevare
 
 
-**Da biste ostali bezbedni na mreži, posebno u svetu kripta, imajte na umu ove ključne principe:**
+**Da biste ostali bezbedni na internetu, posebno u svetu kriptovaluta, imajte na umu ova ključna pravila:**
 
 
 
 - Nikad ne veruj slepo: "*Ne veruj, proveri*" ;
 - Budite skeptični prema zagarantovanim ili neuobičajeno visokim prinosima;
 - Nikada ne delite svoje privatne ključeve ni sa kim;
-- Ne šaljite Bitcoin (ili bilo koju kriptovalutu) na nepoznate adrese;
-- Ako ste u nedoumici, zastanite. Odmaknite se i razmislite pre nego što preduzmete akciju. FOMO je vaš najgori neprijatelj;
-- Izbegavajte plaćene trgovačke grupe ili zajednice koje daju nerealna obećanja;
-- Većina poklanjanja ili "besplatnih" lutrija na internetu su prevare ili su jako nameštene;
+- Ne šaljite Bitkoin (ili bilo koju kriptovalutu) na nepoznate adrese;
+- Ako ste u nedoumici, zastanite. Razmislite pre nego što preduzmete akciju. FOMO je vaš najgori neprijatelj;
+- Izbegavajte plaćene grupe za trgovanje ili zajednice koje daju nerealna obećanja;
+- Većina nagradnih igara ili "besplatnih" lutrija na internetu su prevare ili su jako nameštene;
 - Uvek ćeš dugoročno više dobiti učenjem nego kockanjem.
 
 
@@ -358,13 +358,13 @@ Zaštita od prevara je ključni prvi korak u očuvanju vaše imovine; ali to nij
 :::video id=2a1b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d:::
 
 
-Čim počnete ulaziti u Bitcoin, brzo ćete shvatiti da osnovna sajber bezbednost nije opcionalna—ona je esencijalna. Prevare i obmane su samo vrh ledenog brega. Slučajni gubitak podataka, malver i kompromitovane lozinke mogu biti jednako razorni, posebno kada sami upravljate svojim ključevima.
+Čim počnete ulaziti u Bitkoin, brzo ćete shvatiti da osnovna sajber bezbednost nije opcionalna— ona je neophodna. Prevare i obmane su samo vrh ledenog brega. Slučajni gubitak podataka, malver i kompromitovane lozinke mogu biti jednako pogubni, posebno kada sami upravljate svojim ključevima.
 
 
 Ovo poglavlje vas vodi kroz nekoliko jednostavnih, praktičnih koraka kako biste unapredili svoju digitalnu higijenu i zaštitili se u digitalnom prostoru.
 
 
-Ako želite da idete dublje, Plan ₿ Academy-ov kurs SEC101 nudi sveobuhvatan pregled strategija sajber bezbednosti posebno dizajniranih za korisnike Bitcoin.
+Ako želite da saznate više, kurs SEC101 na Plan ₿ Academy-ji nudi sveobuhvatan pregled strategija sajber bezbednosti posebno dizajniranih za korisnike Bitkoina.
 
 
 https://planb.academy/courses/99c46148-7080-4915-a7e0-9df0e145cd47
@@ -372,10 +372,10 @@ https://planb.academy/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 ### Zašto je sajber bezbednost važna
 
 
-Bitcoin vam daje moć da držite svoj novac direktno(bez banaka), bez posrednika. Ali takav nivo finansijskog suvereniteta dolazi sa ozbiljnom odgovornošću: ako vaš BTC bude ukraden zbog sigurnosnog propusta, ne postoji način da se transakcija poništi. Za razliku od tradicionalnog bankarstva, nema službe za pomoć, nema zahteva za prevaru i nema osiguranja koje će vas spasiti.
+Bitkoin vam daje moć da čuvate svoj novac sami (bez banaka), bez posrednika. Ali takav nivo finansijskog suvereniteta dolazi sa ozbiljnom odgovornošću: ako vaš BTC bude ukraden zbog sigurnosnog propusta, ne postoji način da se transakcija poništi. Za razliku od tradicionalnog bankarstva, nema korisničke podrške, nema prijave prevare i nema osiguranja koje će vas spasiti.
 
 
-Povrh toga, finansijska vrednost Bitcoin čini ga ciljem visoke vrednosti. Haker koji kompromituje vaš Wallet može trenutno prebaciti vaša sredstva na Address koji kontrolišu (bez pitanja, nema načina da ih vratite).
+Pored toga, finansijska vrednost Bitkoina čini ga metom visoke vrednosti. Haker koji kompromituje vaš novčanik može trenutno prebaciti vaša sredstva na adresu koji kontroliše (bez pitanja, bez mogućnosti da ih vratite).
 
 
 ### Čist, ažuriran računar
@@ -384,7 +384,7 @@ Povrh toga, finansijska vrednost Bitcoin čini ga ciljem visoke vrednosti. Haker
 Jedan od najčešće zanemarenih aspekata lične sigurnosti je ažuriranje operativnog sistema i softvera. Mnoge nadogradnje ispravljaju poznate ranjivosti koje bi inače mogle biti iskorišćene od strane napadača. Dok neki ljudi izbegavaju ažuriranja zbog straha od problema sa performansama, pravi rizik leži u korišćenju zastarelog softvera za koji hakeri već znaju kako da ga probiju.
 
 
-Takođe se toplo preporučuje korišćenje pouzdanog antivirusa. Na Windows-u, ugrađeni Windows Defender je generalno dovoljan za većinu korisnika. Ako preferirate dodatne funkcije ili mir, komercijalne opcije kao što je Kaspersky su takođe dostupne. Na macOS-u, pretnje od malvera su istorijski ređe **ali ne i nepostojeće** tako da je i dalje pametno biti oprezan.
+Takođe se toplo preporučuje korišćenje pouzdanog antivirusa. Na Windows-u, ugrađeni Windows Defender je generalno dovoljan za većinu korisnika. Ako preferirate dodatne funkcije ili osećaj sigurnosti, komercijalne opcije kao što je Kaspersky su takođe dostupne. Na macOS-u, pretnje malverom su istorijski ređe **ali nisu i nepostojeće** tako da je i dalje pametno biti oprezan.
 
 
 ![image](assets/sr-Latn/013.webp)
@@ -397,7 +397,7 @@ Još jedna pametna navika je da proverite autentičnost i integritet bilo kog so
 
 https://planb.academy/tutorials/computer-security/data/integrity-authenticity-21d0420a-be02-4663-94a3-8d487f23becc
 
-Konačno, redovno pravite rezervne kopije svojih važnih podataka. Spoljni Hard drajv ili SSD je solidna opcija za čuvanje duplikata vaših fajlova u slučaju iznenadnog kvara, hakovanja ili slučajnog brisanja. Bićete zahvalni sebi kasnije.
+Na kraju, redovno pravite rezervne kopije svojih važnih podataka. Eksterni Hard disk ili SSD su solidna opcija za čuvanje kopije vaših fajlova u slučaju iznenadnog kvara, hakovanja ili slučajnog brisanja. Bićete zahvalni sebi kasnije.
 
 
 Ako preferirate cloud rešenja, razmislite o korišćenju sigurne usluge kao što je Proton Drive. Samo se uverite da opcija koju izaberete poštuje vašu privatnost i nudi jaku enkripciju.
@@ -405,14 +405,14 @@ Ako preferirate cloud rešenja, razmislite o korišćenju sigurne usluge kao št
 
 https://planb.academy/tutorials/computer-security/data/proton-drive-03cbe49f-6ddc-491f-8786-bc20d98ebb16
 
-Široko preporučena strategija bekapa je pravilo "3-2-1". Dizajnirana je da zaštiti vaše podatke od slučajnog gubitka, sajber napada ili čak prirodnih katastrofa.
+Široko preporučena strategija backup-a (rezervne kopije) je pravilo "3-2-1". Dizajnirana je da zaštiti vaše podatke od slučajnog gubitka, sajber napada ili čak prirodnih katastrofa.
 
 Ideja je jednostavna:
 
 
 - Čuvajte **najmanje 3 kopije** vaših važnih podataka,
 - Skladištite ih na **najmanje 2 različite vrste medija** (npr., eksterni Hard disk i skladište u oblaku),
-- I obavezno **1 od tih kopija čuvajte van lokacije** (fizički odvojeno od vaše glavne lokacije).
+- I obavezno **1 od tih kopija čuvajte van lokacije** (fizički odvojena od vaše glavne lokacije).
 
 
 Ovaj pristup nudi snažnu otpornost i pomaže da se osigura da vaši podaci prežive čak i ako nešto ozbiljno pođe po zlu.
@@ -430,12 +430,12 @@ Jedan od najvećih razloga zašto ljudi bivaju hakovani je korišćenje slabih l
 Menadžer lozinki vam omogućava da:
 
 
-- **Čuvajte sve svoje lozinke sigurno** u šifrovanom trezoru
-- generate dugačke, složene i jedinstvene lozinke automatski za svaki nalog
+- **Čuvajte sve svoje lozinke bezbedno** u šifrovanom trezoru
+- automatski generišete dugačke, složene i jedinstvene lozinke za svaki nalog
 - Koristite samo jednu glavnu lozinku, da biste bezbedno pristupili svemu
 
 
-Uz menadžer lozinki, nikada više nećete morati da kliknete na "Zaboravljena lozinka" ili da se oslanjate na slabe, ponovo korišćene akreditive. Pored toga, većina menadžera lozinki se besprekorno sinhronizuje na svim vašim uređajima (desktop, telefon, tablet) i čak automatski popunjava obrasce za prijavu, čineći siguran pristup i lakim i efikasnim.
+Uz menadžer lozinki, nikada više nećete morati da kliknete na "Zaboravljena lozinka" ili da se oslanjate na slabe, ponovo korišćene kredencijale. Pored toga, većina menadžera lozinki se besprekorno sinhronizuje na svim vašim uređajima (desktop, telefon, tablet) i čak automatski popunjava obrasce za prijavu, čineći siguran pristup i lakim i efikasnim.
 
 
 ![image](assets/sr-Latn/015.webp)
@@ -454,13 +454,13 @@ https://planb.academy/tutorials/computer-security/authentication/keepass-f8073bb
 ### 2FA: dupla zaštita
 
 
-U Bitcoin, vi ste svoja banka. To znači da ste i svoj sigurnosni tim. Čak i sa jakom lozinkom, ne postoji nešto kao nulti rizik - zbog čega je omogućavanje dvofaktorske autentifikacije (2FA) neophodno.
+U Bitkoin svetu, vi ste svoja banka. To znači da ste i svoj tim za bezbednost. Čak i sa jakom lozinkom, ne postoji nešto kao nulti rizik - zbog čega je omogućavanje dvofaktorske autentifikacije (2FA) neophodno.
 
 
 ![image](assets/sr-Latn/016.webp)
 
 
-2FA dodaje drugi Layer zaštite zahtevajući vremenski zasnovan jednokratni kod (obično 6 cifara) koji generiše aplikacija kao što su Google Authenticator ili Authy. Dakle, čak i ako neko uspe da dođe do vaše lozinke, i dalje ne može pristupiti vašem nalogu bez fizičkog pristupa vašem telefonu.
+2FA dodaje drugi sloj zaštite zahtevajući vremenski zasnovan jednokratni kod (obično 6 cifara) koji generiše aplikacija kao što je Google Authenticator ili Authy. Dakle, čak i ako neko uspe da dođe do vaše lozinke, i dalje ne može pristupiti vašem nalogu bez fizičkog pristupa vašem telefonu.
 
 
 https://planb.academy/tutorials/computer-security/authentication/authy-a76ab26b-71b0-473c-aa7c-c49153705eb7
@@ -485,12 +485,12 @@ https://planb.academy/tutorials/computer-security/authentication/security-key-61
 Privatnost i sajber bezbednost su usko povezani: što više informacija ostavite slobodno dostupnim, veća je verovatnoća da ćete postati meta.
 
 
-**VPN** (*Virtualna Privatna Mreža*) je jednostavan, ali efikasan korak za maskiranje vašeg IP Address i šifrovanje vašeg internet saobraćaja. Iako vas neće učiniti potpuno nevidljivim (jer provajder VPN-a i dalje može videti vašu aktivnost), značajno otežava svakome ko pokušava da vas špijunira ili prati vaše navike pretraživanja.
+**VPN** (*Virtualna Privatna Mreža*) je jednostavan, ali efikasan korak za maskiranje vaše IP adrese i šifrovanje vašeg internet saobraćaja. Iako vas neće učiniti potpuno nevidljivim (jer provajder VPN-a i dalje može videti vašu aktivnost), značajno otežava svakome ko pokušava da vas špijunira ili prati vaše navike pretraživanja.
 
 Ključ je u odabiru pouzdanog VPN provajdera koji:
 
 
-- Ne zahteva vaše lične podatke
+- Ne traži vaše lične podatke
 - Dozvoljava plaćanje putem BTC
 - Ima strogu politiku bez beleženja logova
 
@@ -498,7 +498,7 @@ Ključ je u odabiru pouzdanog VPN provajdera koji:
 ![image](assets/sr-Latn/019.webp)
 
 
-Imamo nekoliko dostupnih tutorijala za Plan ₿ Academy koji vas mogu voditi kroz jednostavno postavljanje VPN-a. Posebno preporučujem IVPN ili Mullvad:
+Imamo nekoliko dostupnih tutorijala za Plan ₿ Academy-ji koji vas mogu voditi kroz jednostavno postavljanje VPN-a. Posebno preporučujem IVPN ili Mullvad:
 
 
 https://planb.academy/tutorials/computer-security/communication/ivpn-5a0cd5df-29f1-4382-a817-975a96646e68
@@ -516,7 +516,7 @@ https://planb.academy/tutorials/computer-security/communication/tor-browser-a847
 
 
 
-- Korišćenje **sigurnog poštanskog sandučeta** kao što je ProtonMail;
+- Korišćenje **sigurnog e-mail servisa** kao što je ProtonMail;
 
 
 https://planb.academy/tutorials/computer-security/communication/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2
@@ -528,16 +528,16 @@ https://planb.academy/tutorials/computer-security/communication/proton-mail-c3b0
 
 https://planb.academy/tutorials/computer-security/data/veracrypt-d5ed4c83-7c1c-4181-95ea-963fdf2d83c5
 
-### Progresija korak po korak
+### Postepeni pristup
 
 
-Sajberbezbednost može izgledati kao ogroman poduhvat, i lako je da se početnici osećaju preplavljeno i odustanu jer izgleda previše složeno. Trik je da joj pristupite korak po korak. Počnite sa nečim jednostavnim, kao što je instaliranje menadžera lozinki. Dajte sebi nekoliko nedelja da se naviknete na to, a zatim pređite na sledeći korak: kao što je omogućavanje 2FA na jednom od vaših naloga.
+Sajber bezbednost može izgledati kao ogroman poduhvat, i lako je da se početnici osećaju preplavljeno i odustanu jer izgleda previše složeno. Trik je da joj pristupite korak po korak. Počnite sa nečim jednostavnim, kao što je instaliranje menadžera lozinki. Dajte sebi nekoliko nedelja da se naviknete na to, a zatim pređite na sledeći korak: kao što je omogućavanje 2FA na jednom od vaših naloga.
 
 
 Kako budete sticali više samopouzdanja sa ovim alatima, bićete spremni da dodate naprednije prakse, kao što su korišćenje sekundarne e-pošte, prelazak na ProtonMail, postavljanje VPN-a ili pretraživanje sa Tor-om kada je to potrebno.
 
 
-Kako se dublje upuštate u svet Bitcoin, primetićete da rizici rastu kako se vrednost vašeg Wallet povećava. Izgradnja čvrstih bezbednosnih navika, zaštita vaše privatnosti i postavljanje pravih alata neće vam samo pružiti mir već će i ojačati suverenitet na kojem se Bitcoin zasniva.
+Kako se dublje upuštate u Bitkoin svet, primetićete da rizici rastu kako se vrednost vašeg novčanika povećava. Izgradnja čvrstih bezbednosnih navika, zaštita vaše privatnosti i postavljanje pravih alata neće vam samo pružiti mir već će i ojačati suverenitet na kojem se Bitkoin zasniva.
 
 
 Ukratko: nemojte potcenjivati sajber bezbednost, odvojite vreme da postavite osnove i zapamtite da je doslednost ključna. Bez dobre digitalne higijene, čak ni najbolji alati neće vam mnogo pomoći.
@@ -549,7 +549,7 @@ Takođe, obavezno pogledajte [naše tutorijale o računarskoj bezbednosti](https
 ![image](assets/sr-Latn/020.webp)
 
 
-U sledećem poglavlju, podeliću još nekoliko saveta koji će vam pomoći da započnete svoje Bitcoin putovanje sa samopouzdanjem; i da izbegnete mnoge zamke koje mogu iznenaditi novajlije.
+U sledećem poglavlju, podeliću još nekoliko saveta koji će vam pomoći da započnete svoje Bitkoin putovanje sa samopouzdanjem; i da izbegnete mnoge zamke koje mogu iznenaditi novajlije.
 
 
 ## Saveti za novajlije
@@ -561,7 +561,7 @@ U sledećem poglavlju, podeliću još nekoliko saveta koji će vam pomoći da za
 :::video id=7e9f3b2c-4d1a-4c5e-8b0d-3a2c1d4e5f6b:::
 
 
-Ulazak u Bitcoin može biti uzbudljiv; ali takođe dolazi sa svojim poštenim udelom rizika. Svet kripta je za razliku od bilo kog drugog; divlje oscilacije cena, nepoznata tehnologija i vrlo realna mogućnost da zauvek izgubite svoja sredstva zbog jednostavnih grešaka ili loših investicionih odluka su sve zamke kojih bi novi korisnici trebali biti svesni.
+Ulazak u Bitkoin može biti uzbudljiv; ali takođe dolazi sa sopstvenim rizicima. Svet kriptovaluta je jedinstven; velike oscilacije cena, nepoznata tehnologija i vrlo realna mogućnost da zauvek izgubite svoja sredstva zbog jednostavnih grešaka ili loših investicionih odluka su sve zamke kojih bi novi korisnici trebali biti svesni.
 
 
 U ovom poglavlju, podeliću nekoliko praktičnih saveta i opštih smernica za svakoga ko pravi svoje prve korake, posebno one koji obavljaju svoju prvu kupovinu ili istražuju širi svet finansijskih ulaganja.
@@ -574,10 +574,10 @@ Evo ključnih tačaka koje ćemo zajedno proći:
 - Čuvajte se **Shitcoins** i drugih beskorisnih kriptovaluta;
 - Ulažite samo **novac koji možete priuštiti da izgubite**;
 - Znajte razliku između **trgovanja** i **investiranja**;
-- Budite svesni **poreznih implikacija** vaših investicija;
+- Budite svesni **poreskih implikacija** vaših investicija;
 - Pažljivo čuvajte svoju **frazu za oporavak**;
-- Ostani skroman i drži **nizak profil**(diskrecija je deo sigurnosti);
-- Razmišljaj **dugoročno**, zumiraj i budi strpljiv (misli o tome kao o maratonu, ne sprintu).
+- Ostanite skromni i držite se **diskrecije**(diskrecija je deo sigurnosti);
+- Razmišljajte **dugoročno**, odzumirajte i budite strpljivi (mislite o tome kao o maratonu, ne sprintu).
 
 
 ![image](assets/sr-Latn/021.webp)
@@ -586,36 +586,36 @@ Evo ključnih tačaka koje ćemo zajedno proći:
 ### Uobičajene greške koje treba izbegavati
 
 
-Bitcoin je otvoren za sve, ali to ne znači da treba da se upustite nepripremljeni. Evo nekih od klasičnih grešaka koje prave novajlije:
+Bitkoin je otvoren za sve, ali to ne znači da u to treba da se upustite nepripremljeni. Evo nekih od klasičnih grešaka koje prave početnici:
 
 
 **Tehnološke greške:**
 
 
 
-- **Gubljenje vaše seed fraze:** Vaša fraza za oporavak (obično 12 ili 24 reči) je jedini način da pristupite vašem Bitcoin ako se nešto dogodi vašem Wallet. Ako je izgubite, vaša sredstva su trajno izgubljena;
-- **Skladištenje vaših bitkoina na platformi treće strane:** Ako su vaši novčići na centralizovanoj platformi, vi ih zapravo ne posedujete. Izloženi ste rizicima kao što su hakerski napadi, kvarovi platforme ili čak zaplena sredstava;
-- **Zanemarivanje privatnosti:** Zaštita vaše privatnosti je ključni deo obezbeđivanja vaših sredstava. Javno otkrivanje koliko Bitcoin posedujete moglo bi vas učiniti metom;
-- **Nedovoljna online sigurnost:** Neuspeh u obezbeđivanju vaših uređaja osnovnim zaštitama (kao što su ažuriranja, jake lozinke ili 2FA) čini vas lakom metom za napadače; i mogao bi vas koštati svega.
+- **Gubljenje seed fraze:** Vaša fraza za oporavak (obično 12 ili 24 reči) je jedini način da pristupite vašem Bitkoinu ako se nešto dogodi vašem novčaniku. Ako je izgubite, vaša sredstva su trajno izgubljena;
+- **Skladištenje bitkoina na platformi treće strane:** Ako je vaš bitkoin na centralizovanoj platformi, vi ga zapravo ne posedujete. Izloženi ste rizicima kao što su hakerski napadi, kvarovi platforme ili čak zaplena sredstava;
+- **Zanemarivanje privatnosti:** Zaštita vaše privatnosti je ključni deo obezbeđivanja vaših sredstava. Javno otkrivanje koliko bitkoina posedujete moglo bi vas učiniti metom;
+- **Nedovoljna online bezbednost:** Neuspeh u obezbeđivanju vaših uređaja osnovnim zaštitama (kao što su ažuriranja, jake lozinke ili 2FA) čini vas lakom metom za napadače; i mogao bi vas koštati svega.
 
 
 **Finansijske greške:**
 
 
 
-- **Ulaganje više nego što možete priuštiti da izgubite**: Nikada se ne zadužujte niti ulažite novac za kiriju u Bitcoin. Vaša osnovna finansijska stabilnost uvek treba da bude na prvom mestu.
+- **Ulaganje više nego što možete priuštiti da izgubite**: Nikada se ne zadužujte niti ulažite novac namenjen za kiriju u Bitkoin. Vaša osnovna finansijska stabilnost uvek treba da bude na prvom mestu.
 
 
 
-- **Ne znajući razliku između trgovanja i investiranja**: Trgovanje zahteva vreme, veštine i ozbiljnu emocionalnu disciplinu. Dugoročno investiranje je daleko pogodnije za početnike.
+- **Neznanje razlike između trgovanja i investiranja**: Trgovanje zahteva vreme, veštine i ozbiljnu emocionalnu disciplinu. Dugoročno investiranje je daleko pogodnije za početnike.
 
 
 
-- **Zaboravljanje na poreze**: Svaka zemlja ima svoja pravila oporezivanja za kripto. Ignorisanje tih pravila može dovesti do bolnih iznenađenja kasnije.
+- **Zaboravljanje na poreze**: Svaka zemlja ima svoja pravila oporezivanja za kriptovalute. Ignorisanje tih pravila može dovesti do neprijatnih iznenađenja kasnije.
 
 
 
-- **Zaljubljivanje u FOMO**: Kupovina impulsivno iz straha od propuštanja obično vodi do lošeg tajminga i loših odluka. Strpljenje je vaš najbolji saveznik.
+- **Padanje pod uticaj FOMO-a**: Kupovina impulsivno, zbog straha od propuštanja obično vodi do lošeg tajminga i loših odluka. Strpljenje je vaš najbolji saveznik.
 
 
 ![image](assets/sr-Latn/022.webp)
@@ -624,74 +624,74 @@ Bitcoin je otvoren za sve, ali to ne znači da treba da se upustite nepripremlje
 ### Definisanje investicione strategije
 
 
-Pre nego što kupite svoj prvi Satoshi, ključno je razumeti zašto ulažete u Bitcoin i kako. To znači imati jasan finansijski plan prilagođen vašoj ličnoj situaciji i dugoročnim ciljevima.
+Pre nego što kupite svoj prvi Satoši, ključno je razumeti zašto ulažete u Bitkoin i kako. To znači imati jasan finansijski plan prilagođen vašoj ličnoj situaciji i dugoročnim ciljevima.
 
 
-Počnite tako što ćete precizno definisati svoj **budžet**. Nemojte samo izabrati nasumičan broj. Odvojite vreme da izračunate svoj mesečni prihod, oduzmite svoje fiksne troškove (kao što su kirija, krediti, porezi, komunalije), kao i vaše svakodnevne troškove života (hrana, prevoz, slobodno vreme, itd.). Ono što ostane je vaša margina za štednju i samo iz ovog dela treba da razmislite o ulaganju.
+Počnite tako što ćete precizno definisati svoj **budžet**. Nemojte samo izabrati nasumičan broj. Odvojite vreme da izračunate svoj mesečni prihod, oduzmite svoje fiksne troškove (kao što su kirija, krediti, porezi, komunalije), kao i vaše svakodnevne troškove života (hrana, prevoz, slobodno vreme, itd.). Samo ono što ostane je vaša margina za štednju i samo ovaj deo sredstava treba da razmotrite da uložite.
 
-Pristupajući na ovaj način osiguravate da ne ugrožavate svoju finansijsku dobrobit, posebno u slučaju pada tržišta. Promišljena strategija je temelj dugoročne otpornosti.
+Pristupajući na ovaj način osiguravate da ne ugrožavate svoju finansijsku stabilnost, posebno u slučaju pada tržišta. Promišljena strategija je temelj dugoročne otpornosti.
 
 
 ![image](assets/sr-Latn/023.webp)
 
 
-Kada definišete svoj budžet, razmislite o tome kako želite da investirate. Jedna od metoda koja je najprikladnija za početnike i široko preporučena je Dollar Cost Averaging (DCA), kupovina fiksnog iznosa Bitcoin u redovnim intervalima (nedeljno, mesečno, itd.). Ova strategija pomaže da se izjednači prosečna ulazna cena tokom vremena i smanji emocionalni uticaj promena cena. To je pametan pristup za većinu ljudi, posebno za novajlije.
+Kada definišete svoj budžet, razmislite o tome kako želite da investirate. Jedna od metoda koja je najprikladnija za početnike i široko preporučena je Dollar Cost Averaging (DCA), kupovina fiksnog iznosa bitkoina u redovnim intervalima (nedeljno, mesečno, itd.). Ova strategija pomaže da se ujednači prosečna ulazna cena tokom vremena i smanji emocionalni uticaj oscilacija cena. To je pametan pristup za većinu ljudi, posebno za početnike.
 
 
 Zatim, zapitajte se: Koji je moj vremenski horizont?
 
-Da li želite brzo da ulazite i izlazite sa tržišta (trgovanje)? Ili ste više usmereni ka dugoročnom razmišljanju o držanju Bitcoin tokom nekoliko godina (hodler)? Ako ste hodler, verovatno ste manje zabrinuti za dnevne oscilacije cena i više fokusirani na dugoročnu sigurnost i samostalno čuvanje. Ako trgujete, bićete više izloženi kratkoročnim tržišnim šumovima, većem riziku i stresu koji često dolazi sa brzim donošenjem odluka. Ne postoji univerzalni odgovor, ali poznavanje sopstvenog pristupa pomoći će vam u donošenju odluka.
+Da li želite da pravite brze poteze, da brzo da ulazite i izlazite sa tržišta (trgovanje)? Ili ste više usmereni ka dugoročnom razmišljanju o držanju bitkoina tokom nekoliko godina (hodler)? Ako ste hodler (držalac), verovatno vas manje brinu dnevne oscilacije cena i više ste fokusirani na dugoročnu sigurnost i samostalno čuvanje sredstava. Ako trgujete, bićete više izloženi kratkoročnim tržišnim šumovima, većem riziku i stresu koji često dolazi sa brzim donošenjem odluka. Ne postoji univerzalni odgovor, ali poznavanje sopstvenog pristupa pomoći će vam u donošenju odluka.
 
 
-Najvažnije je da ne donosite investicione odluke na osnovu emocija ili straha. Unapred postavite strategiju, zapišite je i pridržavajte se nje.
+Najvažnije je da ne donosite investicione odluke na osnovu emocija ili straha. Unapred postavite strategiju, zapišite je i pridržavajte je se.
 
 
 Ako ste još uvek nesigurni, **počnite učenjem.**
 
-Provedi nekoliko sati istražujući Bitcoin, pogledaj besplatne resurse na Plan ₿ Academy, pročitaj par knjiga, ubaci pet evra samo da probaš, i gledaj kvalitetan sadržaj online. Ostani radoznao. Što se više budeš osećao prijatno, lakše će ti biti da preispitaš svoju strategiju, prilagodiš svoj pristup i kreneš napred sa samopouzdanjem.
+Provedite nekoliko sati istražujući Bitkoin, pogledajte besplatne resurse na Plan ₿ Academy, pročitajte par knjiga, ubacite simboličnih pet evra, i gledajte kvalitetan sadržaj online. Budite radoznali. Što se više budete osećali prijatno, lakše ćete revidirati strategiju, prilagoditi pristup i nastaviti sa samopouzdanjem.
 
 
 ### Razumevanje volatilnosti BTC-a
 
 
-Bitcoin je poznat po dramatičnim promenama cena. Promene od 10%, 20%, ili čak 50% tokom samo nekoliko dana nisu neuobičajene. Za novajlije, ovakva volatilnost može biti dezorijentišuća. Lako je biti ponesen hajpom tokom bikovskih tržišta ili paničiti tokom padova; oba slučaja često vode do loših odluka, kao što je prodaja sa gubitkom.
+Bitkoin je poznat po dramatičnim oscilacijama cene. Promene od 10%, 20%, ili čak 50% tokom samo nekoliko dana nisu neuobičajene. Za početnike, ovakva volatilnost može biti dezorijentišuća. Lako je biti ponesen euforijom tokom (bull run-a) bikovskih tržišta ili paničiti tokom padova; oba slučaja često vode do loših odluka, kao što je prodaja sa gubitkom.
 
 
 ![image](assets/sr-Latn/024.webp)
 
 
-Zato je ključno **razumeti i prihvatiti volatilnost Bitcoin** pre nego što investirate. Ove oscilacije cena nisu greška, već karakteristika još uvek sazrevajuće imovine. Ako vas nagli usponi i padovi drže budnim noću ili vas guraju ka emocionalnim odlukama, verovatno ste uložili više nego što ste spremni da rizikujete. U tom slučaju, napravite korak unazad i preispitajte svoju strategiju i toleranciju na rizik. Ne oklevajte da smanjite svoju poziciju dok se ne budete osećali opuštenije.
+Zato je ključno **razumeti i prihvatiti volatilnost Bitkoina** pre nego što investirate. Ove oscilacije cena nisu greška, već karakteristika još uvek sazrevajuće imovine. Ako vas nagli usponi i padovi drže budnim noću ili vas guraju ka emotivnim odlukama, verovatno ste uložili više nego što ste spremni da rizikujete. U tom slučaju, napravite korak unazad i preispitajte svoju strategiju i toleranciju na rizik. Ne oklevajte da smanjite svoju poziciju dok se ne budete osećali opuštenije.
 
 
-Iznad svega, nikada ne ulaži više nego što možeš priuštiti da izgubiš. Izbegavaj pozajmljivanje novca za kupovinu Bitcoin (posebno ako još uvek učiš osnove). Čvrsta osnova počinje sa promišljenim koracima, a ne nepromišljenim opkladama.
+Iznad svega, nikada ne ulažite više nego što možete priuštiti da izgubite. Izbegavajte pozajmljivanje novca za kupovinu bitkoina (posebno ako još uvek učite osnove). Čvrsta osnova počinje sa promišljenim koracima, a ne nepromišljenim opkladama.
 
 
-### Upravljanje i osiguranje vašeg Bitcoin Wallet
+### Upravljanje i osiguranje Bitkoin novčanika
 
 
-Jedna od najmoćnijih (i često potcenjenih) karakteristika Bitcoin je **samostalno čuvanje**. Sa samostalno hostovanim Wallet, vi sami ste odgovorni za svoja sredstva. Ovi novčanici se obično generišu iz **fraze za oporavak** (takođe poznate kao seed fraza), serije od 12 ili 24 reči koje omogućavaju potpuni pristup vašem BTC-u. Ako izgubite ovu frazu (ili ako je neko drugi dođe do nje), vaši bitkoini su zauvek izgubljeni. **Nema korisničke podrške. Nema dugmeta za resetovanje.**
+Jedna od najmoćnijih (i često potcenjenih) karakteristika Bitkoina je **samostalno čuvanje**. Sa samostalno čuvanim novačnikom, vi sami ste odgovorni za svoja sredstva. Ovi novčanici se obično generišu iz **fraze za oporavak** (takođe poznate kao seed fraza ili recovery fraza), niza od 12 ili 24 reči koje omogućavaju potpuni pristup vašem BTC-u. Ako izgubite ovu frazu (ili ako je neko drugi dođe do nje), vaši bitkoini su zauvek izgubljeni. **Nema korisničke podrške. Nema dugmeta za resetovanje.**
 
 
 ![image](assets/sr-Latn/025.webp)
 
 
-Zato je zlatno pravilo u Bitcoin:
+Zato je zlatno pravilo u Bitkoinu:
 
-"***Nisu tvoji ključevi, nisu tvoji novčići***". Ako lično ne kontrolišeš svoje privatne ključeve, ne poseduješ zaista svoj Bitcoin. Iako berze mogu biti zgodne (posebno kada tek počinješ), one drže tvoje ključeve za tebe. To znači da su tvoja sredstva u opasnosti ako platforma bude hakovana, zamrzne tvoj račun ili bankrotira.
+"***Nisu tvoji ključevi, nisu tvoji novčići***". Ako lično ne kontrolišete svoje privatne ključeve, ne posedujete zaista svoj bitkoin. Iako berze (menjačnice) mogu biti zgodne (posebno kada tek počinjete), one drže vaše ključeve za tebe. To znači da su vaša sredstva u opasnosti ako platforma bude hakovana, zamrzne tvoj račun ili bankrotira.
 
 
 ![image](assets/sr-Latn/026.webp)
 
 
-Da biste izbegli ovaj rizik, preporučuje se da postavite svoj **vlastiti Wallet**, gde samo vi imate pristup frazi za oporavak. Ova fraza treba uvek biti ručno zapisana i čuvana **offline** na sigurnom mestu. Neki korisnici čak **održavaju više rezervnih kopija**, koje su čuvane na različitim geografskim lokacijama radi dodatne sigurnosti.
+Da biste izbegli ovaj rizik, preporučuje se da podesite **sopstveni novčanik**, gde samo vi imate pristup frazi za oporavak. Ova fraza treba uvek biti ručno zapisana i čuvana **offline** na sigurnom mestu. Neki korisnici čak **održavaju više rezervnih kopija**, koje su čuvane na različitim geografskim lokacijama radi dodatne sigurnosti.
 
 
 **Nikada ne čuvajte svoju frazu za oporavak na uređaju povezanom na internet ili u oblaku**.
 
-**Jedna hakerska ili bezbednosna povreda podataka mogla bi dovesti do nepovratnog gubitka.**
+**Jedna hakerski napad ili bezbednosna povreda podataka mogla bi dovesti do nepovratnog gubitka.**
 
 
-Ako ste spremni da preuzmete Ownership svog Bitcoin i želite da se dublje upustite u najbolje prakse za osiguranje vaše fraze za oporavak, toplo preporučujem da pogledate ovaj članak:
+Ako ste spremni da preuzmete kontrolu nad svojim bitkoinom i želite da se dublje upustite u najbolje prakse za osiguranje vaše fraze za oporavak, toplo preporučujem da pogledate ovaj članak:
 
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
@@ -699,23 +699,23 @@ https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a
 ### Poverljivost i diskrecija
 
 
-U današnjem digitalnom svetu, **diskrecija se često zanemaruje**; ipak, ona je ključni deo ostajanja bezbednim, posebno kada je reč o Bitcoin. Što otvorenije govorite o svojim posedima, veća je verovatnoća da ćete postati meta prevaranata, sajber kriminalaca ili čak tradicionalnijih pretnji poput iznude ili ucene.
+U današnjem digitalnom svetu, **diskrecija se često zanemaruje**; ipak, ona je ključni deo bezbednosti, posebno kada je reč o Bitkoinu. Što otvorenije govorite o svojim sredstvima, veća je verovatnoća da ćete postati meta prevaranata, sajber kriminalaca ili čak tradicionalnijih pretnji poput iznude ili ucene.
 
 Bilo je mnogo slučajeva širom sveta gde su pojedinci za koje se zna da poseduju velike količine BTC bili kidnapovani ili napadnuti.
 
 
-**Izbegavajte hvalisanje vašim Bitcoin Stash**; bilo na društvenim mrežama ili čak u neformalnim razgovorima. Nema koristi od otkrivanja osetljivih finansijskih informacija, a rizici su stvarni.
+**Izbegavajte hvalisanje vašim bitkoin zalihama**; bilo na društvenim mrežama ili čak u neformalnim razgovorima. Nema koristi od otkrivanja osetljivih finansijskih informacija, a rizici su stvarni.
 
 
 Takođe je mudro **podeliti svoju online aktivnost na odvojene delove**. Na primer:
 
 
-- Koristite poseban email Address za sve što je vezano za Bitcoin, odvojeno od vaših ličnih ili poslovnih naloga.
+- Koristite posebnu e-mail adresu za sve što je vezano za Bitkoin, odvojeno od vaših ličnih ili poslovnih naloga.
 - Budite oprezni sa pokušajima phishinga, sumnjivim linkovima i lažnim veb-sajtovima koji imitiraju pouzdane platforme.
-- Ostanite oprezni! Diskrecija i budnost su često vaša najbolja odbrana.
+- Ostanite oprezni! Diskrecija i oprez su često vaša najbolja odbrana.
 
 
-Ako ste spremni da dublje istražite temu privatnosti Bitcoin, preporučujemo da nastavite sa našim Kursom privatnosti za drugu godinu, gde ćete naučiti naprednije tehnike za očuvanje vašeg identiteta i aktivnosti:
+Ako ste spremni da dublje istražite temu privatnosti Bitkoina, preporučujemo da nastavite sa našim Kursom privatnosti za drugu godinu, gde ćete naučiti naprednije tehnike za očuvanje vašeg identiteta i aktivnosti:
 
 
 https://planb.academy/courses/65c138b0-4161-4958-bbe3-c12916bc959c
@@ -723,24 +723,24 @@ https://planb.academy/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 ### Poreske implikacije
 
 
-Uprkos tome što je decentralizovana valuta, **Bitcoin nije izuzet od poreskih zakona i propisa** vaše zemlje. Svaka jurisdikcija ima svoj pristup oporezivanju dobiti od kriptovaluta.
+Uprkos tome što je decentralizovana valuta, **Bitkoin nije izuzet od poreskih zakona i propisa** vaše zemlje. Svaka jurisdikcija ima svoj pristup oporezivanju dobiti od kriptovaluta.
 
-U nekim mestima, profiti se oporezuju kao kapitalna dobit prilikom prodaje. Drugi mogu zahtevati da prijavite svaku trgovinu, a neki primenjuju manje uobičajena pravila, kao što su porezi na bogatstvo ili socijalni doprinosi.
+U nekim zemljama, profiti se oporezuju kao kapitalna dobit prilikom prodaje. Drugi mogu zahtevati da prijavite svaku trgovinu, a neki primenjuju manje uobičajena pravila, kao što su porezi na bogatstvo ili socijalni doprinosi.
 
 
 ![image](assets/sr-Latn/027.webp)
 
 
-Pre nego što napravite bilo kakve značajne transakcije, preporučuje se da se konsultujete sa poreskim stručnjakom ili pregledate zvanične smernice vaše vlade. Odvajanje vremena za razumevanje vaših poreskih obaveza unapred može vas spasiti od neočekivanih problema kasnije (poput kazni, revizija ili penala), posebno ako planirate velike prodaje ili realokacije portfolija.
+Pre nego što napravite bilo kakve značajne transakcije, preporučuje se da se konsultujete sa poreskim stručnjakom ili pregledate zvanične smernice vaše vlade. Odvajanje vremena za razumevanje vaših poreskih obaveza unapred može vas spasiti od neočekivanih problema kasnije (poput kazni, revizija ili penala), posebno ako planirate velike prodaje ili preraspodelu portfolija.
 
 
 ![image](assets/sr-Latn/028.webp)
 
 
-### Razlika između Trgovanja, Investiranja i Držanja
+### Razlika između Trgovanja, Investiranja i Držanja (HODL-ovanja)
 
 
-Bitcoin je često okružen popularnim zabludama; jedna od najčešćih je ideja da je to brza staza do bogaćenja kroz trgovanje. Ali važno je razumeti jasnu razliku između trgovanja, investiranja i držanja, jer svaki pristup dolazi sa sopstvenim načinom razmišljanja, veštinama i nivoom rizika.
+Bitkoin je često okružen popularnim zabludama; jedna od najčešćih je ideja da je to brza staza do bogaćenja kroz trgovanje. Ali važno je razumeti jasnu razliku između trgovanja, investiranja i držanja, jer svaki pristup dolazi sa sopstvenim načinom razmišljanja, nivoom znanja i stepenom rizika.
 
 
 
@@ -749,52 +749,52 @@ Bitcoin je često okružen popularnim zabludama; jedna od najčešćih je ideja 
 
 Budimo iskreni:**verovatno ne bi trebalo da trguješ.**
 
-Trgovanje uključuje kratkoročnu spekulaciju (ponekad sa polugom) sa ciljem ostvarivanja profita od promena cena Bitcoin. Iako može zvučati privlačno, uspešno trgovanje zahteva napredno tehničko znanje (kao što je analiza grafikona i upravljanje rizikom), emocionalnu disciplinu i stalnu pažnju na tržište. To je mentalno iscrpljujuće i vremenski zahtevno, a Hard istina je da **većina početnika gubi novac** jer potcenjuju koliko je to zaista zahtevno.
+Trgovanje uključuje kratkoročnu spekulaciju (ponekad sa polugom) sa ciljem ostvarivanja profita od promena cena bitkoina. Iako može zvučati privlačno, uspešno trgovanje zahteva napredno tehničko znanje (kao što je analiza grafikona i upravljanje rizikom), emocionalnu disciplinu i stalnu pažnju na tržište. To je mentalno iscrpljujuće i vremenski zahtevno, a gorka istina je da **većina početnika gubi novac** jer potcenjuju koliko je to zaista zahtevno.
 
 Kao što je Warren Buffett slavno rekao:
 
 "**Ako niste spremni da držite akciju deset godina, nemojte ni pomišljati da je držite deset minuta**."
 
-Bitcoin nije šema za brzo bogaćenje.
+Bitkoin nije šema za brzo bogaćenje.
 
 
 
 - **Investicija:**
 
 
-Investitori zauzimaju srednjoročni do dugoročni pogled, kupujući Bitcoin s verovanjem da će njegova vrednost rasti tokom vremena (meseci, godina ili čak decenija). Naravno, i dalje postoji rizik, jer cena Bitcoin može značajno varirati. Ali ovaj pristup je generalno mirniji i daleko praktičniji za većinu ljudi, posebno za one koji ne žele da provode sate prikovani za grafikone svaki dan.
+Investitori imaju srednjoročnu ili dugoročnu perspektivu, kupujući bitkoin s verovanjem da će njegova vrednost rasti tokom vremena (meseci, godina ili čak decenija). Naravno, i dalje postoji rizik, jer cena bitkoina može značajno varirati. Ali ovaj pristup je generalno mirniji i daleko praktičniji za većinu ljudi, posebno za one koji ne žele da provode sate prikovani za grafikone svaki dan.
 
 
 
-- Holding (HODL)**:**
+- **Držanje (HODL)**:
 
 
-"HODL" je počeo kao greška u kucanju za "hold" i brzo je postao deo kulture Bitcoin. Danas je to znak časti.
+"HODL" je počeo kao greška u kucanju za "hold" i brzo je postao deo kulture Bitkoina. Danas je to oznaka časti.
 
-Hodleri su tu zbog veoma dugoročne igre; ponekad deset godina ili više. Oni čuvaju svoj Bitcoin na sigurnom i jednostavno čekaju, vođeni snažnim uverenjem u dugoročan potencijal Bitcoin. Ne uzrujavaju ih dnevne oscilacije cena ili medveđa tržišta. Njihov način razmišljanja je jednostavan: akumulirati, osigurati i ostati miran.
+Držaoci su tu zbog veoma dugoročne igre; ponekad deset godina ili više. Oni čuvaju svoj bitkoin na sigurnom i jednostavno čekaju, vođeni snažnim uverenjem u dugoročan potencijal Bitkoina. Ne uznemiravaju ih dnevne oscilacije cena ili medveđa tržišta (bear market). Njihov način razmišljanja je jednostavan: akumulirati, osigurati i ostati miran.
 
 
-|          | Trading | Investment | Holding |
+|          | Trgovanje | Investiranje | Držanje |
 | ---------------------- | ----------- | -------------- | --------------- |
-| Leverage | Yes  | No | No |
-| Timeframe | Short-term | Medium-term | Very long-term |
-| Asset Type | Contracts | Actual BTC | Actual BTC |
-| Risk Level | Very high | High | High |
-| Difficulty | Very Hard | Hard | Hard |
-| learning curve | Long learning curve | Long learning curve | Long learning curve |
-| Potential Loss | UnLimited | Limited | Limited |
-| Best For | A few experienced users | Most People | Long-term Believers |
+| Poluga (Leverage) | Da  | Ne | Ne |
+| Vremenski okvir | Kratkoročno | Srednjoročno | Veoma dugoročno |
+| Tip imovine | Ugovori | Pravi BTC | Pravi  BTC |
+| Nivo rizika | Veoma visok | Visok | Visok |
+| Težina | Veoma teško | Teško | Teško |
+| Kriva učenja | Duga | Duga | Duga |
+| Potencijalni gubitak | Neograničen | Ograničen | Ograničen |
+| Najbolje za | Nekolicinu iskusnih korisnika | Većinu ljudi | Dugoročne verovaoce |
 
 ### Nastavi da učiš
 
 
-Nikad nije prerano (ili prekasno) da počnete da se edukujete o novcu, investiranju i kako finansijski sistem zaista funkcioniše. Ne morate postati stručnjak ili ulaziti u svaki tehnički detalj; dovoljno je imati čvrsto, široko razumevanje kako biste donosili informisane odluke i izbegli da vas zavedu finansijski proizvodi koji ne služe vašim interesima (često promovisani od strane banaka ili savetnika).
+Nikad nije prerano (ili prekasno) da počnete da se edukujete o novcu, investiranju i tome kako finansijski sistem zaista funkcioniše. Ne morate postati stručnjak ili ulaziti u svaki tehnički detalj; dovoljno je imati čvrsto, široko razumevanje kako biste donosili informisane odluke i izbegli da vas zavedu finansijski proizvodi koji ne služe vašim interesima (često promovisani od strane banaka ili savetnika).
 
 
 Odlična početna tačka je knjiga *Bogati otac, siromašni otac* od Roberta T. Kijosakija. Poznata je po svom pristupačnom stilu i osnovnim lekcijama; kao što je razumevanje razlike između imovine i obaveza, i zašto je finansijsko obrazovanje ključno za dugoročnu nezavisnost.
 
 
-Ako ste spremni da idete dublje, podcasti poput *The Investors Podcast* nude pronicljive diskusije o investiranju, tržištima i ekonomskim principima. Povremeno pokrivaju i Bitcoin, što ga čini solidnim sledećim korakom za one koji su radoznali da razumeju kako se Bitcoin uklapa u širi finansijski pejzaž.
+Ako ste spremni da idete dublje, podcasti poput *The Investors Podcast* nude pronicljive diskusije o investiranju, tržištima i ekonomskim principima. Povremeno pokrivaju i Bitkoin, što ga čini solidnim sledećim korakom za one koji su radoznali da razumeju kako se Bitkoin uklapa u širi finansijski pejzaž.
 
 
 ![image](assets/sr-Latn/029.webp)
@@ -803,18 +803,18 @@ Ako ste spremni da idete dublje, podcasti poput *The Investors Podcast* nude pro
 ### Zlatna pravila koja treba imati na umu
 
 
-Da završimo, evo nekoliko bezvremenih principa koje svaki Bitcoiner (posebno početnici) treba da ima na umu:
+Da završimo, evo nekoliko bezvremenih principa koje svaki Bitkoiner (posebno početnici) treba da ima na umu:
 
 
 
-- **Pravilo br. 1**: Nikada ne ulaži više nego što možeš priuštiti da izgubiš. Bitcoin je nestabilna imovina. Ne rizikuj svoju finansijsku stabilnost jureći za dobicima. Tvoje osnovne potrebe i duševni mir uvek treba da budu na prvom mestu.
-- **Pravilo br. 2**: Ne pratite slepo hajp ili verujte u čudesne savete. Ignorišite trendove i blještava obećanja. Umesto toga, fokusirajte se na donošenje dobro informisanih, racionalnih odluka. Kada ste u nedoumici, prespavajte; razgovarajte o tome sa ljudima kojima verujete. Bolje je kretati se polako i promišljeno nego žuriti u skupe greške.
+- **Pravilo br. 1**: Nikada ne ulažite više nego što možete priuštiti da izgubite. Bitkoin je nestabilna imovina. Ne rizikujte svoju finansijsku stabilnost jureći za dobicima. Vaše osnovne potrebe i duševni mir uvek treba da budu na prvom mestu.
+- **Pravilo br. 2**: Ne pratite slepo hajp i ne verujte u čudesne savete. Ignorišite trendove i blještava obećanja. Umesto toga, fokusirajte se na donošenje dobro informisanih, racionalnih odluka. Kada ste u nedoumici, prespavajte; razgovarajte o tome sa ljudima kojima verujete. Bolje je kretati se polako i promišljeno nego žuriti u skupe greške.
 - **Pravilo br. 3**: Napravite plan i pridržavajte se dugoročne vizije.
 
-Doslednost, strpljenje i disciplina će vas odvesti dalje od kratkotrajnog uzbuđenja. Ne ciljate na velike skokove; ciljate na održiv rast. Izbegavajte fatalne greške i dozvolite da se mali uspesi vremenom akumuliraju.
+Doslednost, strpljenje i disciplina će vas odvesti dalje od kratkotrajne euforije. Ne ciljajte mesec; ciljajte na održiv rast. Izbegavajte fatalne greške i dozvolite da se mali uspesi vremenom akumuliraju.
 
 
-Prateći ove principe, moći ćete pristupiti ulaganju u Bitcoin sa više jasnoće i mira. Da, Bitcoin je nestabilan i može biti zastrašujući u početku; ali kada mu se pristupi sa oprezom, strpljenjem i prizemljenim načinom razmišljanja, ima neosporan potencijal. Odvojite vreme da izgradite svoje znanje, preispitajte svoju strategiju kada je to potrebno, i iznad svega, zapamtite: spor i postojan napredak će vam uvek bolje služiti nego žurba iz straha ili nestrpljenja.
+Prateći ove principe, moći ćete pristupiti ulaganju u Bitkoin sa više jasnoće i mira. Da, Bitkoin je volatilan i može delovati zastrašujuće u početku; ali kada mu se pristupi sa oprezom, strpljenjem i prizemljenim načinom razmišljanja, ima neosporan potencijal. Odvojite vreme da izgradite svoje znanje, preispitajte svoju strategiju kada je to potrebno, i iznad svega, zapamtite: spor i postojan napredak će vam uvek bolje služiti nego žurba iz straha ili nestrpljenja.
 
 
 # Razumevanje u šta se upuštate
@@ -832,25 +832,25 @@ Prateći ove principe, moći ćete pristupiti ulaganju u Bitcoin sa više jasno�
 :::video id=3c2d1e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f:::
 
 
-U ovom kursu, primarni cilj je da vas vodi kroz sticanje i osiguravanje vaših prvih bitkoina. Ali pre nego što se upustimo u praktične korake (kako kupiti BTC, koje novčanike koristiti, i tako dalje) važno je napraviti korak unazad i razumeti šta Bitcoin zaista jeste. Razumevanje dublje prirode Bitcoin pomoći će vam da shvatite zašto milioni ljudi prelaze na ovu tehnologiju, i zašto je ključno razumeti osnove pre nego što uložite svoju ušteđevinu u tako nov i nestabilan resurs.
+U ovom kursu, primarni cilj je da vas vodi kroz sticanje i osiguravanje vaših prvih bitkoina. Ali pre nego što se upustimo u praktične korake (kako kupiti BTC, koje novčanike koristiti, i tako dalje) važno je napraviti korak unazad i razumeti šta Bitkoin zaista jeste. Razumevanje dublje prirode Bitkoina pomoći će vam da shvatite zašto milioni ljudi prelaze na ovu tehnologiju, i zašto je ključno razumeti osnove pre nego što uložite svoju ušteđevinu u tako nov i volatilan resurs.
 
 
-Tokom godina, Bitcoin je stekao priznanje kao globalna monetarna mreža. Nazivan je "digitalnim zlatom", "protokolom poverenja", pa čak i "paralelnim finansijskim sistemom." Ali šta ti termini zaista znače? Da bismo odgovorili na to, detaljnije ćemo pogledati srž Bitcoin: njegovu priču o poreklu, tehničke osnove, monetarna svojstva i potencijalni uticaj; ne samo na pojedince, već i na globalni finansijski sistem u celini.
+Tokom godina, Bitkoin je stekao priznanje kao globalna monetarna mreža. Nazivan je "digitalnim zlatom", "protokolom poverenja", pa čak i "paralelnim finansijskim sistemom." Ali šta ti termini zaista znače? Da bismo odgovorili na to, detaljnije ćemo pogledati srž Bitkoina: njegovu priču o poreklu, tehničke osnove, monetarna svojstva i potencijalni uticaj; ne samo na pojedince, već i na globalni finansijski sistem u celini.
 
 
-### Porijeklo: Projekat rođen iz dugotrajnog traganja
+### Poreklo: Projekat rođen iz dugotrajnog traganja
 
 
 #### Cypherpunks i izum sistema van kontrole banaka
 
 
-Bitcoin nije nastao preko noći. To je rezultat decenija istraživanja i eksperimentisanja u kriptografiji, računarskim naukama i monetarnoj teoriji. Pre njegovog lansiranja 2009. godine, nekoliko projekata (kao što su eCash, b-money, Bit Gold i RPOW) pokušalo je da stvori digitalne valute. Svi su se suočili sa istim osnovnim problemom: kako sprečiti dvostruko trošenje u decentralizovanom sistemu bez oslanjanja na centralni autoritet.
+Bitkoin nije nastao preko noći. To je rezultat decenija istraživanja i eksperimentisanja u kriptografiji, računarskim naukama i monetarnoj teoriji. Pre njegovog lansiranja 2009. godine, nekoliko projekata (kao što su eCash, b-money, Bit Gold i RPOW) pokušalo je da stvori digitalne valute. Svi su se suočili sa istim osnovnim problemom: kako sprečiti dvostruko trošenje u decentralizovanom sistemu bez oslanjanja na centralni autoritet.
 
 
-Taj izazov ostao je nerešen sve do kraja 2008. godine, kada je neko pod imenom Satoshi Nakamoto objavio Bitcoin beli papir. Nekoliko meseci kasnije, prva verzija Bitcoin softvera otvorenog koda postala je dostupna, pokrećući sistem koji je mogao da funkcioniše nezavisno od banaka ili vlada.
+Taj izazov ostao je nerešen sve do kraja 2008. godine, kada je neko pod imenom Satoši Nakamoto objavio Bitkoin beli papir. Nekoliko meseci kasnije, prva verzija Bitkoin softvera otvorenog koda postala je dostupna, pokrenuvši sistem koji je mogao da funkcioniše nezavisno od banaka ili vlada.
 
 
-Projekat je bio snažno pod uticajem Cypherpunk etosa; zajednice programera i mislilaca koji su verovali u korišćenje kriptografije za zaštitu individualnih sloboda na internetu. Za njih, privatnost i decentralizacija nisu bile tehničke preferencije, već ideološke nužnosti. Bitcoin se pojavio kao najuspešnija inkarnacija tih ideala: peer-to-peer monetarna mreža koju svako može koristiti, niko ne može kontrolisati, a svi mogu verifikovati.
+Projekat je bio snažno pod uticajem Cypherpunk etosa; zajednice programera i mislilaca koji su verovali u korišćenje kriptografije za zaštitu individualnih sloboda na internetu. Za njih, privatnost i decentralizacija nisu bile tehničke preferencije, već ideološke nužnosti. Bitkoin se pojavio kao najuspešnija realizacija tih ideala: peer-to-peer monetarna mreža koju svako može koristiti, niko ne može kontrolisati, a svi mogu verifikovati.
 
 
 ![image](assets/sr-Latn/030.webp)
@@ -859,41 +859,41 @@ Projekat je bio snažno pod uticajem Cypherpunk etosa; zajednice programera i mi
 Cypherpunks su neformalna, međunarodna zajednica pojedinaca koji zagovaraju upotrebu kriptografije za odbranu ličnih sloboda na internetu. Oni snažno veruju u pravo pojedinca na privatnost; posebno u svetu koji sve više oblikuju nadzor vlade i eksploatacija podataka od strane korporacija.
 
 
-Koreni Cypherpunk pokreta sežu do ranih 1990-ih, kada su grupe kriptografa, programera i libertarijanaca počele istraživati političke implikacije kriptografije tokom okupljanja u Silicijumskoj dolini. Jedan od najistaknutijih glasova u zajednici bio je Tim May, koji je 1988. godine napisao Manifest kripto-anarhista; temeljni tekst koji opisuje viziju sveta u kojem bi enkripcija omogućila pojedincima da deluju izvan dosega vlada i centralizovane kontrole.
+Koreni Cypherpunk pokreta sežu do ranih 1990-ih, kada su grupe kriptografa, programera i libertarijanaca počele istraživati političke implikacije kriptografije tokom okupljanja u Silicijumskoj dolini. Jedan od najistaknutijih glasova u zajednici bio je Tim May, koji je 1988. godine napisao (Crypto Anarchist Manifesto) Manifest kripto-anarhista; temeljni tekst koji opisuje viziju sveta u kojem bi enkripcija omogućila pojedincima da deluju izvan dosega vlada i centralizovane kontrole.
 
-Velika prekretnica u pokretu dogodila se 1992. godine stvaranjem mailing liste Cypherpunks, foruma na kojem su ideje, projekti i političke rasprave o privatnosti i kriptografiji mogli cvetati. Zatim, 1993. godine, Eric Hughes je objavio Manifest Cypherpunk, kratak ali snažan proglas koji je jasno izrazio misiju i uverenja zajednice.
+Velika prekretnica u pokretu dogodila se 1992. godine stvaranjem mailing liste Cypherpunks, foruma na kojem su ideje, projekti i političke rasprave o privatnosti i kriptografiji mogli cvetati. Zatim, 1993. godine, Eric Hughes je objavio (Cypherpunk Manifesto) Manifest Cypherpunk, kratak ali snažan proglas koji je jasno izrazio misiju i uverenja zajednice.
 
 
 ![image](assets/sr-Latn/031.webp)
 
 
-Ideja digitalne valute koja funkcioniše nezavisno od bilo koje centralne vlasti(poput Bitcoin) duboko je ukorenjena u Cypherpunk filozofiji.
+Ideja digitalne valute koja funkcioniše nezavisno od bilo koje centralne vlasti (poput Bitkoina) duboko je ukorenjena u Cypherpunk filozofiji.
 
 
 #### Trenutak nakon finansijske krize
 
 
-Bitcoin nije se samo pojavio niotkuda. Stvoren je u vrlo specifičnom trenutku—odmah nakon globalne finansijske krize 2008. godine. Kolaps američkog tržišta nekretnina i kriza subprime kredita uzrokovali su propast velikih banaka i uzdrmali poverenje ljudi u ceo finansijski sistem.
+Bitkoin nije se samo pojavio niotkuda. Stvoren je u vrlo specifičnom trenutku— odmah nakon globalne finansijske krize 2008. godine. Kolaps američkog tržišta nekretnina i kriza subprimarnih kredita uzrokovali su propast velikih banaka i uzdrmali poverenje ljudi u ceo finansijski sistem.
 
 
-Bilo je u ovom okruženju straha i nesigurnosti da je Bitcoin rođen. Tvorac, poznat kao Satoshi Nakamoto, uključio je vrlo simboličnu poruku u prvi blok Bitcoin Blockchain, poznat kao Genesis blok. Poruka je bila:
+U tom okruženju straha i nesigurnosti rodio se Bitcoin. Tvorac, poznat kao Satoshi Nakamoto, uključio je vrlo simboličnu poruku u prvi blok Bitkoin Blockchain-a, poznat kao Genesis blok. Poruka je bila:
 
 
 > **"The Times 03/Jan/2009 Kancelar na ivici drugog paketa pomoći za banke"**
 
-Ovo nije bio samo datum ili tehnička beleška; bio je to tihi, ali snažan protest. Pokazalo je da je Bitcoin dizajniran da bude nešto radikalno drugačije: finansijski sistem koji ne zavisi od banaka, spasavanja ili odluka vlade.
+Ovo nije bio samo datum ili tehnička beleška; bio je to tihi, ali snažan protest. Pokazalo je da je Bitkoin dizajniran da bude nešto radikalno drugačije: finansijski sistem koji ne zavisi od banaka, paketa pomoći ili odluka vlada.
 
 
 ![image](assets/sr-Latn/032.webp)
 
 
-Mnogi ovo tumače kao cilj Bitcoin: ponuditi način za prenos vrednosti bez potrebe za posrednicima, kontrolisan jasnim pravilima umesto često nejasnih odluka koje donose centralne banke ili vlade.
+Mnogi ovo tumače kao cilj Bitkoina: ponuditi način za prenos vrednosti bez potrebe za posrednicima, zasnovan na jasnim pravilima umesto na često nejasnim odlukama koje donose centralne banke ili vlade.
 
 
 ![image](assets/sr-Latn/033.webp)
 
 
-Da biste produbili svoje znanje o poreklu Bitcoin, nudimo besplatan, sveobuhvatan i dobro dokumentovan kurs obuke na tu temu:
+Da biste produbili svoje znanje o poreklu Bitkoin, nudimo besplatan, sveobuhvatan i dobro dokumentovan kurs obuke na tu temu:
 
 
 https://planb.academy/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
