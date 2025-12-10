@@ -904,70 +904,70 @@ https://planb.academy/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 #### Od osobe do osobe i bez centralnog tela
 
 
-Bitcoin je definisan kao "peer-to-peer elektronski sistem gotovine." To znači da svako može da se poveže na mrežu koristeći odgovarajući softver (Bitcoin čvor) i direktno komunicira sa drugim korisnicima, bez oslanjanja na centralni server. Cilj ove decentralizacije je da se spreči bilo koji pojedinačni entitet (kao što su banka, vlada ili velika korporacija) da kontroliše, cenzuriše ili zaustavi sistem. Bitcoin radi 24/7, globalno, i dostupan je svima bez ikakvih uslova.
+Bitkoin je definisan kao "peer-to-peer elektronski sistem gotovine." To znači da svako može da se poveže na mrežu koristeći odgovarajući softver (Bitkoin čvor) i direktno komunicira sa drugim korisnicima, bez oslanjanja na centralni server. Cilj ove decentralizacije je da se spreči bilo koji pojedinačni entitet (kao što su banka, vlada ili velika korporacija) da kontroliše, cenzuriše ili zaustavi sistem. Bitkoin radi 24/7, globalno, i dostupan je svima bez ikakvih uslova.
 
 
 ![image](assets/sr-Latn/034.webp)
 
 
-U jednostavnim terminima, svaki učesnik u Bitcoin mreži (nazvan "čvor") ima punu kopiju transakcije Ledger, poznatu kao Blockchain. Kada se dogodi nova transakcija, ona se emituje mreži. Rudari zatim potvrđuju ove transakcije grupišući ih u blokove koji se zatim dodaju na kraj lanca (otuda naziv "Blockchain").
+U jednostavnim terminima, svaki učesnik u Bitkoin mreži (nazvan "čvor") ima punu kopiju knjige transakcija, poznatu kao Blockchain. Kada se dogodi nova transakcija, ona se emituje ka mreži. Rudari zatim potvrđuju ove transakcije grupišući ih u blokove koji se zatim dodaju na kraj lanca (otuda naziv "Blockchain").
 
 
 ![image](assets/sr-Latn/035.webp)
 
 
-#### Blockchain: računovodstveni Ledger
+#### Blockchain: računovodstvena knjiga
 
 
-Zamislite Blockchain kao džinovski računovodstveni Ledger, gde svaka linija predstavlja transakciju. U tradicionalnom bankarskom sistemu, baza podataka se čuva na serverima banke, koja može da vrši izmene kad god poželi. S druge strane, u Bitcoin, **sve izmene se validiraju širom cele mreže**: kada se novi blok transakcija doda u Blockchain, gotovo je nemoguće kasnije ga izmeniti. Ova decentralizovana validacija čini Bitcoin-ov Ledger sigurnim i transparentnim.
+Zamislite Blockchain kao džinovsku računovodstvenu knjigu, gde svaka linija predstavlja jednu transakciju. U tradicionalnom bankarskom sistemu, baza podataka se čuva na serverima banke, koja može da vrši izmene kad god poželi. S druge strane, u Bitkoinu, **sve izmene se validiraju širom cele mreže**: kada se novi blok transakcija doda u Blockchain, gotovo je nemoguće kasnije ga izmeniti. Ova decentralizovana validacija čini Bitkoin-ovu knjigu sigurnom i transparentnom.
 
 
 ![image](assets/sr-Latn/036.webp)
 
 
-### Uloga rudara i Proof-of-Work
+### Uloga rudara i Proof-of-Work (Dokaz o radu) 
 
 
-#### Kako se Blokovi Kreiraju: Mining
+#### Kako se Blokovi Kreiraju: Rudarenje
 
 
-Mining je proces putem kojeg računari (ili velike Mining farme) doprinose **računarskoj snazi** kako bi osigurali istoriju transakcija Bitcoin i kreirali nove blokove. Rudari se takmiče u rešavanju matematičke zagonetke—konkretno, pronalaženju delimične Hash kolizije. Ovaj proces zahteva značajnu energiju i resurse. Kada Miner pronađe validno rešenje, emituju blok mreži, koja ga verifikuje i prihvata kao validan.
+Rudarenje je proces putem kojeg računari (ili velike farme za rudarenje) koriste **računarsku snagu** kako bi osigurali istoriju Bitkoin transakcija i kreirali nove blokove. Rudari se takmiče u rešavanju matematičke zagonetke—konkretno, pronalaženju delimične Hash kolizije. Ovaj proces zahteva značajnu energiju i resurse. Kada Miner pronađe validno rešenje, emituju blok ka mreži, koja ga proverava i prihvata kao validan.
 
-Kao nagradu, Miner prima novostvorene bitkoine (nazvane subvencija bloka) zajedno sa naknadama za transakcije iz svih transakcija uključenih u taj blok.
-
-
-#### Halving: Smanjenje blok subvencije
+Kao nagradu, rudar dobija novostvorene bitkoine (tzv. blok nagradu) zajedno sa naknadama za transakcije iz svih transakcija uključenih u taj blok.
 
 
-Da bi se osigurala oskudica Bitcoin, subvencija za blok je programirana da se prepolovi na svakih 210.000 blokova; otprilike svake četiri godine. Ovaj događaj je poznat kao "Halving." Kada je Bitcoin pokrenut, rudari su zarađivali 50 BTC po bloku. U 2025. godini, ta nagrada je pala na 3.125 BTC i nastaviće da se smanjuje tokom vremena.
+#### Halving: Smanjenje blok nagrada
 
-Na kraju, oko godine 2140, subvencija će dostići nulu, jer će ukupni Supply od Bitcoin biti ograničen na 21 milion novčića. Ova predvidiva kriva izdavanja oponaša oskudicu fizičkih roba poput zlata; jedan od razloga zašto se Bitcoin često naziva **digitalnim zlatom**.
+
+Da bi se osigurala oskudica Bitkoina, nagrada za blok je programirana da se prepolovi na svakih 210.000 blokova; otprilike svake četiri godine. Ovaj događaj je poznat kao "Halving." Kada je Bitkoin pokrenut, rudari su zarađivali 50 BTC po bloku. U 2025. godini, ta nagrada je pala na 3.125 BTC i nastaviće da se smanjuje tokom vremena.
+
+Na kraju, oko 2140.godine, nagrada će dostići nulu, jer će ukupna ponuda Bitkoina biti ograničena na 21 milion novčića. Ova predvidiva kriva izdavanja oponaša oskudicu fizičkih roba poput zlata; jedan od razloga zašto se Bitkoin često naziva **digitalnim zlatom**.
 
 
 ![image](assets/sr-Latn/037.webp)
 
 
-### Bitcoin Monetarna Svojstva
+### Monetarna Svojstva Bitkoina 
 
 
-#### Oškudica i Fiksna Monetarna Politika
+#### Osskudnost i Fiksna Monetarna Politika
 
 
-Jedna od najmoćnijih karakteristika Bitcoin je njegova *predvidiva i nepromenljiva monetarna politika*. Za razliku od tradicionalnih fiat valuta (poput dolara, evra ili jena), koje centralne banke mogu štampati po volji (što često dovodi do inflacije ili ekonomskih distorzija), Bitcoin funkcioniše prema transparentnom skupu pravila ugrađenih u njegov kod.
+Jedna od najmoćnijih karakteristika Bitkoina je njegova *predvidiva i nepromenljiva monetarna politika*. Za razliku od tradicionalnih fiat valuta (poput dolara, evra ili jena), koje centralne banke mogu štampati po volji (što često dovodi do inflacije ili ekonomskih distorzija), Bitkoin funkcioniše prema transparentnom skupu pravila ugrađenih u njegov kod.
 
-Biće samo 21 milion bitkoina, a stopa po kojoj se novi novčići izdaju poznata je unapred svima u mreži.
-
-
-Nijedna vlada, institucija ili pojedinac ne može jednostrano promeniti ovaj Supply limit ili pravila distribucije. Jedini način da se ovi parametri izmene bio bi promena protokola Bitcoin; a čak bi i to zahtevalo konsenzus većine ekonomskih učesnika mreže.
+Postojaće samo 21 milion bitkoina, a stopa po kojoj se novi novčići izdaju poznata je unapred svima u mreži.
 
 
-Ova ugrađena oskudica je veliki mamac za one koji žele da se isključe iz nepredvidivih monetarnih politika ili da izbegnu postepeno smanjenje svoje kupovne moći kroz inflaciju. Vremenom, ovo bi moglo predstavljati promenu u finansijskom razmišljanju, gde štednja u deflatornoj imovini kao što je Bitcoin postaje privlačnija od oslanjanja na tradicionalne valute sklone inflaciji.
+Nijedna vlada, institucija ili pojedinac ne može jednostrano promeniti ovaj limit ponude ili pravila distribucije. Jedini način da se ovi parametri izmene bio bi promena Bitkoin protokola; a čak bi i to zahtevalo konsenzus većine ekonomskih učesnika mreže.
+
+
+Ova ugrađena oskudnost je veliki mamac za one koji žele da se isključe iz nepredvidivih monetarnih politika ili da izbegnu postepeno smanjenje svoje kupovne moći kroz inflaciju. Vremenom, ovo bi moglo predstavljati promenu u finansijskom razmišljanju, gde štednja u deflatornoj imovini kao što je Bitkoin postaje privlačnija od oslanjanja na tradicionalne valute sklone inflaciji.
 
 
 #### Deljivost i pristupačnost
 
 
-Jedna od najpotcenjenijih snaga Bitcoin je njegova deljivost. Svaki Bitcoin može biti podeljen na 100 miliona jedinica, poznatih kao satoshi (ili skraćeno Sats). To znači da ne morate potrošiti desetine hiljada evra ili dolara da biste počeli; možete kupiti samo nekoliko evra vrednosti Bitcoin, sve do sitnih delova.
+Jedna od najpotcenjenijih snaga Bitkoina je njegova deljivost. Svaki bitkoin može biti podeljen na 100 miliona jedinica, poznatih kao satoshi (ili skraćeno Sats). To znači da ne morate potrošiti desetine hiljada evra ili dolara da biste počeli; možete kupiti samo nekoliko evra vrednosti bitkoina, sve do sitnih delova.
 
 
 ![image](assets/sr-Latn/038.webp)
@@ -979,18 +979,18 @@ Jedna od najpotcenjenijih snaga Bitcoin je njegova deljivost. Svaki Bitcoin mož
 #### Javni protokol, proverljiv od strane svih
 
 
-Bitcoin radi na javnom, **open-source** protokolu (najpoznatiji kroz [Bitcoin Core](https://github.com/Bitcoin/Bitcoin)). To znači da je njegov kod slobodno dostupan svima za pregled, reviziju i poboljšanje. Nema skrivenih mehanizama ili zatvorenih sistema; sve o tome kako Bitcoin funkcioniše je javno dostupno.
+Bitcoin radi na javnom, **open-source** protokolu (najpoznatiji kroz [Bitcoin Core](https://github.com/Bitcoin/Bitcoin)). To znači da je njegov kod slobodno dostupan svima za pregled, reviziju i poboljšanje. Nema skrivenih mehanizama ili zatvorenih sistema; sve o tome kako Bitkoin funkcioniše je javno dostupno.
 
-Ovaj nivo transparentnosti čini izuzetno teškim uvođenje zadnjih vrata ili pravljenje tajnih izmena. Svako sa tehničkim veštinama može pokrenuti čvor, doprineti razvoju ili izgraditi kompatibilne alate. U Bitcoin, poverenje se stiče kroz kod i konsenzus, a ne kroz centralizovanu kontrolu.
+Ovaj nivo transparentnosti čini izuzetno teškim uvođenje "zadnjih vrata" ili pravljenje tajnih izmena. Svako ko ima tehničke veštine može pokrenuti čvor, doprineti razvoju ili izgraditi kompatibilne alate. U Bitkoinu, poverenje se stiče na bazi koda i konsenzusa, a ne na centralizovanoj kontroli.
 
 
 ![image](assets/sr-Latn/039.webp)
 
 
-Ova transparentnost je jedan od ključnih razloga zašto ljudi veruju Bitcoin protokolu; sprečava malu grupu programera da manipulišu mrežom za sopstvenu korist. Bitcoin funkcioniše na jednostavnom, ali moćnom principu: ako se ne slažete sa predloženim promenama, slobodni ste da ne ažurirate svoj softver. U nekim slučajevima, to neće izazvati nikakve prekide; i dalje ćete ostati u sinhronizaciji sa ostatkom mreže. Ali u drugim slučajevima, to može dovesti do onoga što je poznato kao Hard Fork, gde se mreža deli na dva dela, i kreira se nova verzija Bitcoin. Upravo to se dogodilo 2017. godine sa podelom između Bitcoin (BTC) i Bitcoin Cash (BCH).
+Ova transparentnost je jedan od ključnih razloga zašto ljudi veruju Bitkoin protokolu; sprečava malu grupu programera da manipulišu mrežom za sopstvenu korist. Bitkoin funkcioniše na jednostavnom, ali moćnom principu: ako se ne slažete sa predloženim promenama, slobodni ste da ne ažurirate svoj softver. U nekim slučajevima, to neće izazvati nikakve probleme; i dalje ćete ostati u sinhronizaciji sa ostatkom mreže. Ali u drugim slučajevima, to može dovesti do onoga što je poznato kao Hard Fork, gde se mreža deli na dva dela, i kreira se nova verzija Bitkoina. Upravo to se dogodilo 2017. godine sa podelom između Bitkoin (BTC) i Bitkoin Cash-a (BCH).
 
 
-Iako ovakvo upravljanje može biti sporo i ponekad neuredno, ono je takođe snaga; osigurava da nijedan entitet ne može jednostrano preuzeti kontrolu, pomažući da Bitcoin ostane stabilan, neutralan i otporan na centralizaciju.
+Iako ovakvo upravljanje može biti sporo i ponekad neuredno, ono je takođe snaga; osigurava da nijedan entitet ne može jednostrano preuzeti kontrolu, pomažući da Bitkoin ostane stabilan, neutralan i otporan na centralizaciju.
 
 
 #### Individualna Validacija: čvorovi
