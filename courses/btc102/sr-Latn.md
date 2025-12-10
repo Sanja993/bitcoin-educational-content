@@ -893,7 +893,7 @@ Mnogi ovo tumače kao cilj Bitkoina: ponuditi način za prenos vrednosti bez pot
 ![image](assets/sr-Latn/033.webp)
 
 
-Da biste produbili svoje znanje o poreklu Bitkoin, nudimo besplatan, sveobuhvatan i dobro dokumentovan kurs obuke na tu temu:
+Da biste produbili svoje znanje o poreklu Bitkoina, nudimo besplatan, sveobuhvatan i dobro dokumentovan kurs obuke na tu temu:
 
 
 https://planb.academy/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
