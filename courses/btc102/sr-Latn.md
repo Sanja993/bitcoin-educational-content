@@ -996,56 +996,56 @@ Iako ovakvo upravljanje može biti sporo i ponekad neuredno, ono je takođe snag
 #### Individualna Validacija: čvorovi
 
 
-Bitcoin omogućava svakome da proveri tačnost Blockchain pokretanjem "čvora" na svom računaru ili serveru. To znači preuzimanje Bitcoin Core softvera (ili druge verzije Bitcoin protokola) i verifikaciju svih transakcija i blokova od 2009. godine. Kada je vaš čvor postavljen i sinhronizovan, postaje potpuna kopija Blockchain i pomaže u podršci mreže.
+Bitkoin omogućava svakome da proveri tačnost Blockchain-a pokretanjem "čvora" na svom računaru ili serveru. To znači preuzimanje Bitkoin Core softvera (ili druge verzije Bitkoin protokola) i verifikaciju svih transakcija i blokova od 2009. godine. Kada je vaš čvor postavljen i sinhronizovan, postaje potpuna kopija Blockchain-a i pomaže u podršci mreže.
 
 
-Iako je ovaj pristup tehnički zahtevniji, on nudi najzahtevnijim korisnicima mogućnost da se odluče protiv poverenja trećim stranama. Pokretanje čvora osigurava da korisnici mogu učestvovati u procesu konsenzusa i ostati necenzurisani, direktno doprinoseći sigurnosti i decentralizaciji mreže.
+Iako je ovaj pristup tehnički zahtevniji, on nudi najzahtevnijim korisnicima mogućnost da ne zavise od poverenja trećih strana. Pokretanje čvora obezbeđuje da korisnici mogu učestvovati u procesu konsenzusa i ostati necenzurisani, direktno doprinoseći sigurnosti i decentralizaciji mreže.
 
 
-### Upotreba slučajeva
+### Primeri upotrebe
 
 
 #### Otpornost, prekogranična metoda plaćanja
 
 
-Zbog svoje decentralizovane prirode, Bitcoin radi 24/7, neometan granicama ili vremenskim zonama. U regionima gde nedostaje tradicionalna bankarska infrastruktura, Bitcoin se često koristi kao brzo i jeftino rešenje za slanje ili primanje sredstava bez oslanjanja na skupe posrednike. Iako naknade za transakcije mogu varirati u zavisnosti od zagušenja mreže, one su generalno mnogo niže od naknada koje banke naplaćuju za međunarodne transfere. Dodatno, Layer-2 rešenja poput Lightning Network omogućavaju još brže i jeftinije Bitcoin transakcije.
+Zbog svoje decentralizovane prirode, Bitkoin radi 24/7, ne zavisi od granica ili vremenskih zona. U regionima gde nedostaje tradicionalna bankarska infrastruktura, Bitkoin se često koristi kao brzo i jeftino rešenje za slanje ili primanje sredstava bez oslanjanja na skupe posrednike. Iako naknade za transakcije mogu varirati u zavisnosti od zagušenja mreže, one su generalno mnogo niže od naknada koje banke naplaćuju za međunarodne transfere. Dodatno, rešenja drugog sloja poput Lightning Mreže omogućavaju još brže i jeftinije Bitkoin transakcije.
 
 
 #### Prodavnica vrednosti
 
 
-Zbog svoje oskudice (ograničeno na 21 milion BTC) i inherentne otpornosti, Bitcoin se često smatra dugoročnom zaštitom štednje. Iako njegova cena može biti nestabilna na kratak rok, Bitcoin je generalno pratio uzlazni trend tokom godina od svog nastanka. Neki investitori kupuju BTC s verom da bi mogao služiti kao čuvar vrednosti, posebno u suočavanju s inflacijom ili finansijskim krizama.
+Zbog svoje ograničene količine (maksimalno 21 milion BTC) i inherentne otpornosti, Bitkoin se često smatra dugoročnom zaštitom štednje. Iako njegova cena može biti volatilna na kratak rok, Bitkoin je generalno pratio uzlazni trend tokom godina od svog nastanka. Neki investitori kupuju BTC s verom da bi mogao služiti kao čuvar vrednosti, posebno u suočavanju s inflacijom ili finansijskim krizama.
 
 
 #### Alat za finansijsku slobodu i otpornost
 
 
-Osim ulaganja, Bitcoin nudi način za zaštitu finansijskog suvereniteta. U zemljama pod autoritarnim režimima ili suočenim sa strogim monetarnim ograničenjima, posedovanje Bitcoin Wallet (sa privatnim ključevima) pruža oblik slobode. Niko ne može blokirati ili konfiskovati ove BTC, sve dok vlasnik obezbeđuje svoju frazu za oporavak.
+Osim ulaganja, Bitkoin nudi način za zaštitu finansijskog suvereniteta. U zemljama pod autoritarnim režimima ili suočenim sa strogim monetarnim ograničenjima, posedovanje Bitkoin Novčanika (sa privatnim ključevima) pruža oblik slobode. Niko ne može blokirati ili konfiskovati ove BTC, sve dok vlasnik obezbeđuje svoju frazu za oporavak.
 
 
-Ova karakteristika je posebno privlačna onima koji se boje cenzure ili zamrzavanja bankovnih računa. Takođe odjekuje kod populacija koje pate od hiperinflacije, kao što je viđeno u Venecueli ili Zimbabveu, gde se držanje BTC-a pokazalo stabilnijim od čuvanja lokalne valute, koja je brzo gubila vrednost.
+Ova karakteristika je posebno privlačna onima koji se boje cenzure ili zamrzavanja bankovnih računa. Takođe značajna je kod populacija koje pate od hiperinflacije, kao što je viđeno u Venecueli ili Zimbabveu, gde se držanje BTC-a pokazalo stabilnijim od čuvanja lokalne valute, koja je brzo gubila vrednost.
 
 
-### Dug put za preći
+### Dug put pred nama
 
 
-Bitcoin se može posmatrati kao "Od nule do jedan": radikalni prekid sa uspostavljenim finansijskim paradigmama. Po prvi put u istoriji, globalna monetarna mreža, dostupna svima, funkcioniše bez centralnog autoriteta, omogućavajući transakcije otporne na cenzuru i privatne transakcije.
+Bitkoin se može posmatrati kao "Od nule do jedan": radikalni prekid sa uspostavljenim finansijskim paradigmama. Po prvi put u istoriji, globalna monetarna mreža, dostupna svima, funkcioniše bez centralnog autoriteta, omogućavajući transakcije otporne na cenzuru i privatnost.
 
 
-Ipak, nakon više od decenije postojanja, Bitcoin i dalje izaziva debate i strasti. Njegovo usvajanje raste, pojavljuju se rešenja druge generacije Layer (poput Lightning Network) kako bi se poboljšala brzina transakcija i smanjile naknade, a preduzeća širom sveta eksperimentišu sa novim slučajevima upotrebe. Verovatno je da će Bitcoin nastaviti da utiče na platne sisteme, pa čak i na način na koji doživljavamo novac, decenijama unapred.
+Ipak, nakon više od decenije postojanja, Bitkoin i dalje izaziva debate i strasti. Njegovo usvajanje raste, pojavljuju se rešenja drugog sloja (poput Lightning Mreže) kako bi se poboljšala brzina transakcija i smanjile naknade, a preduzeća širom sveta eksperimentišu sa novim načinima upotrebe. Verovatno je da će Bitkoin nastaviti da utiče na platne sisteme, pa čak i na način na koji doživljavamo novac, u decenijama koje dolaze.
 
 
 ![image](assets/sr-Latn/040.webp)
 
 
-Ako želite dodatno proširiti svoje znanje, možete pohađati kurs BTC101 na Plan ₿ Academy, koji nudi detaljnije istraživanje tehničkih i ekonomskih osnova Bitcoin.
+Ako želite dodatno proširiti svoje znanje, možete pohađati kurs BTC101 na Plan ₿ Academy, koji nudi detaljnije istraživanje tehničkih i ekonomskih osnova Bitkoin.
 
 
 https://planb.academy/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 
-Nakon ovog uvoda u Bitcoin (koji je možda trajao malo duže od 5 minuta!), sada ste bolje opremljeni za razmatranje kupovine i osiguranja bitkoina. U narednim poglavljima kursa, dublje ćemo istražiti značaj Bitcoin, funkcionisanje njegove industrije i razvoj njenih različitih slojeva. Zatim, u narednom delu, razgovaraćemo o tome kako postaviti svoj lični plan.
+Nakon ovog uvoda u Bitkoin (koji je možda trajao malo duže od 5 minuta!), sada ste bolje opremljeni za razmatranje kupovine i osiguranja bitkoina. U narednim poglavljima kursa, dublje ćemo istražiti značaj Bitkoina, funkcionisanje njegove industrije i razvoj njenih različitih slojeva. Zatim, u narednom delu, razgovaraćemo o tome kako postaviti svoj lični plan.
 
-## Zašto je Bitcoin važan?
+## Zašto je Bitkoin važan?
 
 
 <chapterId>d4327ac4-9ff8-5192-b542-cb78c0bd0aa7</chapterId>
@@ -1054,32 +1054,32 @@ Nakon ovog uvoda u Bitcoin (koji je možda trajao malo duže od 5 minuta!), sada
 :::video id=5f6e7d8c-9b0a-1c2d-3e4f-5a6b7c8d9e0f:::
 
 
-Zašto je Bitcoin toliko važan? To je centralno pitanje ovog kursa. Bilo da je povezano sa vašim studijama ili vašom investicionom strategijom, bez jasnog razumevanja značaja Bitcoin, postoji rizik da se udaljite od svog plana. Cilj je da uvek imate na umu osnovne principe Bitcoin kako biste osigurali da vaša strategija ostane usklađena sa vašim uverenjima.
+Zašto je Bitkoin toliko važan? To je centralno pitanje ovog kursa. Bilo da je povezano sa vašim studijama ili vašom investicionom strategijom, bez jasnog razumevanja značaja Bitkoina, postoji rizik da se udaljite od svog plana. Cilj je da uvek imate na umu osnovne principe Bitkoina kako biste osigurali da vaša strategija ostane usklađena sa vašim uverenjima.
 
 
 ### Univerzalna valuta
 
 
-Barack Obama je jednom nazvao Bitcoin "švajcarskom bankom u vašem džepu," i to s dobrim razlogom. Bitcoin nudi iste mogućnosti svima, bez obzira ko su. Bilo da ste tinejdžer, predsednik, protestant u Hong Kongu, ili "Žuti prsluk" u Francuskoj, svi imaju jednak pristup istom protokolu i alatima:
+Barack Obama je jednom nazvao Bitkoin "švajcarskom bankom u vašem džepu," i to s dobrim razlogom. Bitkoin nudi iste mogućnosti svima, bez obzira ko su. Bilo da ste tinejdžer, predsednik, protestant u Hong Kongu, ili "Žuti prsluk" u Francuskoj, svi imaju jednak pristup istom protokolu i alatima:
 
 
 
-- Kreirajte besplatne i neograničene novčanike (sa Bitcoin, mi zapravo ne govorimo o "nalozima," već o "novčanicima").
+- Kreirajte besplatne i neograničene novčanike (sa Bitkoinom, mi zapravo ne govorimo o "računima," već o "novčanicima").
 - Pošaljite novac bilo gde, bilo kome.
 - Nema potrebe za identifikacijom ili bilo kakvim administrativnim procedurama.
 - Dostupno svima, bez obzira na godine, pol, religiju, zemlju ili nivo prihoda.
 - Privatnost i transparentnost dostupni prema vašem nahođenju.
 - Bez posrednika ili skrivenih naknada.
-- Bitcoin je izvorno sa interneta, što znači da ga svako sa pristupom internetu može koristiti.
+- Bitkoin je izvorno vezan za internet, što znači da ga svako sa pristupom internetu može koristiti.
 
 
 ![image](assets/sr-Latn/041.webp)
 
 
-Bitcoin se može smatrati pravom "valutom naroda," alternativnim monetarnim sistemom koji ne zavisi od bilo koje centralne vlasti i zasniva se na nepromenljivim pravilima umesto na proizvoljnim odlukama. Njegova otvorena i pristupačna priroda čini ga potencijalno revolucionarnim alatom za milijarde ljudi širom sveta, bilo da su isključeni iz tradicionalnog bankarskog sistema ili jednostavno traže suvereniju alternativu.
+Bitkoin se može smatrati pravom "valutom naroda," alternativnim monetarnim sistemom koji ne zavisi od bilo kakvog centralnog autoriteta i zasniva se na nepromenljivim pravilima umesto na proizvoljnim odlukama. Njegova otvorena i pristupačna priroda čini ga potencijalno revolucionarnim alatom za milijarde ljudi širom sveta, bilo da su isključeni iz tradicionalnog bankarskog sistema ili jednostavno traže suvereniju alternativu.
 
 
-Ovo nas dovodi do fundamentalnog, gotovo filozofskog pitanja koje deli entuzijaste Bitcoin u dva glavna pogleda na svet. S jedne strane, neki vide Bitcoin kao rešenje za promociju finansijske inkluzije, omogućavajući milijardama ljudi bez bankovnih usluga da konačno pristupe globalnoj monetarnoj infrastrukturi. S druge strane, neki posmatraju Bitcoin kao alat za finansijsko oslobađanje, namenjen pružanju izlaza za milijarde ljudi koji su već integrisani u bankarski sistem, ali žele da se oslobode njegove zavisnosti i povrate potpunu kontrolu nad svojim novcem. Ova refleksija zaslužuje našu pažnju, i vratićemo joj se detaljnije kasnije.
+Ovo nas dovodi do fundamentalnog, gotovo filozofskog pitanja koje deli entuzijaste Bitkoina u dva glavna pogleda na svet. S jedne strane, neki vide Bitkoin kao rešenje za promociju finansijske inkluzije, omogućavajući milijardama ljudi bez bankovnih usluga da konačno pristupe globalnoj monetarnoj infrastrukturi. S druge strane, neki posmatraju Bitkoin kao alat za finansijsko oslobađanje, namenjen pružanju izlaza za milijarde ljudi koji su već integrisani u bankarski sistem, ali žele da se oslobode njegove zavisnosti i povrate potpunu kontrolu nad svojim novcem. Ova refleksija zaslužuje našu pažnju, i vratićemo se na nju detaljnije kasnije.
 
 
 ![image](assets/sr-Latn/042.webp)
@@ -1088,7 +1088,7 @@ Ovo nas dovodi do fundamentalnog, gotovo filozofskog pitanja koje deli entuzijas
 ### Zaštita od valutnih kriza
 
 
-Vekovima je svet doživljavao monetarne krize koje su imale devastirajuće efekte na populacije. Milijarde ljudi i dalje pate od posledica loše vođenih monetarnih politika, gde manipulacija novcem Supply i kamatnim stopama stvara sistemske neravnoteže. Ove krize nisu samo nasumični događaji—one su rezultat sistema izgrađenog na intervenciji i manipulaciji vrednostima novca i vremena.
+Vekovima je svet doživljavao monetarne krize koje su imale devastirajuće efekte na populacije. Milijarde ljudi i dalje pate od posledica loše vođenih monetarnih politika, gde manipulacija novčanom masom i kamatnim stopama stvara sistemske neravnoteže. Ove krize nisu samo nasumični događaji—one su rezultat sistema izgrađenog na intervenciji i manipulaciji vrednostima novca i vremena.
 
 
 ![image](assets/sr-Latn/043.webp)
@@ -1100,13 +1100,13 @@ Ove krize mogu imati različite oblike. Hiperinflacija, na primer, uništava val
 ![image](assets/sr-Latn/044.webp)
 
 
-I konačno, kada vlade devalviraju svoje nacionalne valute, to postepeno nagriza štednju ljudi; nevidljiv ali stalan odliv njihovog bogatstva. Na mnogo načina, to deluje kao skriveni porez. Sve dok monetarna politika ostaje u rukama centralizovanih vlasti, ovi ciklusi su osuđeni na ponavljanje.
+I konačno, kada vlade obezvređuju svoje nacionalne valute, to postepeno nagriza štednju ljudi; nevidljiv ali stalan odliv njihovog bogatstva. Na mnogo načina, to deluje kao skriveni porez. Sve dok monetarna politika ostaje u rukama centralizovanih vlasti, ovi ciklusi su osuđeni na ponavljanje.
 
 
 ![image](assets/sr-Latn/045.webp)
 
 
-Bitcoin predstavlja smelu alternativu ovom ciklusu hronične monetarne nestabilnosti. Za razliku od valuta koje izdaju države, zasnovan je na nepromenljivim, matematičkim pravilima koja se sprovode konsenzusom; ne od strane vlada ili centralnih banaka. Njegovo izdavanje je predvidljivo i ograničeno na oko 21 milion novčića, što ga čini oblikom stabilnog novca dizajniranog da zadrži svoju vrednost tokom vremena. Pošto se opire cenzuri, svako može čuvati i prenositi vrednost bez oslanjanja na instituciju. I zahvaljujući svojoj deljivosti i prenosivosti, dostupan je i praktičan; finansijska infrastruktura za svakoga, bilo gde.
+Bitkoin predstavlja smelu alternativu ovom ciklusu hronične monetarne nestabilnosti. Za razliku od valuta koje izdaju države, zasnovan je na nepromenljivim, matematičkim pravilima koja se sprovode konsenzusom; ne od strane vlada ili centralnih banaka. Njegovo izdavanje je predvidljivo i ograničeno na oko 21 milion novčića, što ga čini oblikom zdravog novca dizajniranog da zadrži svoju vrednost tokom vremena. Pošto je otporan na cenzuru, svako može čuvati i prenositi vrednost bez oslanjanja na institucije. Zahvaljujući svojoj deljivosti i prenosivosti, dostupan je i praktičan; finansijska infrastruktura za svakoga, bilo gde.
 
 
 **Da li ste znali?** Kroz istoriju, bilo je najmanje 56 dokumentovanih slučajeva hiperinflacije širom sveta. U mnogim od tih slučajeva, čitave ekonomije su se urušile, životne ušteđevine su nestale, a milioni su gurnuti u ekstremno siromaštvo. Još gore, ti monetarni neuspesi često su služili kao odskočna daska za političke prevrate; ponekad vodeći do autoritarnih režima, kao što se desilo u Nemačkoj 1920-ih i Čileu 1970-ih.
@@ -1118,7 +1118,7 @@ Bitcoin predstavlja smelu alternativu ovom ciklusu hronične monetarne nestabiln
 Hanke, S. H., & Krus, N. (2013). *World Hyperinflations*. In R. Parker & R. Whaples (Eds.), The Handbook of Major Events in Economic History. Routledge Publishing. Retrieved from https://ssrn.com/abstract=2130109
 
 
-Kolaps fiat valuta nije neka istorijska slučajnost; to je obrazac koji se ponavlja. Danas, Bitcoin nudi izlaz: jedinstvenu priliku da zaštitite svoje bogatstvo izvan monetarnih sistema pod kontrolom vlade. U ovom trenutku, pitanje nije da li će se desiti još jedna kriza, već kada. Sa Bitcoin, sada imate opciju da se isključite iz ovih destruktivnih ciklusa i izaberete monetarni sistem izgrađen na transparentnosti, predvidljivosti i individualnom suverenitetu.
+Kolaps fiat valuta nije neka istorijska slučajnost; to je obrazac koji se ponavlja. Danas, Bitkoin nudi izlaz: jedinstvenu priliku da zaštitite svoje bogatstvo izvan monetarnih sistema pod kontrolom vlade. U ovom trenutku, pitanje nije da li će se desiti još jedna kriza, već kada. Sa Bitkoinom, sada imate opciju da se isključite iz ovih destruktivnih ciklusa i izaberete monetarni sistem izgrađen na transparentnosti, predvidljivosti i individualnom suverenitetu.
 
 
 ### Odgovor na državnu kontrolu i nepravdu
