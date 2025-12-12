@@ -1138,32 +1138,32 @@ Ali u svetu gde država može u potpunosti kontrolisati imovinu i transakcije, k
 
 
 
-- **Zlato**, iako je služilo kao čuvar vrednosti milenijumima, je **hard** za podelu, nezgodno za transport i nepraktično za upotrebu u hitnim kriznim situacijama.
+- **Zlato**, iako je služilo kao čuvar vrednosti milenijumima, je **teško** za podelu, nezgodno za transport i nepraktično za upotrebu u hitnim kriznim situacijama.
 
 
 
 - **Gotovina**, iako anonimna, glomazna je, lako se konfiskuje i stalno gubi vrednost zbog inflacije.
 
 
-Ali Bitcoin je više od praktičnog alata. To je takođe **mirni oblik protesta**; deklaracija nezavisnosti od finansijskog sistema zasnovanog na proizvoljnoj moći, centralizaciji i sistemskoj nejednakosti. Biranje Bitcoin znači odbacivanje manipulacije, devalvacije i nadzora. Radi se o povratku vaše **suverenosti**, osiguravanju vaše budućnosti i odbrani vašeg prava da kontrolišete sopstveno bogatstvo.
+Ali Bitkoin je više od praktičnog alata. To je takođe **mirni oblik protesta**; deklaracija nezavisnosti od finansijskog sistema zasnovanog na proizvoljnoj moći, centralizaciji i sistemskoj nejednakosti. Biranje Bitkoina znači odbacivanje manipulacije, devalvacije i nadzora. Radi se o povratku vaše **suverenosti**, osiguravanju vaše budućnosti i odbrani vašeg prava da kontrolišete sopstveno bogatstvo.
 
 
-U ovom svetlu, Bitcoin je više od tehnologije. To je alat prirodnog zakona, način da pojedinci ostvare svoja osnovna prava, čak i kada su ta prava uskraćena zakonima zemlje. Vraća moć ljudima, ne kroz revoluciju, već kroz kod.
+U ovom svetlu, Bitkoin je više od tehnologije. To je alat prirodnog zakona, način da pojedinci ostvare svoja osnovna prava, čak i kada su ta prava uskraćena zakonima zemlje. Vraća moć ljudima, ne kroz revoluciju, već kroz kod.
 
 
 ![image](assets/sr-Latn/048.webp)
 
 
-**Da li ste znali**? Bitcoin je pseudoniman, a ne anoniman. Korisnici mogu kreirati Wallet adrese bez otkrivanja svog pravog identiteta, što im omogućava slanje i primanje sredstava izvan tradicionalnog bankarskog sistema.
+**Da li ste znali**? Bitkoin je pseudoniman, a ne anoniman. Korisnici mogu kreirati adrese novčanika bez otkrivanja svog pravog identiteta, što im omogućava slanje i primanje sredstava izvan tradicionalnog bankarskog sistema.
 
 
-Međutim, suprotno uvreženom mišljenju, Bitcoin ne nudi potpunu anonimnost. Svaka transakcija se beleži na javnom Ledger(Blockchain) kojem svako može pristupiti i verifikovati ga. Iako Wallet adrese nisu povezane sa imenima, finansijske aktivnosti korisnika i dalje mogu biti praćene i analizirane ako se ne prate odgovarajuće prakse privatnosti.
+Međutim, suprotno uvreženom mišljenju, Bitkoin ne nudi potpunu anonimnost. Svaka transakcija se beleži na javnoj knjizi (Blockchain-u) kojem svako može pristupiti i verifikovati je. Iako adrese nivčanika nisu povezane sa imenima, finansijske aktivnosti korisnika i dalje mogu biti praćene i analizirane ako se ne primenjuju odgovarajuće prakse privatnosti.
 
 
 ### Rešenje za monetarnu i bankarsku korupciju
 
 
-Centralne banke, kroz svoje ekspanzivne monetarne politike, konstantno erodiraju vašu kupovnu moć. Kroz inflaciju i prekomerno štampanje novca (često prikriveno kao Kvantitativno Opuštanje) postepeno razvodnjavaju vrednost valute u opticaju. Ovo deluje kao nevidljivi porez koji, iz godine u godinu, umanjuje bogatstvo onih koji štede u novcu koji izdaje vlada.
+Centralne banke, kroz svoje ekspanzivne monetarne politike, konstantno erodiraju vašu kupovnu moć. Kroz inflaciju i prekomerno štampanje novca (često prikriveno kao Kvantitativno Opuštanje) postepeno razvodnjavaju vrednost valute u opticaju. Ovo deluje kao nevidljivi porez koji, iz godine u godinu, umanjuje bogatstvo onih koji štede u novcu koji izdaje država.
 
 
 Suprotno uobičajenom verovanju da je inflacija prirodni ekonomski fenomen, ona je zapravo alat za monetarnu kontrolu; onaj koji polako osiromašuje opštu populaciju dok koristi onima koji poseduju finansijsku imovinu.
@@ -1178,16 +1178,16 @@ Ovo nije mana u sistemu; to je nameran mehanizam. Centralne banke i vlade ga kor
 ![image](assets/sr-Latn/049.webp)
 
 
-Naš moderni finansijski sistem izgrađen je na ciklusu duga; ciklusu u kojem zaduživanje nije samo podstaknuto, već je praktično neizbežno. Pojedinci uzimaju kredite kako bi održali svoj životni stil, samo da bi se našli zarobljeni u sistemu gde moraju da vraćaju kamate bankama koje stvaraju novac ni iz čega. Ovo nije slučajno; to je strukturni dizajn namenjen da koristi finansijskim institucijama na račun običnih građana.
+Naš moderni finansijski sistem izgrađen je na ciklusu duga; ciklusu u kojem zaduživanje nije samo podstaknuto, već je praktično neizbežno. Pojedinci uzimaju kredite kako bi održali svoj životni standard, samo da bi se našli zarobljeni u sistemu gde moraju da vraćaju kamate bankama koje stvaraju novac ni iz čega. Ovo nije slučajno; to je strukturni dizajn namenjen da koristi finansijskim institucijama na račun običnih građana.
 
 
-Sistem je korumpiran uticajem centralne banke i njihovom nekontrolisanom moći da manipulišu monetarnim Supply. **Bitcoin je alternativa.**
+Sistem je korumpiran uticajem centralne banke i njihovom nekontrolisanom moći da manipulišu monetarnom ponudom. **Bitkoin je alternativa.**
 
 
-Za razliku od fiat valuta, Bitcoin je upravljan pravilima koja se sprovode konsenzusom. Njegov Supply je ograničen; nikada neće biti više od 21 milion bitkoina u opticaju (u stvari, nešto manje zbog načina na koji je izdavanje strukturisano). Nijedna vlada, centralna banka ili pojedinačni ekonomski akter ne može promeniti ovo ograničenje.
+Za razliku od fiat valuta, Bitkoin je upravljan pravilima koja se sprovode konsenzusom. Njegova ponuda je ograničena; nikada neće biti više od 21 milion bitkoina u opticaju (u stvari, nešto manje zbog načina na koji je izdavanje strukturisano). Nijedna vlada, centralna banka ili pojedinačni ekonomski akter ne može promeniti ovo ograničenje.
 
 
-To znači da Bitcoin posluje pod predvidljivim monetarnim okvirom; onim gde inflacija nije samo transparentna, već je dizajnirana da potpuno nestane kada se poslednji Bitcoin iskopa.
+To znači da Bitkoin posluje pod predvidljivim monetarnim okvirom; onim gde inflacija nije samo transparentna, već je dizajnirana da potpuno nestane kada se poslednji bitkoin iskopa.
 
 
 U prošlosti, zlato je služilo kao kontrola protiv nekontrolisane monetarne ekspanzije. Ali od kolapsa zlatnog standarda 1971. godine, nijedna nacionalna valuta (bilo da je to dolar, evro ili jen) nije podržana opipljivom imovinom. Ovo odvajanje dalo je centralnim bankama slobodu da štampaju novac bez ograničenja, otvarajući put za decenije agresivne monetarne ekspanzije, ponovljenih balona imovine i ponavljajućih finansijskih kriza.
@@ -1198,7 +1198,7 @@ U prošlosti, zlato je služilo kao kontrola protiv nekontrolisane monetarne eks
 
 Kada položite novac u banku, on više nije u potpunosti vaš.
 
-Većina ljudi to ne shvata: novac koji imate na bankovnom računu tehnički nije vaša imovina. U pravnom i praktičnom smislu, to je zajam koji dajete svojoj banci; zajam koji banka može slobodno koristiti za svoje operacije i investicije.
+Većina ljudi to ne shvata: novac koji imate na bankovnom računu tehnički nije vaše vlasništvo. U pravnom i praktičnom smislu, to je zajam koji dajete svojoj banci; zajam koji banka može slobodno koristiti za svoje operacije i investicije.
 
 Ovaj sistem je izgrađen na slepom poverenju javnosti u finansijske institucije, ali nosi ozbiljne rizike:
 
@@ -1208,32 +1208,32 @@ Ovaj sistem je izgrađen na slepom poverenju javnosti u finansijske institucije,
 - Ako vaša banka ograniči pristup vašim sredstvima, možda nećete moći da podignete ili koristite svoj novac. Ovo se dešavalo mnogo puta; tokom ekonomskih kriza u Grčkoj, Libanu i Argentini, ili usred političkih represija kao što su protesti kamiondžija u Kanadi.
 
 
-Bitcoin nudi radikalno drugačiji režim; otvoren, neutralan i neiskvarljiv. Njegova pravila su hardkodirana konsenzusom i primenjuju se jednako na sve učesnike mreže.
+Bitkoin nudi radikalno drugačiji model; otvoren, neutralan i neiskvarljiv. Njegova pravila su ugrađena u kod i primenjuju se jednako na sve učesnike mreže.
 
 
 Ovde dolazi do izražaja osnovni princip:
 
-**"Nisu tvoji ključevi, nije tvoj Bitcoin."**
+**"Nisu tvoji ključevi, nije tvoj Bitkoin."**
 
 Ako ne kontrolišete privatne ključeve svojih bitkoina, onda ih zapravo ne posedujete. Oni su u rukama treće strane; baš kao fiat u banci. Ali ako držite svoje privatne ključeve, vi i samo vi imate potpunu kontrolu nad svojim sredstvima. Nijedna institucija, nijedna vlada, nijedna vlast ne može zamrznuti, zapleniti ili ograničiti vaš pristup.
 
-Ovo je ono što čini Bitcoin moćnom alternativom ranjivostima i prekomernom uticaju tradicionalnog finansijskog sistema: monetarni suverenitet.
+Ovo je ono što čini Bitkoin moćnom alternativom ranjivostima i prekomernom uticaju tradicionalnog finansijskog sistema: monetarni suverenitet.
 
 
-### Bitcoin: Politički pokret?
+### Bitkoin: Politički pokret?
 
 
-Bitcoin preoblikuje ravnotežu moći između pojedinaca i finansijskih institucija. Omogućava svakome da preuzme potpunu kontrolu nad svojim novcem, zaštiti svoju ušteđevinu od inflacije i oslobodi se monetarnih ograničenja koja nameću države. Kao otvoren i bezgraničan sistem, Bitcoin nudi pravedniju alternativu; dostupnu svima, bez obzira na društveni status, nacionalnost ili poreklo.
+Bitkoin preoblikuje ravnotežu moći između pojedinaca i finansijskih institucija. Omogućava svakome da preuzme potpunu kontrolu nad svojim novcem, zaštiti svoju ušteđevinu od inflacije i oslobodi se monetarnih ograničenja koja nameću države. Kao otvoren i bezgraničan sistem, Bitkoin nudi pravedniju alternativu; dostupnu svima, bez obzira na društveni status, nacionalnost ili poreklo.
 
-Da prihvatiš Bitcoin znači da biraš zdrav novac. To je odbijanje da ostaneš samo još jedan zupčanik u inflatornoj, dugom vođenoj mašineriji trenutnog finansijskog sistema. To je čin ličnog suvereniteta i mirnog otpora protiv monetarne korupcije i erozije bogatstva.
+Prihvatiti Bitkoin znači izabrati zdrav novac. To je odbijanje da ostaneš samo još jedan zupčanik u inflatornoj, dugom vođenoj mašineriji trenutnog finansijskog sistema. To je čin ličnog suvereniteta i mirnog otpora protiv monetarne korupcije i erozije bogatstva.
 
 
-Bitcoineri dolaze iz svih sfera života, ali dele zajedničku viziju: svet u kojem monetarni suverenitet leži u rukama pojedinaca, a ne institucija. Među njima su:
+Bitkoineri dolaze iz svih sfera života, ali dele zajedničku viziju: svet u kojem monetarni suverenitet leži u rukama pojedinaca, a ne institucija. Među njima su:
 
 
 - **Cypherpunks**, koji se zalažu za privatnost i opiru nadzoru;
 - **Ugnjetavani građani**, tražeći utočište od autoritarnih režima i kapitalnih kontrola;
-- **Anarhisti**, koji vide Bitcoin kao alat za oslobađanje od državne kontrole;
+- **Anarhisti**, koji vide Bitkoin kao alat za oslobađanje od državne kontrole;
 - **Austrijski ekonomisti**, zalažući se za zdrav novac i slobodu od manipulacije vlade;
 - Inženjeri, finansijeri i zagovornici slobode govora, koji prepoznaju duboke društvene implikacije ove nove monetarne paradigme.
 
@@ -1241,20 +1241,20 @@ Bitcoineri dolaze iz svih sfera života, ali dele zajedničku viziju: svet u koj
 ![image](assets/sr-Latn/051.webp)
 
 
-Bitcoin, po dizajnu, prevazilazi političke i ideološke podele. Nije levo ili desno, libertarijansko ili kolektivističko. To je neutralni protokol, kojim upravljaju pravila (ne vladar) koja se jednako primenjuju na sve. Ipak, samo njegovo postojanje izaziva globalni finansijski status kvo. Bitcoin je postao simbol otpora jer su ga ljudi prihvatili kao alternativu fiat valutama i centralizovanoj finansijskoj infrastrukturi; sistemima koji se sve više smatraju nepravednim, manipulativnim i isključujućim.
+Bitkoin, po svojoj prirodi, prevazilazi političke i ideološke podele. Nije levo ili desno, libertarijansko ili kolektivističko. To je neutralni protokol, kojim upravljaju pravila (ne vladar) koja se jednako primenjuju na sve. Ipak, samo njegovo postojanje izaziva globalni finansijski status kvo. Bitkoin je postao simbol otpora jer su ga ljudi prihvatili kao alternativu fiat valutama i centralizovanoj finansijskoj infrastrukturi; sistemima koji se sve više smatraju nepravednim, manipulativnim i isključujućim.
 
 
-Za um Cypherpunk, Bitcoin je više od digitalne imovine. Ona se suprotstavlja stalnom narušavanju privatnosti u svetu gde se nestanak gotovine često opravdava pod maskom "bezbednosti."
+Za Cypherpunk um, Bitkoin je više od digitalne imovine. Ona se suprotstavlja stalnom narušavanju privatnosti u svetu gde se nestanak gotovine često opravdava pod maskom "bezbednosti."
 
-Bitcoin omogućava cenzuri otporne, peer-to-peer digitalne transakcije; bez posrednika ili čuvara. Kao što je Satoshi Nakamoto zamislio, nudi digitalni ekvivalent gotovine: način da se Exchange vrednost slobodno, bez potrebe za dozvolom.
+Bitkoin omogućava cenzuri otporne, peer-to-peer digitalne transakcije; bez posrednika ili čuvara. Kao što je Satoshi Nakamoto zamislio, nudi digitalni ekvivalent gotovine: način da se vrednost razmenjuje slobodno, bez potrebe za dozvolom.
 
 
 ![image](assets/sr-Latn/052.webp)
 
 
-Bitcoin nije organizacija ili politička partija, ali nesumnjivo nosi snažnu filozofsku poruku. Ona redefiniše odnos između pojedinca i države, izazivajući monopol centralnih banaka na kreiranje novca i ekonomsku kontrolu.
+Bitkoin nije organizacija ili politička partija, ali nesumnjivo nosi snažnu filozofsku poruku. Ona redefiniše odnos između pojedinca i države, izazivajući monopol centralnih banaka na kreiranje novca i ekonomsku kontrolu.
 
-Bilo da su usvojeni od strane boraca za slobodu ili onih koji jednostavno žele da očuvaju svoju kupovnu moć, Bitcoin označava početak nove ere; one u kojoj finansijski suverenitet postaje osnovno ljudsko pravo, dostupno svima.
+Bilo da su usvojeni od strane boraca za slobodu ili onih koji jednostavno žele da očuvaju svoju kupovnu moć, Bitkoin označava početak nove ere; one u kojoj finansijski suverenitet postaje osnovno ljudsko pravo, dostupno svima.
 
 
 ![image](assets/sr-Latn/053.webp)
