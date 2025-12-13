@@ -1263,7 +1263,7 @@ Bilo da su usvojeni od strane boraca za slobodu ili onih koji jednostavno žele 
 Sada kada smo istražili duboko značenje izuma Satoshi Nakamoto, sledeće poglavlje će nas odvesti u izvanrednu industriju koja je izrasla oko ovog protokola; čitav ekosistem koji preoblikuje finansije, tehnologiju i društvo.
 
 
-## Razumevanje industrije Bitcoin
+## Razumevanje industrije Bitkoina
 
 
 <chapterId>e106c6f1-d75b-5a62-b245-0ea2e4d02ef8</chapterId>
@@ -1272,128 +1272,128 @@ Sada kada smo istražili duboko značenje izuma Satoshi Nakamoto, sledeće pogla
 :::video id=8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d:::
 
 
-Od svog lansiranja 2009. godine od strane pseudonimnog tvorca Satoshi Nakamoto, Bitcoin je pokrenuo uspon potpuno nove industrije; sada vrednovane u stotinama milijardi dolara. Uprkos svojoj relativno kratkoj istoriji, ovaj ekosistem je doživeo eksplozivan rast, razvijajući se eksponencijalnom brzinom tokom protekle decenije. Svakog dana, novi igrači (u rasponu od institucionalnih investitora i agilnih startapa do tehnoloških giganata) ulažu značajan kapital i resurse kako bi zauzeli svoje mesto u ovom brzo rastućem sektoru.
+Od svog lansiranja 2009. godine od strane pseudonimnog tvorca Satoshi-ja Nakamoto-a, Bitkoin je pokrenuo nastanak potpuno nove industrije; koja je danas vredna stotine milijardi dolara. Uprkos svojoj relativno kratkoj istoriji, ovaj ekosistem je doživeo eksplozivan rast, razvijajući se eksponencijalnom brzinom tokom protekle decenije. Svakog dana, novi igrači (u rasponu od institucionalnih investitora i agilnih startapa do tehnoloških giganata) ulažu značajan kapital i resurse kako bi zauzeli svoje mesto u ovom brzo rastućem sektoru.
 
 
-Danas je Bitcoin dostigao kritični prag; tačku bez povratka. Vlade, centralne banke, fintech korporacije i tradicionalne finansijske institucije više ne mogu priuštiti da ga ignorišu. Bilo kroz regulaciju, oprezno usvajanje ili otvorenu konfrontaciju, sada prepoznaju neizbežan uticaj Bitcoin na globalnu ekonomiju.
+Danas je Bitkoin dostigao kritični prag; tačku bez povratka. Vlade, centralne banke, fintech korporacije i tradicionalne finansijske institucije više ne mogu priuštiti da ga ignorišu. Bilo kroz regulaciju, oprezno usvajanje ili otvorenu konfrontaciju, sada prepoznaju neizbežan uticaj Bitkoina na globalnu ekonomiju.
 
 
 ### Rođenje globalne industrije
 
 
-Bitcoin je radikalna inovacija, skok sa nule na jedan. Predstavlja potpuni prekid sa tradicionalnim monetarnim paradigmom. Za neke, ova disrupcija je pretnja; egzistencijalni izazov njihovoj uspostavljenoj moći i privilegijama. Za njih, Bitcoin je Pandorina kutija koja nikada nije trebala biti otvorena, i upotrebiće sva sredstva koja su im na raspolaganju da joj se odupru.
+Bitkoin je radikalna inovacija, skok sa nule na jedan. Predstavlja potpuni prekid sa tradicionalnim monetarnim paradigmama. Za neke, ova disrupcija je pretnja; egzistencijalni izazov njihovoj uspostavljenoj moći i privilegijama. Za njih, Bitkoin je Pandorina kutija koja nikada nije trebala biti otvorena, i upotrebiće sva sredstva koja su im na raspolaganju da joj se odupru.
 
 
 ![image](assets/sr-Latn/054.webp)
 
 
-Drugi, međutim, vide Bitcoin kao priliku koja se pruža jednom u generaciji: alat za individualnu slobodu, katalizator za transformaciju globalnog finansijskog sistema i put ka transparentnijoj i pravednijoj alternativi. To su graditelji, usvojitelji i doprinosioci(oni koji oblikuju budućnost).
+Drugi, međutim, vide Bitkoin kao priliku koja se pruža jednom u generaciji: alat za individualnu slobodu, katalizator za transformaciju globalnog finansijskog sistema i put ka transparentnijoj i pravednijoj alternativi. To su graditelji, usvojitelji i doprinosioci (oni koji oblikuju budućnost).
 
 
-**Bitcoin** ostaje neutralan. Ne traži dozvolu. Ne traži odobrenje.
+**Bitkoin** ostaje neutralan. Ne traži dozvolu. Ne traži odobrenje.
 
-**To jednostavno postoji.**
-
-
-U ovom poglavlju istražićemo ključne igrače koji pokreću Bitcoin industriju napred. Razumevanje njihovih uloga, podsticaja i interakcija je ključno za shvatanje dinamike ovog rastućeg ekosistema i za bolje snalaženje u prilikama i izazovima koje on predstavlja.
+**On jednostavno postoji.**
 
 
-### Proliferacija altcoina
+U ovom poglavlju istražićemo ključne igrače koji pokreću Bitkoin industriju napred. Razumevanje njihovih uloga, podsticaja i interakcija je ključno za shvatanje dinamike ovog rastućeg ekosistema i za bolje snalaženje u prilikama i izazovima koje on predstavlja.
 
 
-Tehnički gledano, kreiranje nove kriptovalute je neverovatno lako; može potrajati samo nekoliko minuta i zahteva malo ili nimalo stvarne inovacije. Pravi izazov nije u kreaciji, već u vrednosti. A vrednost, u svetu digitalnih sredstava, je isključivo određena tržištem; poverenjem i potražnjom korisnika.
-
-U decembru 2019. godine, CoinMarketCap je naveo preko 5.000 tokena. Do 2025. taj broj je eksplodirao u milione, zahvaljujući porastu NFT-ova, decentralizovanih finansija (DeFi) i bezbroj drugih aplikacija (neke legitimne, mnoge sumnjive). Ovi tokeni dolaze u svim oblicima i formama: neki tvrde da su valute, drugi funkcionišu kao hartije od vrednosti, platformske korisne funkcije, bočni lanci ili tokenizovane reprezentacije digitalne umetnosti.
+### Proliferacija altkoina
 
 
-Ali da budemo jasni: **većina ovih kriptovaluta su malo više od prevara.**.
+Tehnički gledano, kreiranje nove kriptovalute je neverovatno lako; može potrajati samo nekoliko minuta i zahteva malo ili nimalo stvarne inovacije. Pravi izazov nije u kreiranju, već u vrednosti. A vrednost, u svetu digitalnih sredstava, određuje isključivo tržište; poverenjem i potražnjom korisnika.
 
-Iza blještave tehnologije i uglađenog brendiranja, mnogi od ovih projekata pokreću agresivne marketinške strategije osmišljene da urade jednu stvar, **izvuku vaš Bitcoin**. Oni igraju na pohlepu i neznanje investitora, pletući zavodljive priče o revolucionarnoj tehnologiji ili zagarantovanim povratima; tvrdnje koje retko izdrže detaljnu proveru.
+U decembru 2019. godine, CoinMarketCap je beležio preko 5.000 tokena. Do 2025. taj broj je eksplodirao u milione, zahvaljujući porastu NFT-ova, decentralizovanih finansija (DeFi) i bezbroj drugih aplikacija (neke legitimne, mnoge sumnjive). Ovi tokeni dolaze u svim oblicima i formama: neki tvrde da su valute, drugi funkcionišu kao hartije od vrednosti, platformske korisne funkcije, bočni lanci ili tokenizovane reprezentacije digitalne umetnosti.
 
 
-Naravno, unutar ovog mora buke, mali broj projekata zaista pokušava da pomeri granice. Neki se fokusiraju na rešavanje pravih tehničkih izazova (skalabilnost, privatnost, programabilnost) i mogu doprineti vrednim idejama širem prostoru. Verovatno će tokom vremena, neki od ovih eksperimenata dovesti do korisnih inovacija.
+Ali da budemo jasni: **većina ovih kriptovaluta su jedva malo više od prevara.**.
+
+Iza vela blještave tehnologije i uglađenog brendiranja, mnogi od ovih projekata pokreću agresivne marketinške strategije osmišljene da urade jednu stvar, **izvuku vaš bitkoin**. Oni igraju na pohlepu i neznanje investitora, pletući zavodljive priče o revolucionarnoj tehnologiji ili zagarantovanim povratima; tvrdnje koje retko izdrže detaljnu proveru.
+
+
+Naravno, u ovom moru buke, mali broj projekata zaista pokušava da pomeri granice. Neki se fokusiraju na rešavanje pravih tehničkih izazova (skalabilnost, privatnost, programabilnost) i mogu doprineti vrednim idejama širem prostoru. Verovatno će tokom vremena, neki od ovih eksperimenata dovesti do korisnih inovacija.
 
 
 Ali osnovno pitanje ostaje:
 
-**Mogu li ove inovacije napredovati izvan Bitcoin?**
+**Mogu li ove inovacije opstati izvan Bitkoina?**
 
 
-Do sada, jedna istina se izdvaja: Bitcoin ostaje jedini zaista decentralizovani, cenzuri otporni digitalni novac, podržan globalnom mrežom i rastućim usvajanjem. Za razliku od altcoina, Bitcoin nije podržan od strane centralizovanih kompanija niti ga upravlja nekolicina programera i ranih investitora. To je jedini projekat koji je zaslužio težinu hiljada sati istraživanja, razvoja i neumornog usavršavanja.
+Do sada, jedna istina se izdvaja: Bitkoin ostaje jedini zaista decentralizovani, cenzuri otporni digitalni novac, podržan globalnom mrežom i rastućim usvajanjem. Za razliku od altkoina, Bitkoin nije podržan od strane centralizovanih kompanija niti ga upravlja nekolicina programera i ranih investitora. To je jedini projekat koji je zaslužio težinu hiljada sati istraživanja, razvoja i neumornog usavršavanja.
 
 
-| Feature               | Bitcoin                  | Altcoins (99.9% of them)       |
+| Osobina               | Bitkoin                  | Altkoini (99.9% njih)       |
 | ---------------------|--------------------------|--------------------------------|
-| **Liquidity**         | High                     | Low                            |
-| **Adoption (Real-World)** | Global and growing       | Very limited                   |
-| **Team**              | Decentralized and robust | Centralized and opaque         |
-| **Reputation**        | Strong and globally recognized        | Varies, often questionable     |
-| **Infrastructure**    | Stable and secure        | Unstable and vulnerable        |
-| **Decentralization**  | Yes                      | Rarely                         |
-| **Scam Risk**             | No                       | Very likely                    |
-| **Real utility?**     | Yes                      | Debatable                      |
+| **Likvidnost**         | Visoka                     | Niska                            |
+| **Usvajanje (u praksi)** | Globalno i u porastu      | Veoma ograničeno                   |
+| **Tim**              | Decentralizovan i robustan | Centralizovan i netransparentan         |
+| **Reputacija**        | Snažna i globalno priznata        | Varira, često upitna     |
+| **Infrastruktura**    | uraStabilna i sigurna        | Nestabilna i ranjiva        |
+| **Decentralizacija**  | Da                      | Retko                         |
+| **Rizik od prevare**             | Ne                       | Veoma verovatan                    |
+| **Prava korisnost?**     | Da                      | Diskutabilna                      |
 
 
-**Budite oprezni prema obmanjujućim tvrdnjama kao što su:**
+**Budite oprezni prema zavaravajućim tvrdnjama kao što su:**
 
 
 
-- "Blockchain, ne Bitcoin"
-- "XRP je sledeći Bitcoin"
-- "Libra će zameniti Bitcoin
-- "Moj projekat je bolja verzija Bitcoin"
-- "Digitalne valute centralne banke učiniće Bitcoin zastarelim"
+- "Blockchain, ne Bitkoin"
+- "XRP je sledeći Bitkoin"
+- "Libra će zameniti Bitkoin"
+- "Moj projekat je bolja verzija Bitkoina"
+- "Digitalne valute centralne banke učiniće Bitkoin zastarelim"
 
 
-Pre nego što uložite svoje vreme ili resurse u bilo koji Altcoin, uradite sopstveno istraživanje jer to nije ono što ćemo ovde pokriti.
+Pre nego što uložite svoje vreme ili resurse u bilo koji Altkoin, uradite sopstveno istraživanje jer to nije ono što ćemo ovde pokriti.
 
-**Ovde smo da pokrijemo Bitcoin i samo Bitcoin.**
+**Ovde smo da pokrijemo Bitkoin i samo Bitkoin.**
 
 
 ### Usvajanje od strane velikih institucija
 
 
-Nakon ICO buma 2017. godine, institucije su počele pokazivati ozbiljno interesovanje za Blockchain; ali često bez razumevanja šta ga zaista čini revolucionarnim. Centralne banke i vlade sada istražuju digitalne valute centralnih banaka (CBDC), nadajući se da će modernizovati finansijsku infrastrukturu uz zadržavanje potpune kontrole nad korisničkim transakcijama. Projekti su već u toku u zemljama kao što su Švedska, EU, Rusija i Kina.
+Nakon ICO buma 2017. godine, institucije su počele pokazivati ozbiljno interesovanje za Blockchain; ali često bez razumevanja šta ga zaista čini revolucionarnim. Centralne banke i vlade sada istražuju digitalne valute centralnih banaka (CBDC), nadajući se da će modernizovati finansijsku infrastrukturu uz zadržavanje potpune kontrole nad transakcijama korisnika. Projekti su već u toku u zemljama kao što su Švedska, EU, Rusija i Kina.
 
 
 Tehnološki giganti su se takođe pridružili trci. Facebook (sada Meta) pokrenuo je svoju inicijativu za stabilni novac, Libra, sa ciljem stvaranja digitalne valute podržane korpom fiat valuta. Ali projekat je naišao na brzi regulatorni otpor i na kraju je napušten.
 
 
-| Feature                    | Bitcoin | Altcoins | Facebook-Coin | FedCoin |
+| Osobina                    | Bitkoin | Altkoini | Facebook-novčić | Fed-novčić |
 |---------------------------|---------|----------|---------------|---------|
-| **Public**                | Yes     | Varies   | No            | No      |
-| **Open**                  | Yes     | Varies   | No            | No      |
-| **Borderless**            | Yes     | Varies   | No            | No      |
-| **Neutral**               | Yes     | Varies   | No            | No      |
-| **Censorship-resistant**  | Yes     | Varies   | No            | No      |
+| **Javan**                | Da     | Varira   | Ne            | Ne      |
+| **Otvoren**                  | Da     | Varira   | Ne            | Ne      |
+| **Bez granica**            | Da     | Varira   | Ne            | Ne      |
+| **Neutralan**               | Da     | Varira   | Ne            | Ne      |
+| **Otporan na cenzuru**  | Da     | Varira   | Ne            | Ne      |
 
-Uprkos smelom marketingu, ove inicijative ne mogu da se takmiče sa Bitcoin; one imitiraju njegov jezik dok odbacuju njegove osnovne principe. Izgrađene su za usklađenost, a ne za slobodu. Dizajnirane su da prošire nadzor, a ne da zaštite privatnost. One učvršćuju kontrolu umesto da je distribuiraju.
+Uprkos smelom marketingu, ove inicijative ne mogu da se takmiče sa Bitkoinom; one imitiraju njegov jezik dok odbacuju njegove osnovne principe. Izgrađene su za usklađenost, a ne za slobodu. Dizajnirane su da prošire nadzor, a ne da zaštite privatnost. One učvršćuju kontrolu umesto da je distribuiraju.
 
 
-Facebookov Libra nikada nije bio zamišljen da izazove status quo; izgrađen je da radi sa sistemom. Nasuprot tome, Bitcoin postoji potpuno izvan tog sistema. Ne traži dozvolu. Ne oslanja se na poverenje. I radi besprekorno (bez lidera, zastoja ili centralne kontrole) već više od decenije.
+Facebook-ov Libra koin nikada nije bio zamišljen da izazove status quo; izgrađen je da radi sa sistemom. Nasuprot tome, Bitkoin postoji potpuno izvan tog sistema. Ne traži dozvolu. Ne oslanja se na poverenje. I radi besprekorno (bez lidera, zastoja ili centralne kontrole) već više od decenije.
 
 
 ![image](assets/sr-Latn/055.webp)
 
 
-### Regulacija i pristupi vlade
+### Regulacija i pristupi vlada
 
 
-Bitcoin, po svojoj prirodi, deluje van tradicionalnih okvira. Ne oslanja se na centralni autoritet i ne može biti kontrolisan ili izmenjen od strane bilo kog pojedinačnog entiteta. Međutim, iako je sam protokol imun na regulaciju, učesnici koji s njim interaguju (berze, preduzeća i korisnici) i dalje podležu nacionalnim zakonima.
+Bitkoin, po svojoj prirodi, deluje van tradicionalnih okvira. Ne oslanja se na centralni autoritet i ne može biti kontrolisan ili izmenjen od strane bilo kog pojedinačnog entiteta. Međutim, iako je sam protokol imun na regulaciju, učesnici koji ga koriste (berze, preduzeća i korisnici) i dalje podležu nacionalnim zakonima.
 
 
 ![image](assets/sr-Latn/056.webp)
 
 
-Pošto je Bitcoin globalna mreža, zemlje su odgovorile na veoma različite načine:
+Pošto je Bitkoin globalna mreža, zemlje su odgovorile na veoma različite načine:
 
 
 
-- Neki nameću stroga ograničenja, poput Kine, pokušavajući obuzdati upotrebu bez ikakvog stvarnog zaustavljanja.
+- Neki nameću stroga ograničenja, poput Kine, pokušavajući obuzdati upotrebu bez ikakvog stvarnog uspeha.
 
 
 
-- Neki drugi nude gostoljubivija okruženja, kao što su Švajcarska ili Kanada, videći Bitcoin kao priliku, a ne kao pretnju.
+- Neki drugi nude gostoljubivija okruženja, kao što su Švajcarska ili Kanada, videći Bitkoin kao priliku, a ne kao pretnju.
 
 
 
@@ -1403,34 +1403,34 @@ Pošto je Bitcoin globalna mreža, zemlje su odgovorile na veoma različite nač
 ![image](assets/sr-Latn/057.webp)
 
 
-Vlade i institucije često se bore da tačno klasifikuju Bitcoin (da li je to novac, imovina ili nešto potpuno novo?). Kao rezultat toga, regulative su obično reaktivne, nedosledne i stalno se razvijaju. Ako ste uključeni u Bitcoin, važno je da budete informisani o lokalnom okruženju; posebno kada je reč o porezima, pristupu bankama i pravilima usklađenosti.
+Vlade i institucije često se bore da tačno klasifikuju Bitkoin (da li je to novac, imovina ili nešto potpuno novo?). Kao rezultat toga, regulative su obično reaktivne, nedosledne i stalno se razvijaju. Ako ste uključeni u Bitkoin, važno je da budete informisani o lokalnom okruženju; posebno kada je reč o porezima, pristupu bankama i pravilima usklađenosti.
 
 
-### Stav banaka na Bitcoin
+### Stav banaka prema Bitkoinu
 
 
-Kao kamen temeljac tradicionalnog finansijskog sistema, banke vide Bitcoin kao direktnu pretnju njihovom ekonomskom modelu, koji je usredsređen na posredovanje i kontrolu finansijskih tokova. Ovo objašnjava zašto su mnoge banke širom sveta uvele ograničenja za preduzeća i pojedince koji koriste Bitcoin. Neke idu čak do zatvaranja računa ili ograničavanja pristupa uslugama za kompanije koje posluju u sektoru kriptovaluta, često navodeći zabrinutost zbog sprečavanja pranja novca (AML) i finansiranja terorizma (CTF).
+Kao kamen temeljac tradicionalnog finansijskog sistema, banke vide Bitkoin kao direktnu pretnju njihovom ekonomskom modelu, koji je usredsređen na posredovanje i kontrolu finansijskih tokova. Ovo objašnjava zašto su mnoge banke širom sveta uvele ograničenja za preduzeća i pojedince koji koriste Bitkoin. Neke idu čak do zatvaranja računa ili ograničavanja pristupa uslugama za kompanije koje posluju u sektoru kriptovaluta, često navodeći zabrinutost zbog sprečavanja pranja novca (AML) i finansiranja terorizma (CTF).
 
 
-Međutim, iako se Bitcoin smatra konkurentom, mnoge od tih istih banaka aktivno ulažu u istraživanje i razvoj Blockchain, pokušavajući iskoristiti inovacije Bitcoin bez odricanja od svoje kontrole. Razumeju da Blockchain nudi značajan potencijal, ali teže da kontrolišu kako će biti integrisan u njihovu postojeću infrastrukturu, umesto da prihvate decentralizovani, otvoreni model Bitcoin.
+Međutim, iako se Bitkoin smatra konkurentom, mnoge od tih istih banaka aktivno ulažu u istraživanje i razvoj Blockchain-a, pokušavajući iskoristiti inovacije koje Bitkoin donosi, ali bez odricanja od kontrole. Razumeju da Blockchain nudi značajan potencijal, ali žele da kontrolišu kako će biti integrisan u njihovu postojeću infrastrukturu, umesto da prihvate decentralizovani, otvoreni model Bitkoina.
 
 
-### Berze kriptovaluta i Bitcoin skrbništvo
+### Menjačnice i čuvanje Bitkoina
 
 
-Berze igraju ključnu ulogu u ekosistemu Bitcoin, delujući kao mostovi između fiat valuta i Bitcoin. Omogućavaju korisnicima da kupuju, prodaju, i ponekad trguju Bitcoin za druge digitalne aktive. Međutim, nisu sve berze iste, i važno je izabrati onu koja se poklapa sa vašim potrebama uz minimiziranje rizika. Evo ključnih faktora koje treba razmotriti pre korišćenja Exchange:
+Menjačnice igraju ključnu ulogu u Bitkoin ekosistemu, delujući kao mostovi između fiat valuta i Bitkoina. Omogućavaju korisnicima da kupuju, prodaju, i ponekad trguju Bitkoinom za druge digitalne tokene. Međutim, nisu sve menjačnice iste, i važno je izabrati onu koja se poklapa sa vašim potrebama uz minimiziranje rizika. Evo ključnih faktora koje treba razmotriti pre korišćenja menjačnice:
 
 
 
-- čvrsta reputacija za sigurnost ;
-- dovoljna likvidnost za osiguranje brzog trgovanja bez ekstremnih fluktuacija cena;
-- odgovorna i efikasna korisnička služba;
+- Dobra reputacija za sigurnost ;
+- Dovoljna likvidnost za osiguranje brzog trgovanja bez ekstremnih fluktuacija cena;
+- Odgovorna i efikasna korisnička služba;
 - Korisnički prijatan Interface koji olakšava navigaciju kroz transakcije;
-- opcija za automatske ponavljajuće kupovine (ARP);
-- lako, besplatno povlačenje bitkoina na lični Wallet.
+- Opcija za automatske ponavljajuće kupovine (ARP);
+- Jednostavno i besplatno povlačenje bitkoina na lični novčanik.
 
 
-Berze koje su u skladu sa lokalnim propisima obično moraju da prate stroge protokole **"Upoznaj svog klijenta"** (KYC), zahtevajući od korisnika da dostave identifikacione dokumente pre nego što pristupe uslugama. Iako su ovi procesi dizajnirani da spreče ilegalne aktivnosti, oni mogu ugroziti privatnost koju Bitcoin inherentno nudi.
+Menjačnice koje se pridržavaju lokalnih regulativa obično moraju da prate stroge protokole **"Upoznaj svog klijenta"** (KYC-Know Your Customer), zahtevajući od korisnika da dostave identifikacione dokumente pre nego što pristupe uslugama. Iako su ovi procesi dizajnirani da spreče ilegalne aktivnosti, oni mogu ugroziti privatnost koju Bitkoin inherentno nudi.
 
 
 ![image](assets/sr-Latn/058.webp)
@@ -1444,11 +1444,11 @@ Međutim, postoje alternative za sticanje bitkoina bez podvrgavanja KYC-u:
 
 
 - P2P platforme za kupovinu kao što su Bisq, Robosat, LNP2PBot, Peach, HODL HODL, itd. ;
-- Direktne kupovine gotovinom, na primer na lokalnim Bitcoin okupljanjima;
+- Direktne kupovine gotovinom, na primer na lokalnim Bitkoin okupljanjima;
 - Regulisane platforme za kupovinu bez KYC, koje su retke, ali dostupne u određenim zemljama.;
-- Bitcoin Bankomati;
-- Rad u Exchange za bitkoine;
-- Mining bitcoina.
+- Bitkoin Bankomati;
+- Rad u zamenu za bitkoine;
+- Rudarenje bitkoina.
 
 
 Postoji nekoliko vrsta platformi, od kojih je svaka pogodna za specifične namene:
@@ -1456,7 +1456,7 @@ Postoji nekoliko vrsta platformi, od kojih je svaka pogodna za specifične namen
 
 
 
-- **Peer-to-peer Exchange platforme (P2P)**
+- **Peer-to-peer (P2P) menjačnice**
 
 
 Ove platforme omogućavaju korisnicima da direktno kupuju i prodaju bitkoine jedni drugima, bez centralizovanog posrednika. Nude veću privatnost, posebno zato što funkcionišu bez KYC. Možete pronaći lokalne prodavce sa kojima možete obaviti transakcije lično ili koristiti razne online metode plaćanja (SEPA, Revolut, Wise, itd.).
@@ -1476,10 +1476,10 @@ https://planb.academy/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9
 https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
 
-- **Bitcoin-samo Exchange platforme**
+- **Platforme isključivo za Bitkoin**
 
 
-Ove platforme pristupaju korisnicima na jednostavan način, nudeći jednostavnu, transparentnu uslugu. One su isključivo Bitcoin. Često implementiraju rešenja za kupovinu bitkoina putem prosečne cene dolara (DCA) i nude automatska povlačenja na lični Wallet. Posebno su pogodne za početnike koji žele da akumuliraju bitkoine na progresivan i siguran način. Primeri: Relai, Bull Bitcoin, StackinSat, Bitstack...
+Ove platforme pristupaju korisnicima na jednostavan način, nudeći jednostavnu, transparentnu uslugu. One su isključivo fokusirane na Bitkoin. Često implementiraju rešenja za kupovinu bitkoina putem prosečne cene u dolarima (DCA) i nude automatska povlačenja na lični novčanik. Posebno su pogodne za početnike koji žele postepeno i sigurno da akumuliraju bitcoine. Primeri: Relai, Bull Bitcoin, StackinSat, Bitstack...
 
 
 https://planb.academy/tutorials/exchange/centralized/bitstack-29fd71be-9570-42c6-8f6f-cd355d62e746
@@ -1491,10 +1491,10 @@ https://planb.academy/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d
 https://planb.academy/tutorials/exchange/centralized/stackinsat-5af6a380-f3c6-4246-9f81-9957a16ab066
 
 
-- Opšte namene ili platforme orijentisane na trgovinu **Exchange**
+- Platforme za trgovinu **Menjačnice**
 
 
-Ove platforme nude napredne funkcije koje prevazilaze jednostavnu kupovinu Bitcoin, uključujući leverage i derivate. Međutim, snažno savetujemo protiv trgovanja. Umesto toga, preporučujemo kupovinu Bitcoin i premeštanje na vaš sopstveni Wallet. Trgovanje je aktivnost visokog rizika i generalno nije prikladna za one koji su fokusirani na dugoročno akumuliranje. Izbegavanje trgovanja često je pametniji put.
+Ove platforme nude napredne funkcije koje prevazilaze jednostavnu kupovinu Bitkoina, uključujući trgovanje sa polugom i derivatima. Međutim, snažno savetujemo da izbegavate trgovanje. Umesto toga, preporučujemo kupovinu Bitkoina i premeštanje na vaš sopstveni novčanik. Trgovanje je aktivnost visokog rizika i generalno nije prikladna za one koji su fokusirani na dugoročno akumuliranje. Izbegavanje trgovanja često je pametniji put.
 
 
 https://planb.academy/tutorials/exchange/centralized/bitfinex-dc306d39-bd96-4ab9-a278-a322316716db
@@ -1505,87 +1505,87 @@ https://planb.academy/tutorials/exchange/centralized/kraken-1ef03e25-9b42-49bd-a
 
 https://planb.academy/tutorials/exchange/centralized/paymium-92603f76-b985-49ce-81e5-f4fa0df776e5
 
-**Exchange platforme nisu sigurne novčanike**. Ostavljanje vaših bitkoina na Exchange izlaže vas značajnom riziku. Nekoliko scenarija može dovesti do gubitka vaših sredstava:
+**Menjačnice nisu sigurni novčanici**. Ostavljanje vaših bitkoina na menjačnici izlaže vas značajnom riziku. Nekoliko scenarija može dovesti do gubitka vaših sredstava:
 
 
 
-- **Hakiranje**: Mnogi bitkoini su ukradeni sa kompromitovanih platformi (npr. MtGox);
-- **Zapljena od strane vlade**: Vlada može zatvoriti platformu i zamrznuti sredstva korisnika;
-- **Bankrotstvo ili prevara**: Brojne platforme su nestale sa novcem svojih korisnika (npr. FTX).
+- **Hakovanje**: Mnogi bitkoini su ukradeni sa kompromitovanih platformi (npr. MtGox);
+- **Zaplena od strane vlade**: Vlada može zatvoriti platformu i zamrznuti sredstva korisnika;
+- **Bankrot ili prevara**: Brojne platforme su nestale sa novcem svojih korisnika (npr. FTX).
 
 
-Zlatno pravilo je jednostavno: **Ako ne posedujete svoje privatne ključeve, ne posedujete zaista svoje bitkoine**. Uvek povucite svoja sredstva na lični Wallet što je pre moguće kako biste osigurali potpunu suverenost nad svojim novcem.
+Zlatno pravilo je jednostavno: **Ako ne posedujete svoje privatne ključeve, ne posedujete zaista svoje bitkoine**. Uvek povucite svoja sredstva na lični novčanik što je pre moguće kako biste osigurali potpunu suverenost nad svojim novcem.
 
 
-### Novčanici, Mining i razvoj: stubovi ekosistema
+### Novčanici, Rudarenje i razvoj: stubovi ekosistema
 
 
-#### Bitcoin novčanici
+#### Bitkoin novčanici
 
 
-U srcu Bitcoin Ownership nalazi se Wallet—specijalizovani alat koji sigurno čuva privatne ključeve potrebne za pristup i upravljanje vašim bitcoinima. Wallet može imati različite oblike: posvećen hardverski uređaj, mobilna ili desktop aplikacija, ili čak papir sa zapisanim ključem. Ovi novčanici povezuju vaše digitalno bogatstvo sa stvarnim svetom, čineći Bitcoin upotrebljivim u svakodnevnom životu.
+U srcu vlasništva nad Bitkoinom nalazi se novčanik—specijalizovani alat koji bezbedno čuva privatne ključeve potrebne za pristup i upravljanje vašim bitkoinima. Novčanik može imati različite oblike: hardverski uređaj, mobilna ili desktop aplikacija, ili čak papir sa zapisanim ključem. Ovi novčanici povezuju vaše digitalno bogatstvo sa stvarnim svetom, čineći Bitkoin upotrebljivim u svakodnevnom životu.
 
 
-Svaka vrsta Wallet nudi različitu ravnotežu:
+Svaka vrsta novčanika nudi različit balans između:
 
 
-- Privatnost
-- Bezbednost
-- Jednostavnost korišćenja
-- Cena
+- Privatnosti
+- Bezbednosti
+- Jednostavnosti korišćenja
+- Cene
 
 
-Industrija Bitcoin Wallet je podeljena u nekoliko kategorija, od kojih svaka zadovoljava različite potrebe i nivoe tehničke stručnosti:
-
-
-
-- **Hardware Wallet Proizvođači**: Ove kompanije razvijaju fizičke uređaje dizajnirane za sigurno skladištenje ključeva. Neki su open-source, dok drugi nude vlasnička rešenja sa različitim funkcijama i nivoima sigurnosti. Značajna imena uključuju Ledger, Trezor, Coinkite, Foundation i Shiftcrypto.
-- **Software Wallet Programeri**: Oni se kreću od kompanija do nezavisnih programera koji kreiraju mobilne i desktop aplikacije. Njihove ponude variraju u korisničkom iskustvu, bezbednosti i funkcijama. Primeri uključuju Sparrow, Wizard Sardine, Galoy, Synonym i Blockstream.
-- DIY (*Do It Yourself*) **Wallets**: Ova rešenja otvorenog koda su dizajnirana za napredne korisnike koji žele potpunu kontrolu i minimalno oslanjanje na treće strane. Izrada sopstvenog Wallet smanjuje zavisnost od poverenja i može povećati vašu sigurnost. Značajne DIY opcije uključuju Seedsigner i Specter DIY.
-
-
-Novčanici igraju fundamentalnu ulogu u Bitcoin i biće detaljnije istraženi kasnije u ovom kursu.
-
-
-#### Bitcoin Mining
-
-
-Mining je osnovna funkcija Bitcoin mreže. Ona osigurava bezbednost sistema i održava Blockchain operativnim. Rudari potvrđuju transakcije i obezbeđuju mrežu izvođenjem energetski intenzivnih proračuna poznatih kao Proof of Work. Svaki novo iskopani blok dodaje grupu transakcija u Blockchain i oslobađa nove bitkoine prema rasporedu izdavanja protokola.
-
-
-U ranim danima Bitcoin, Mining se mogao obavljati sa ličnog računara. Danas je to konkurentna, globalna industrija kojom dominiraju kompanije sa značajnim finansijskim i tehničkim resursima. Potraga za jeftinim izvorima energije postala je ključni fokus, jer rudari teže optimizaciji operativnih troškova i profitabilnosti. Operacije Mining sada se kreću od masivnih industrijskih postrojenja do malih postavki koje rade u domovima ili garažama.
-
-
-Ekosistem Mining sastoji se od nekoliko glavnih igrača:
+Industrija Bitkoin novčanika je podeljena u nekoliko kategorija, od kojih svaka zadovoljava različite potrebe i nivoe tehničke stručnosti:
 
 
 
-- Proizvođači hardvera: Kompanije poput Bitmain-a dizajniraju i proizvode ASIC-ove (Application-Specific Integrated Circuits), ultra-specijalizovane čipove kreirane isključivo za Mining Bitcoin.
-- **Mining bazeni**: Ovo su kolektivi rudara koji kombinuju svoju računarsku snagu kako bi poboljšali svoje šanse za osvajanje nagrada. S obzirom na sve veću težinu Mining, bazeni nude predvidljivije isplate raspodelom nagrada za blokove (novoiskopani bitkoini i naknade za transakcije) među učesnicima na osnovu njihovog doprinosa. Primeri uključuju Foundry USA, AntPool, F2Pool, MARA Pool i Braiins Pool.
-- **Miners**: Ovo su pojedinci ili organizacije koje pokreću Mining hardver i softver. S jedne strane, postoje mali rudari koji koriste mašine poput Antminer S9, a s druge strane, industrijske operacije poput Galaxy Digital, koje upravljaju ogromnim objektima posvećenim Mining.
+- **Proizvođači hardverskih novčanika**: Ove kompanije razvijaju fizičke uređaje dizajnirane za sigurno skladištenje ključeva. Neki su otvorenog koda (open-source), dok drugi nude vlasnička rešenja sa različitim funkcijama i nivoima sigurnosti. Značajna imena uključuju Ledger, Trezor, Coinkite, Foundation i Shiftcrypto.
+- **Razvoj softverskih novčanika**: Oni se kreću od kompanija do nezavisnih programera koji kreiraju mobilne i desktop aplikacije. Njihove ponude variraju u korisničkom iskustvu, bezbednosti i funkcijama. Primeri uključuju Sparrow, Wizard Sardine, Galoy, Synonym i Blockstream.
+- ***DIY- Uradi sam (*Do It Yourself*) novčanici**: Ova rešenja otvorenog koda su dizajnirana za napredne korisnike koji žele potpunu kontrolu i minimalno oslanjanje na treće strane. Izrada sopstvenog novčanika smanjuje zavisnost od poverenja i može povećati vašu sigurnost. Poznati primeri: Seedsigner i Specter DIY.
 
 
-Mining je svet za sebe, sa mnogo slojeva za istraživanje; tehnički izazovi, ekonomski podsticaji i energetska razmatranja dolaze do izražaja. Za one koji su zainteresovani da dalje istraže ovo područje i zaista razumeju kako funkcioniše, naš kurs MIN201 vas vodi kroz sve što treba da znate.
+Novčanici igraju fundamentalnu ulogu u Bitkoinu i biće detaljnije istraženi kasnije u ovom kursu.
+
+
+#### Bitkoin rudarenje
+
+
+Rudarenje je osnovna funkcija Bitkoin mreže. Ona osigurava bezbednost sistema i održava Blockchain operativnim. Rudari potvrđuju transakcije i obezbeđuju mrežu izvođenjem energetski intenzivnih proračuna poznatih kao Proof of Work. Svaki novo iskopani blok dodaje grupu transakcija u Blockchain i oslobađa nove bitkoine prema protokolu.
+
+
+U ranim danima Bitkoina, rudarenje je bilo moguće na ličnom računaru. Danas je to konkurentna, globalna industrija kojom dominiraju kompanije sa značajnim finansijskim i tehničkim resursima. Potraga za jeftinim izvorima energije postala je ključni fokus, jer rudari teže optimizaciji operativnih troškova i profitabilnosti. Operacije rudarenja sada se kreću od masivnih industrijskih postrojenja do malih postavki koje rade u domovima ili garažama.
+
+
+Ekosistem rudarenja sastoji se od nekoliko glavnih igrača:
+
+
+
+- **Proizvođači hardvera**: Kompanije poput Bitmain-a dizajniraju i proizvode ASIC-ove (Application-Specific Integrated Circuits), ultra-specijalizovane čipove kreirane isključivo za rudarenjr Bitkoina.
+- **Rudarski bazeni**: Ovo su kolektivi rudara koji kombinuju svoju računarsku snagu kako bi poboljšali svoje šanse za osvajanje nagrada. S obzirom na sve veću težinu rudarenja, bazeni nude predvidljivije isplate raspodelom nagrada za blokove (novoiskopani bitkoini i naknade za transakcije) među učesnicima na osnovu njihovog doprinosa. Primeri uključuju Foundry USA, AntPool, F2Pool, MARA Pool i Braiins Pool.
+- **Rudari**: Ovo su pojedinci ili organizacije koje pokreću rudarski hardver i softver. S jedne strane, postoje mali rudari koji koriste mašine poput Antminer S9, a s druge strane, industrijske operacije poput Galaxy Digital, koje upravljaju ogromnim objektima posvećenim rudarenju.
+
+
+Rudarenje je svet za sebe, sa mnogo slojeva za istraživanje; tehnički izazovi, ekonomski podsticaji i energetska aspekti dolaze do izražaja. Za one koji su zainteresovani da dalje istraže ovo područje i zaista razumeju kako funkcioniše, naš kurs MIN201 vas vodi kroz sve što treba da znate.
 
 
 https://planb.academy/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 
-#### Razvoj u ekosistemu Bitcoin
+#### Razvoj u Bitkoin ekosistemu 
 
 
-U srcu tehničke evolucije Bitcoin nalazi se Bitcoin Core, najčešće korišćeni softverski klijent za pokretanje Bitcoin čvora. To je projekat otvorenog koda, potpuno transparentan i javno dostupan na GitHub-u: [https://github.com/Bitcoin/Bitcoin](https://github.com/Bitcoin/Bitcoin). gde svako može pregledati kod, pratiti diskusije i videti kako se protokol razvija. Iako se ažuriranja predlažu i raspravljaju, niko nije primoran da ih usvoji i korisnici ostaju u kontroli nad verzijom koju koriste.
+U srcu tehničke evolucije Bitkoin nalazi se Bitcoin Core, najčešće korišćeni softverski klijent za pokretanje Bitkoin čvora. To je projekat otvorenog koda, potpuno transparentan i javno dostupan na GitHub-u: [https://github.com/Bitcoin/Bitcoin](https://github.com/Bitcoin/Bitcoin). gde svako može pregledati kod, pratiti diskusije i videti kako se protokol razvija. Iako se ažuriranja predlažu i raspravljaju, niko nije primoran da ih usvoji i korisnici ostaju u kontroli nad verzijom koju koriste.
 
 
-Razvoj Bitcoin može se razumeti kroz nekoliko različitih grupa saradnika:
+Razvoj Bitkoina može se razumeti kroz nekoliko različitih grupa saradnika:
 
 
 
-- **Bitcoin Core developers**, Ovo su pojedinci koji održavaju i unapređuju glavni softverski klijent. Među njima su održavaoci, koji imaju ključeve za upravljanje repozitorijumom. U 2025. godini, njih petoro su: Hennadii Stepanov, Michael Ford, Ava Chow, Gloria Zhao i Ryan Ofsky. Zatim, tu su i saradnici koji podnose izmene koda, ispravke grešaka ili poboljšanja. Ovi predlozi prolaze kroz recenziju kolega i diskusiju u zajednici pre nego što budu prihvaćeni.
-- Programeri slojevitih protokola**,Ova grupa radi na tehnologijama koje se nadograđuju na Bitcoin, kao što su Lightning Network ili RGB, s ciljem proširenja mogućnosti Bitcoin bez promene njegove osnove.
+- **Bitkoin Core developeri**, Ovo su pojedinci koji održavaju i unapređuju glavni softverski klijent. Među njima su održavaoci, koji imaju ključeve za upravljanje repozitorijumom. U 2025. godini, njih petoro su: Hennadii Stepanov, Michael Ford, Ava Chow, Gloria Zhao i Ryan Ofsky. Zatim, tu su i saradnici koji podnose izmene koda, ispravke grešaka ili poboljšanja. Ovi predlozi prolaze kroz recenziju kolega i diskusiju u zajednici pre nego što budu prihvaćeni.
+- **Programeri slojevitih protokola**,Ova grupa radi na tehnologijama koje se nadograđuju na Bitkoin, kao što su Lightning mreža ili RGB, s ciljem proširenja mogućnosti Bitkoina bez promene njegove osnove.
 - **Nezavisni programeri**, Ovi programeri se fokusiraju na kreiranje alata i aplikacija za poboljšanje korisničkog iskustva, kao što su Mempool.space (vizuelni Interface za praćenje aktivnosti transakcija) ili Alby (alati za korišćenje Lightning plaćanja u pregledačima i aplikacijama).
 
 
-Svako može predložiti izmene za Bitcoin Core, ali je proces namerno rigorozan. Nove ideje često zahtevaju godine da se usavrše i zahtevaju duboko tehničko razumevanje, široko angažovanje zajednice i više slojeva pregleda. Predlozi se obično podnose u obliku **Bitcoin Predloga za Poboljšanje (BIPs)**; neki od njih nikada ne uđu u protokol.
+Svako može predložiti izmene za Bitcoin Core, ali je proces namerno rigorozan. Nove ideje često zahtevaju godine da se usavrše i zahtevaju duboko tehničko razumevanje, široko angažovanje zajednice i višeslojnu proveru. Predlozi se obično podnose u obliku **Bitcoin Predloga za Poboljšanje (BIPs- Bitcoin Improvement Proposal)**; neki od njih nikada ne budu implementirani.
 
 Inovacija je dobrodošla, ali samo kada je potkrepljena čvrstim razlozima, konsenzusom zajednice i pažljivim testiranjem.
 
@@ -1593,20 +1593,20 @@ Inovacija je dobrodošla, ali samo kada je potkrepljena čvrstim razlozima, kons
 ![image](assets/sr-Latn/059.webp)
 
 
-Uprkos onome što neki mogu verovati, niko nema jednostranu kontrolu nad Bitcoin; čak ni održavaoci Bitcoin Core. Njihova uloga je da upravljaju softverskim repozitorijumom, a ne samim protokolom.
+Suprotno popularnom verovanju, niko nema jednostranu kontrolu nad Bitkoinom; čak ni održavaoci Bitcoin Core. Njihova uloga je da upravljaju softverskim repozitorijumom, a ne samim protokolom.
 
 
 ![image](assets/sr-Latn/060.webp)
 
 
-Čak i ako bi održavalac odobrio kontroverznu promenu, to ne bi uticalo na mrežu osim ako **čvorovi (koje pokreću korisnici)** zaista ne usvoje i pokrenu tu verziju. Na kraju, kod Bitcoin je bitan samo ako ljudi odluče da ga pokrenu.
+Čak i ako bi održavalac odobrio kontroverznu promenu, to ne bi uticalo na mrežu osim ako **čvorovi (koje pokreću korisnici)** zaista ne usvoje i pokrenu tu verziju. Na kraju, kod Bitkoina je bitan samo ako ljudi odluče da ga pokrenu.
 
-Vredi napomenuti da **Bitcoin Core nije jedini klijent**. Alternative poput Bitcoin Knots takođe implementiraju Bitcoin protokol, pružajući korisnicima više izbora i jačajući decentralizaciju sistema:
+Vredi napomenuti da **Bitcoin Core nije jedini klijent**. Alternative poput Bitcoin Knots takođe implementiraju Bitkoin protokol, pružajući korisnicima više izbora i jačajući decentralizaciju sistema:
 
 
 https://planb.academy/tutorials/node/bitcoin/bitcoin-knots-e04b2196-4df2-4246-86ef-c02269c29098
 
-## Slojevita arhitektura Bitcoin
+## Slojevita arhitektura Bitkoina
 
 
 <chapterId>03017765-53cf-5f14-9682-e99ca02d2241</chapterId>
@@ -1615,29 +1615,29 @@ https://planb.academy/tutorials/node/bitcoin/bitcoin-knots-e04b2196-4df2-4246-86
 :::video id=6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e:::
 
 
-Bitcoin je otvoreni sistem dizajniran da bude minimalistički, robustan i siguran od samog početka. Da bi se dodala funkcionalnost bez menjanja njegovih osnova, evolucije se generalno vrše dodavanjem **protokol slojeva** i komplementarnih aplikacija koje obogaćuju ekosistem bez kompromitovanja decentralizacije i otpornosti glavnog sistema. Ova fleksibilnost je omogućila brojnim kompanijama i nezavisnim programerima da izgrade infrastrukturu oko Bitcoin, dodajući inovacije prilagođene različitim slučajevima upotrebe.
+Bitkoin je otvoreni sistem dizajniran da bude minimalistički, robustan i siguran od samog početka. Da bi se dodala funkcionalnost bez menjanja njegovih osnova, evolucije se generalno vrše dodavanjem **slojeva protokola** i komplementarnih aplikacija koje obogaćuju ekosistem bez kompromitovanja decentralizacije i otpornosti glavnog sistema. Ova fleksibilnost je omogućila brojnim kompanijama i nezavisnim programerima da izgrade infrastrukturu oko Bitkoina, dodajući inovacije prilagođene različitim slučajevima upotrebe.
 
 
-### Bitcoin proširenje sa dodatnim slojevima
+### Proširenje Bitkoina dodatnim slojevima
 
 
-Slojeviti pristup omogućava da se Bitcoin poboljša bez promene njegovog osnovnog protokola, garantujući stabilnost i sigurnost glavnog sistema. Ova metoda je slična načinu na koji Internet funkcioniše, gde se više protokola nadograđuje jedan na drugi kako bi ponudili različite funkcionalnosti uz održavanje glatke interoperabilnosti.
+Slojeviti pristup omogućava da se Bitkoin poboljša bez promene njegovog osnovnog protokola, garantujući stabilnost i sigurnost glavnog sistema. Ova metoda je slična načinu na koji Internet funkcioniše, gde se više protokola nadograđuje jedan na drugi kako bi ponudili različite funkcionalnosti uz održavanje glatke interoperabilnosti.
 
 
-Među glavnim nadslojnim sistemima koji obogaćuju ekosistem Bitcoin su:
+Među glavnim nadslojnim sistemima koji obogaćuju Bitkoin ekosistem su:
 
 
 
-- **Lightning Network**:
+- **Lightning mreža**:
 
 
-Lightning Network, koji su kreirali Thaddeus Dryja i Joseph Poon 2016. godine, je drugo-Layer rešenje dizajnirano da omogući trenutna i niskotarifna plaćanja. Dva korisnika mogu otvoriti privatni kanal gde mogu obavljati transakcije sa saldom koji se ažurira na Blockchain samo kada se kanal otvori ili zatvori. Transakcije unutar kanala se dešavaju off-chain, što znači da ne moraju biti pojedinačno zabeležene na Bitcoin Blockchain. Ova struktura omogućava trenutne transakcije i minimalne naknade, što je čini idealnom za transakcije male vrednosti koje zahtevaju brzu potvrdu.
+Lightning mreža, koji su kreirali Thaddeus Dryja i Joseph Poon 2016. godine, je rešenje drugog sloja dizajnirano da omogući trenutna i niskobudžetna plaćanja. Dva korisnika mogu otvoriti privatni kanal gde mogu obavljati transakcije sa saldom koji se ažurira na Blockchain-u samo kada se kanal otvori ili zatvori. Transakcije unutar kanala se dešavaju van lanca (off-chain), što znači da ne moraju biti pojedinačno zabeležene na Bitkoin Blockchain. Ova struktura omogućava trenutne transakcije i minimalne naknade, što je čini idealnom za transakcije male vrednosti koje zahtevaju brzu potvrdu.
 
 
 ![image](assets/sr-Latn/061.webp)
 
 
-Recimo da kupujete kafu sa Bitcoin koristeći bazu Layer. Da bi uplata bila potvrđena (i da bi kafić bio siguran da ste zaista platili), transakcija mora biti uključena u blok. To može potrajati nekoliko minuta, u zavisnosti od naknade koju ste odabrali. Tehnički, trgovac bi trebalo da sačeka šest potvrda (oko sat vremena) da bi bio potpuno siguran da je uplata konačna. Očigledno, takvo čekanje ne funkcioniše kada stojite na pultu. Sa Lightning Network, uplata prolazi za samo nekoliko sekundi; tako da je vaša kafa plaćena i poslužena pre nego što stigne da se ohladi.
+Recimo da kupujete kafu sa bitkoinom na osnovnom sloju. Da bi uplata bila potvrđena (i da bi kafić bio siguran da ste zaista platili), transakcija mora biti uključena u blok. To može potrajati nekoliko minuta, u zavisnosti od naknade koju ste odabrali. Tehnički, trgovac bi trebalo da sačeka šest potvrda (oko sat vremena) da bi bio potpuno siguran da je uplata konačna. Očigledno, takvo čekanje ne funkcioniše kada stojite na pultu. Sa Lightning mrežom, uplata prolazi za samo nekoliko sekundi; tako da je vaša kafa plaćena i poslužena pre nego što se ohladi.
 
 
 Ako ste zainteresovani da saznate više o tome kako Lightning funkcioniše, nudimo odličan kurs druge godine posvećen ovoj temi:
@@ -1646,16 +1646,16 @@ Ako ste zainteresovani da saznate više o tome kako Lightning funkcioniše, nudi
 https://planb.academy/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 
-- **Bočni lanci**:
+- **Bočni lanci (Sidechains)**:
 
 
-Sidechains su blokčejnovi koji rade paralelno sa glavnim Bitcoin-om Blockchain. Povezani su putem dvosmernog pega, koji osigurava da imovina koja se kreće između lanaca zadrži istu vrednost; što znači da Bitcoin na Sidechain i dalje vredi jedan Bitcoin na glavnom lancu. Svaki Sidechain ima svoj sopstveni mehanizam konsenzusa, koji može biti potpuno odvojen ili delimično zavisan od Bitcoin-ovog.
+Bočni lanci su blockchain-ovi koji rade paralelno sa glavnim Bitkoin Blockchain-om. Povezani su putem dvosmernog pega, koji osigurava da imovina koja se kreće između lanaca zadrži istu vrednost; što znači da Bitkoin na Sidechain i dalje vredi jedan Bitkoin na glavnom lancu. Svaki Sidechain ima svoj sopstveni mehanizam konsenzusa, koji može biti potpuno odvojen ili delimično zavisan od Bitkoinovog.
 
 
-Glavna prednost bočnih lanaca je što mogu ponuditi funkcije koje nisu dostupne na Bitcoin osnovi Layer; ili ih ponuditi na poboljšane načine. Ovo uključuje veću fleksibilnost za programere, brže i/ili privatnije transakcije, i veći protok transakcija. Međutim, da bi pružili ove pogodnosti, bočni lanci često prave različite kompromise u poređenju sa glavnim lancem Bitcoin.
+Glavna prednost bočnih lanaca je što mogu ponuditi funkcije koje nisu dostupne na osnovnom sloju; ili ih ponuditi na poboljšane načine. Ovo uključuje veću fleksibilnost za programere, brže i/ili privatnije transakcije, i veći protok transakcija. Međutim, da bi pružili ove pogodnosti, bočni lanci često prave različite kompromise u poređenju sa glavnim Bitkoin lancem.
 
 
-Koncept sajdčejna je uveden 2014. godine od strane Adama Beka, Meta Korala, Luka Dašdžra, Marka Fridenbaha, Gregorija Maksvela, Endrua Milera, Endrua Poelstre, Horhea Timona i Pitera Vuila. Od 2025. godine, najpoznatiji sajdčejnovi u Bitcoin ekosistemu su Liquid i RSK (Rootstock).
+Koncept sidechain-a je uveden 2014. godine od strane Adam Back-a, Matt Corallo-a, Luke Dashjr-a, Gregory Maxwell-a, Pieter Wuille-a. Od 2025. godine, najpoznatiji sidechain-ovi u Bitkoin ekosistemu su Liquid i RSK (Rootstock).
 
 
 Ako želite da istražite Liquid detaljnije, nudimo napredni kurs treće godine na tu temu:
@@ -1667,10 +1667,10 @@ https://planb.academy/courses/6d26bcff-51a3-405f-bcdd-9af8297ce727
 - **RGB**:
 
 
-RGB je decentralizovani i na privatnost fokusirani Smart contract sistem dizajniran da radi na vrhu Bitcoin i Lightning Network. Za razliku od tradicionalnih Smart contract platformi, RGB koristi Client-side Validation model (što znači da je ceo Contract State uskladišten off-chain, a samo kriptografske obaveze su objavljene na Bitcoin Blockchain). Ovaj dizajn poboljšava i skalabilnost i privatnost. Sa RGB, korisnici mogu kreirati napredne pametne ugovore za izdavanje tokena, NFT-ova, decentralizovanih identiteta, ili čak DeFi aplikacija, direktno na Bitcoin ili Lightning.
+RGB je decentralizovani i na privatnost fokusirani sistem pametnih ugovora dizajniran da radi na Bithoin i Lightning mreži. Za razliku od tradicionalnih platformi pametnih ugovora, RGB koristi Client-side Validation model (što znači da se kompletno stanje ugovora čuva van lanca, a samo kriptografske potvrde su objavljene na Bitkoin Blockchain-u). Ovaj dizajn poboljšava i skalabilnost i privatnost. Sa RGB, korisnici mogu kreirati napredne pametne ugovore za izdavanje tokena, NFT-ova, decentralizovanih identiteta, ili čak DeFi aplikacija, direktno na Bitkoin-u ili Lightning-u.
 
 
-Ključna karakteristika RGB je njegova zaštita protiv Double-spending, postignuta korišćenjem kriptografske tehnike zvane Jednokratni Pečati. Ovaj mehanizam se oslanja na činjenicu da se Bitcoin-ovi UTXO-i (Neutrošeni Izlazi Transakcija) mogu potrošiti samo jednom. Autentičnost tokena se osigurava validacijom sa strane korisnika celokupne istorije Contract (od njegovog nastanka do trenutnog stanja).
+Ključna karakteristika RGB je njegova zaštita od dvostruke potrošnje, postignuta korišćenjem kriptografske tehnike zvane Jednokratni Pečati (Single-use Seals). Ovaj mehanizam se oslanja na činjenicu da se Bitkoin-ovi UTXO-i (Neutrošeni Izlazi Transakcija) mogu potrošiti samo jednom. Autentičnost tokena se osigurava validacijom sa strane korisnika celokupne istorije ugovora (od njegovog nastanka do trenutnog stanja).
 
 
 ![image](assets/sr-Latn/062.webp)
@@ -1681,22 +1681,22 @@ Da biste produbili svoje znanje o RGB, nudimo četvorogodišnji kurs obuke (imaj
 
 https://planb.academy/courses/3ce1d37c-05ba-4f54-aa15-7586d37b2bb7
 
-RGB je samo jedan od mnogih protokola izgrađenih na Bitcoin. Dok su neki šire prihvaćeni od drugih, novi se i dalje pojavljuju. Zajednička nit je ideja optimizacije svakog Layer za određeni zadatak, uz očuvanje integriteta i nepromenljivosti osnovnog protokola Bitcoin.
+RGB je samo jedan od mnogih protokola izgrađenih na Bitkoinu. Dok su neki šire prihvaćeni od drugih, novi se i dalje pojavljuju. Zajednička nit je ideja optimizacije svakog sloja za određeni zadatak, uz očuvanje integriteta i nepromenljivosti osnovnog Bitkoin protokola.
 
 
-Ovaj slojeviti dizajn stoji u kontrastu sa većim delom šire kripto industrije, koja često nastoji da objedini mnoge funkcije u jedan protokol. Držeći Bitcoin jednostavnim i usko fokusiranim, smanjujemo njegovu površinu napada; što znači veću sigurnost. Lean protokol je lakši za obezbeđivanje, održavanje i skaliranje. Bitcoin je dizajniran da radi jednu stvar izuzetno dobro: obezbeđuje stabilan, decentralizovan novac. Sve ostalo (pametni ugovori, tokeni, plaćanja i više) može biti slojevito nadograđeno, omogućavajući inovacije bez kompromitovanja jezgra.
+Ovaj slojeviti dizajn stoji u kontrastu sa većim delom šire kripto industrije, koja često nastoji da objedini mnoge funkcije u jedan protokol. Držeći Bitkoin jednostavnim i usko fokusiranim, smanjujemo njegovu površinu napada; što znači veću sigurnost. Vodeći protokol je lakši za obezbeđivanje, održavanje i skaliranje. Bitkoin je dizajniran da radi jednu stvar izuzetno dobro: obezbeđuje stabilan, decentralizovan novac. Sve ostalo (pametni ugovori, tokeni, plaćanja i više) može biti slojevito nadograđeno, omogućavajući inovacije bez kompromitovanja jezgra.
 
 
 ![image](assets/sr-Latn/063.webp)
 
 
-**Da li ste znali**? Internet nije izgrađen odjednom; evoluirao je kao sloj interoperabilnih protokola. Na primer, TCP/IP upravlja mrežnom komunikacijom, HTTP pokreće veb, a mnogi drugi slojevi služe specifičnim funkcijama. Svaki Layer je optimizovan za svoj posao, stvarajući robustan i modularan sistem. Bitcoin prati ovu istu filozofiju. Njegova baza Layer je jaka i minimalna, a dodatna funkcionalnost se dodaje kroz slojevite protokole kao što su Lightning, Liquid, ili RGB; svaki fokusiran na rešavanje različitih potreba korisnika dok zadržava osnovu netaknutom.
+**Da li ste znali**? Internet nije izgrađen odjednom; evoluirao je kao sloj interoperabilnih protokola. Na primer, TCP/IP upravlja mrežnom komunikacijom, HTTP pokreće veb, a mnogi drugi slojevi služe specifičnim funkcijama. Svaki sloj je optimizovan za svoj zadatak, stvarajući robustan i modularan sistem. Bitkoin prati ovu istu filozofiju. Njegov osnovni sloj je snažan i minimalan, a dodatna funkcionalnost se dodaje kroz slojevite protokole kao što su Lightning, Liquid, ili RGB; svaki fokusiran na rešavanje različitih potreba korisnika dok zadržava osnovu netaknutom.
 
 
-### Alati za trgovce za prihvatanje Bitcoin
+### Alati za trgovce koji žele da prihvataju bitkoin
 
 
-Danas postoji mnogo alata dostupnih trgovcima koji žele da prihvate Bitcoin kao oblik plaćanja. Za mala preduzeća koja traže jednostavno podešavanje, korišćenje Hot Wallet(ili čak Lightning Wallet) je često dovoljno za početak direktnog prihvatanja plaćanja. Veća preduzeća koja zahtevaju pravilno knjigovodstvo i izveštavanje obično će preferirati naprednije sisteme za obradu plaćanja. Srećom, postoji nekoliko opcija dostupnih u zavisnosti od vaših potreba.
+Danas postoji mnogo alata dostupnih trgovcima koji žele da prihvate bitkoin kao sredstvo plaćanja. Za mala preduzeća koja traže jednostavno podešavanje, korišćenje Hot novčanika (ili čak Lightning novčanika) je često dovoljno za početak direktnog prihvatanja plaćanja. Veća preduzeća koja zahtevaju pravilno knjigovodstvo i izveštavanje obično će preferirati naprednije sisteme za obradu plaćanja. Srećom, postoji nekoliko opcija dostupnih u zavisnosti od vaših potreba.
 
 
 Ako više volite rešenje bez angažovanja i želite da primate fiat valutu direktno na svoj bankovni račun, usluge čuvanja kao što je OpenNode nude pojednostavljeno iskustvo:
@@ -1714,32 +1714,32 @@ Negde između, naći ćete Swiss Bitcoin Pay, korisnički prijatno, a ipak moćn
 
 https://planb.academy/tutorials/business/point-of-sale/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
 
-Prihvatanje Bitcoin može doneti nekoliko praktičnih i finansijskih koristi za poslovanje. Baš kao gotovina, Bitcoin omogućava direktna plaćanja između kupca i trgovca (nema potrebe za tradicionalnom bankom). Plaćanja izvršena putem Lightning Network su trenutna i konačna, smanjujući rizik od povrata sredstava. A kada trgovci drže svoj sopstveni Bitcoin (samostalno čuvanje), stiču veću finansijsku autonomiju.
+Prihvatanje bitkoina može doneti nekoliko praktičnih i finansijskih koristi za poslovanje. Baš kao gotovina, Bitkoin omogućava direktna plaćanja između kupca i trgovca (nema potrebe za tradicionalnom bankom). Plaćanja izvršena putem Lightning mreže su trenutna i konačna, smanjujući rizik od povrata sredstava. A kada trgovci sami čuvaju svoj bitkoin (samostalno čuvanje), stiču veću finansijsku autonomiju.
 
 
 Takođe može pomoći u smanjenju troškova eliminisanjem bankarskih naknada i potrebe za tradicionalnim terminalima za plaćanje; pametni telefon ili laptop su često sve što vam treba. Čak i uz uključene procesore plaćanja, naknade su generalno niže od onih koje naplaćuju banke.
 
 
-Za razliku od tradicionalnih valuta koje gube vrednost tokom vremena zbog inflacije, Bitcoin ima fiksni Supply od 21 milion kovanica. Ovo ga čini vrednom imovinom za očuvanje i diverzifikaciju poslovne riznice na duži rok.
+Za razliku od tradicionalnih valuta koje gube vrednost tokom vremena zbog inflacije, Bitkoin ima fiksnu ponudu od 21 milion kovanica. Ovo ga čini vrednom imovinom za očuvanje i diverzifikaciju poslovne imovine na duži rok.
 
 
-U svakodnevnim operacijama, Bitcoin pojednostavljuje plaćanja uklanjanjem potrebe za fizičkim novcem, smanjujući rizik od krađe i eliminišući mogućnost falsifikovanog novca. To je globalna valuta, što je čini idealnom za međunarodne kupce jer nema potrebe za konverzijom valuta. Za online prodavnice, Bitcoin je posebno siguran i efikasan.
+U svakodnevnim operacijama, Bitkoin pojednostavljuje plaćanja uklanjanjem potrebe za fizičkim novcem, smanjujući rizik od krađe i eliminišući mogućnost falsifikovanog novca. To je globalna valuta, što je čini idealnom za međunarodne kupce jer nema potrebe za konverzijom valuta. Za online prodavnice, Bitkoin je posebno siguran i efikasan.
 
 
-Povrh toga, prihvatanje Bitcoin može biti pametan marketinški potez. To pokazuje da je vaše poslovanje orijentisano ka budućnosti i može privući nove kupce (posebno među mlađim generacijama kao što je Gen Z). To je nisko-rizična, strateška prilika sa minimalnim troškovima, uglavnom ograničenim na početno postavljanje; što je sada lakše nego ikad uz prave alate.
+Povrh toga, prihvatanje Bitkoina može biti pametan marketinški potez. To pokazuje da je vaše poslovanje orijentisano ka budućnosti i može privući nove kupce (posebno među mlađim generacijama kao što je Gen Z). To je nisko-rizična, strateška prilika sa minimalnim troškovima, uglavnom ograničenim na početno postavljanje; što je sada lakše nego ikad uz prave alate.
 
 
-Ako želite da istražite kako Bitcoin može biti integrisan u vaše poslovanje (bilo kao način plaćanja, trezorska imovina, ili oboje) nudimo kurs za početnike prilagođen toj potrebi:
+Ako želite da istražite kako Bitkoin može biti integrisan u vaše poslovanje (bilo kao način plaćanja, trezorska imovina, ili oboje) nudimo kurs za početnike prilagođen toj potrebi:
 
 
 https://planb.academy/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 
-Bitcoin dobija na značaju kao sredstvo Exchange, sa sve većim prihvatanjem u mnogim industrijama. Lightning Network je učinio plaćanja bržim i jeftinijim, dodatno povećavajući privlačnost Bitcoin za trgovce.
+Bitkoin dobija na značaju kao sredstvo razmene, sa sve većim prihvatanjem u mnogim industrijama. Lightning mreža je učinila plaćanja bržim i jeftinijim, dodatno povećavajući privlačnost Bitkoina za trgovce.
 
 
-Dostigli smo tačku gde svako može da se uključi u Bitcoin ekosistem; bilo korišćenjem u svakodnevnom životu, usvajanjem u poslovanju, doprinosom obrazovanju, pomaganjem u poboljšanju koda ili izgradnjom novih aplikacija.
+Dostigli smo tačku gde svako može da se uključi u Bitkoin ekosistem; bilo korišćenjem u svakodnevnom životu, usvajanjem u poslovanju, doprinosom obrazovanju, pomaganjem u poboljšanju koda ili izgradnjom novih aplikacija.
 
-Bitcoin je sada nezaustavljiv.
+Bitkoin je sada nezaustavljiv.
 
 
 ![image](assets/sr-Latn/064.webp)
@@ -1748,19 +1748,19 @@ Bitcoin je sada nezaustavljiv.
 ### Moja lična perspektiva
 
 
-Oduvek sam smatrao da je metafora "autoput Bitcoin" jedan od najtačnijih i najubedljivijih načina da se razume kako se ekosistem razvija; i kuda ide. Bitcoin nije samo digitalni novac; to je **rastući alternativni finansijski sistem**, sa svojim snagama i manama. Iako je još uvek mlad i suočava se sa izazovima, njegova otpornost je neosporna. Neće nestati. Naprotiv, poput crne rupe, postepeno će apsorbovati sve oko sebe dok ne postane neosporni monetarni standard.
+Oduvek sam smatrao da je metafora "Bitkoin autoput" jedan od najtačnijih i najubedljivijih načina da se razume kako se ekosistem razvija; i kuda ide. Bitkoin nije samo digitalni novac; to je **rastući alternativni finansijski sistem**, sa svojim snagama i manama. Iako je još uvek mlad i suočava se sa izazovima, njegova otpornost je neosporna. Neće nestati. Naprotiv, poput crne rupe, postepeno će apsorbovati sve oko sebe dok ne postane neosporni monetarni standard.
 
 
-Zamislite Bitcoin kao put kojim vozite. Trenutno, da biste se pobrinuli za svakodnevne potrebe (kupovina namirnica, plaćanje usluga ili popravka automobila), ponekad morate da napustite ovaj put; što znači da se privremeno vraćate na stari finansijski sistem. To je zato što je infrastruktura Bitcoin još uvek u izgradnji, a neki delovi svakodnevnog života i dalje se oslanjaju na fiat valutu i banke.
+Zamislite Bitkoin kao put kojim vozite. Trenutno, da biste se pobrinuli za svakodnevne potrebe (kupovina namirnica, plaćanje usluga ili popravka automobila), ponekad morate da siđete sa tog puta; što znači da se privremeno vraćate na stari finansijski sistem. To je zato što je Bitkoin infrastruktura još uvek u izgradnji, a neki delovi svakodnevnog života i dalje se oslanjaju na fiat valute i banke.
 
 
-Ali s vremenom, ovaj put će postati potpuno izgrađen autoput. Ali s vremenom, ovaj put će postati potpuno izgrađen autoput.
+Ali s vremenom, ovaj put će postati potpuno izgrađen autoput.
 
 
-Tako vidim budućnost Bitcoin. Možda neće potpuno zameniti tradicionalne finansije, ali će ih nadmašiti u ključnim oblastima (efikasnost, sigurnost i usvajanje od strane korisnika) dok ne postane standard za većinu sveta.
+Tako vidim budućnost Bitkoina. Možda neće potpuno zameniti tradicionalne finansije, ali će ih nadmašiti u ključnim oblastima (efikasnost, sigurnost i usvajanje od strane korisnika) dok ne postane standard za većinu sveta.
 
 
-Ako se dobro sećam, ovu metaforu autoputa Bitcoin prvi je uveo Andreas Antonopoulos. Njegova vizija i dalje važi danas, i sa svakim korakom napred, sve smo bliži njenom ostvarenju.[@aantonop](https://x.com/aantonop)
+Ako se dobro sećam, ovu metaforu Bitkoina kao autoputa prvi je uveo Andreas Antonopoulos. Njegova vizija i dalje važi danas, i sa svakim korakom napred, sve smo bliži njenom ostvarenju.[@aantonop](https://x.com/aantonop)
 
 
 Sledeće u kursu: postaćemo praktični i pomoći vam da definišete svoj bitkoiner profil na osnovu vaše lične situacije i ciljeva.
