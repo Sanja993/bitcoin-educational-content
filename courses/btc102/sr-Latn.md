@@ -1781,13 +1781,13 @@ Sledeće u kursu: postaćemo praktični i pomoći vam da definišete svoj bitkoi
 :::video id=1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d:::
 
 
-Sada kada ste naučili teorijske osnove Bitcoin, vreme je da pređete na praktičnu stranu. Ovaj deo će vam pomoći da razumete kako da nabavite svoje prve bitkoine, kako da ih bezbedno skladištite i kako da prilagodite svoj pristup na osnovu vaše lične situacije. Cilj je da vam pomogne da identifikujete kakav tip korisnika ste kako biste mogli da usvojite strategiju koja odgovara vašim potrebama i ograničenjima.
+Sada kada ste naučili teorijske osnove Bitkoina, vreme je da pređete na praktični deo. Ovaj deo će vam pomoći da razumete kako da nabavite svoje prve bitkoine, kako da ih bezbedno čuvate i kako da prilagodite svoj pristup na osnovu vaše lične situacije. Cilj je da vam pomogne da identifikujete kakav ste tip korisnika kako biste mogli da usvojite strategiju koja odgovara vašim potrebama i ograničenjima.
 
 
-Bitcoin nije kao tradicionalna sredstva. Zahteva promišljen pristup i solidno razumevanje kako tehničkih, tako i ekonomskih implikacija njegove upotrebe. Za razliku od fiat valuta, Bitcoin funkcioniše po modelu individualnog suvereniteta; što znači da ste u potpunosti odgovorni za upravljanje i sigurnost svojih sredstava. Kao što smo diskutovali u prethodnim delovima, ova finansijska autonomija je velika prednost, ali takođe dolazi sa specifičnim najboljim praksama, koje ćemo istražiti u narednim poglavljima.
+Bitkoin nije kao tradicionalna imovina. Zahteva promišljen pristup i solidno razumevanje kako tehničkih, tako i ekonomskih implikacija njegove upotrebe. Za razliku od fiat valuta, Bitkoin funkcioniše po modelu individualnog suvereniteta; što znači da ste u potpunosti odgovorni za upravljanje i sigurnost svojih sredstava. Kao što smo diskutovali u prethodnim delovima, ova finansijska autonomija je velika prednost, ali takođe dolazi sa specifičnim najboljim praksama, koje ćemo istražiti u narednim poglavljima.
 
 
-Ovaj kurs pretpostavlja da tek počinjete sa Bitcoin. Zato ćemo se fokusirati na jednostavna, početnička rešenja koja su laka za postavljanje. Nećemo pokrivati indirektne metode izloženosti kao što su Mining, kupovina akcija u kompanijama povezanim sa Bitcoin, ili složene finansijske strategije. Cilj ovde je da vam pomognemo da odaberete Wallet koji odgovara vašoj situaciji i bezbedno nabavite svoje prve bitkoine.
+Ovaj kurs pretpostavlja da tek počinjete sa Bitkoinom. Zato ćemo se fokusirati na jednostavna, početnička rešenja koja se lako podešavaju. Nećemo pokrivati indirektne metode izloženosti kao što su rudarenje, kupovina akcija u kompanijama povezanim sa Bitkoinom, ili složene finansijske strategije. Cilj ovde je da vam pomognemo da odaberete novčanik koji odgovara vašoj situaciji i bezbedno nabavite svoje prve bitkoine.
 
 
 ![image](assets/sr-Latn/065.webp)
@@ -1796,7 +1796,7 @@ Ovaj kurs pretpostavlja da tek počinjete sa Bitcoin. Zato ćemo se fokusirati n
 ### Zašto definisati svoj korisnički profil?
 
 
-Ne postoji univerzalni pristup za kupovinu i upravljanje BTC-om. Svaki korisnik ima jedinstven kontekst, oblikovan njihovom finansijskom situacijom, tehničkim znanjem i očekivanjima u vezi sa Bitcoin. Zato je važno izabrati strategiju koja je u skladu sa vašim ličnim profilom. Poznavanje sopstvenog pristupa pomaže vam da donesete bolje odluke i izbegnete uobičajene greške koje proizlaze iz pogrešne procene vaših potreba.
+Ne postoji univerzalni pristup za kupovinu i upravljanje BTC-om. Svaki korisnik ima jedinstven kontekst, oblikovan njihovom finansijskom situacijom, tehničkim znanjem i očekivanjima u vezi sa Bitkoinom. Zato je važno izabrati strategiju koja je u skladu sa vašim ličnim profilom. Poznavanje sopstvenog pristupa pomaže vam da donesete bolje odluke i izbegnete uobičajene greške koje proizlaze iz pogrešne procene vaših potreba.
 
 
 Evo nekih faktora koje treba razmotriti kada pokušavate da utvrdite najbolji način za kupovinu i čuvanje vaših bitkoina:
@@ -1805,9 +1805,9 @@ Evo nekih faktora koje treba razmotriti kada pokušavate da utvrdite najbolji na
 
 - **Iznos koji želite da investirate**: Da li kupujete malu količinu samo da biste eksperimentisali i učili bez preuzimanja velikog rizika? Ili planirate značajniju investiciju koja je namenjena za dugoročno držanje?
 - **Vaša učestalost ulaganja**: Da li želite da izvršite jednokratnu kupovinu i odmah osigurate svoja sredstva, ili biste radije rasporedili svoje kupovine tokom vremena koristeći strategiju kao što je Dollar-Cost Averaging (DCA) kako biste ublažili volatilnost cena?
-- Šta želite da radite sa svojim bitcoinima: Da li ih držite isključivo kao dugoročnu štednju? Koristite li ih za svakodnevna plaćanja? Ili možda pomalo od oba?
-- **Vaš stav o privatnosti**: Da li vam je prijatno da pružate lične informacije i koristite centralizovane platforme za kupovinu Bitcoin? Ili više volite metode koje prvo štite privatnost, kao što su peer-to-peer, no-KYC razmene?
-- **Vaš lični, pravni i geografski kontekst**: U zavisnosti od toga gde živite, pristup određenim berzama može biti ograničen. Lokalni zakoni i poreska pravila takođe mogu uticati na to kako skladištite i koristite vaš Bitcoin.
+- **Šta želite da radite sa svojim bitcoinima**: Da li ih držite isključivo kao dugoročnu štednju? Koristite li ih za svakodnevna plaćanja? Ili možda kombinujete oba pristupa?
+- **Vaš stav o privatnosti**: Da li vam je prijatno da dajete lične informacije i koristite centralizovane platforme za kupovinu Bitkoina? Ili više volite metode koje prvo štite privatnost, kao što su peer-to-peer, no-KYC razmene?
+- **Vaš lični, pravni i geografski kontekst**: U zavisnosti od toga gde živite, pristup određenim menjačnicama može biti ograničen. Lokalni zakoni i poreska pravila takođe mogu uticati na način na koji čuvate i koristite vaš Bitkoin.
 
 
 Svaki od ovih faktora igra ulogu u oblikovanju prave strategije za vas. Neki korisnici će ceniti jednostavnost i lakoću korišćenja kroz regulisane usluge, dok će drugi preferirati autonomniji pristup fokusiran na privatnost.
@@ -1835,8 +1835,8 @@ Odabir prave strategije za sticanje i osiguranje vaših bitkoina počinje iskren
 
 
 
-- **Cyber attacks**: Ako niste dobro upućeni u sajber bezbednost ili koristite ranjive uređaje, mogli biste postati meta za online napade. U tom slučaju, čuvanje vaših bitkoina van mreže (Cold skladište) moglo bi biti sigurnija opcija.
-- **Fizičke pretnje**: Nažalost, fizički napadi se dešavaju; provale, pljačke, pa čak i otmice su bile usmerene na nosioce Bitcoin. Iako su ovi incidenti i dalje retki i uglavnom pogađaju visokoprofilne pojedince, vredi ih uzeti u obzir od samog početka prilikom dizajniranja vašeg sigurnosnog sistema.
+- **Sajber napadi**: Ako niste dobro upućeni u sajber bezbednost ili koristite ranjive uređaje, mogli biste postati meta za online napade. U tom slučaju, čuvanje vaših bitkoina van mreže (Cold skladište) moglo bi biti sigurnija opcija.
+- **Fizičke pretnje**: Nažalost, fizički napadi se dešavaju; provale, pljačke, pa čak i otmice su bile usmerene na nosioce Bitkoina. Iako su ovi incidenti i dalje retki i uglavnom pogađaju visokoprofilne pojedince, vredi ih uzeti u obzir od samog početka prilikom dizajniranja vašeg sigurnosnog sistema.
 
 
 
@@ -1844,11 +1844,11 @@ Odabir prave strategije za sticanje i osiguranje vaših bitkoina počinje iskren
 
 
 
-- **Vladina konfiskacija**: Ako vaša zemlja ima restriktivne ili nestabilne finansijske propise, mogli biste se suočiti sa ograničenjima u kupovini ili korišćenju Bitcoin. U takvim slučajevima, trebalo bi da favorizujete privatna, nekustodijalna rešenja.
+- **Zaplene od strane države**: Ako vaša zemlja ima restriktivne ili nestabilne finansijske propise, mogli biste se suočiti sa ograničenjima u kupovini ili korišćenju Bitkoina. U takvim slučajevima, trebalo bi da favorizujete privatna, nekastodijalna rešenja.
 
 
 
-- **Gubitak memorije ili podataka**: Upravljanje privatnim ključevima zahteva da skladištite i preuzimate osetljive informacije. Ako ste zabrinuti zbog zaboravnosti ili potencijalnih zdravstvenih problema, mudro je implementirati snažne sisteme za bekap; ili čak uključiti pouzdanu osobu u vaš sigurnosni plan.
+- **Gubitak memorije ili podataka**: Upravljanje privatnim ključevima zahteva čuvanje i preuzimanje osetljivih informacija. Ako ste zabrinuti zbog zaboravnosti ili potencijalnih zdravstvenih problema, mudro je implementirati snažne rezervne sisteme; ili čak uključiti pouzdanu osobu u vaš sigurnosni plan.
 
 
 Da biste bolje razumeli svoje ranjivosti, ocenite svaki od ovih rizika na skali od 0 (nizak) do 10 (visok). Ova samoprocena će vam pomoći da postavite prioritete za odgovarajuće zaštite u budućnosti.
@@ -1860,16 +1860,16 @@ Da biste bolje razumeli svoje ranjivosti, ocenite svaki od ovih rizika na skali 
 #### Životni stil i lične navike
 
 
-Vaš svakodnevni život takođe igra veliku ulogu u tome kako ćete upravljati svojim bitcoinima. Odabir postavke koja je u skladu sa vašim stilom života olakšaće stvari i pomoći vam da izbegnete nepotrebne prepreke.
+Vaš svakodnevni život takođe igra veliku ulogu u tome kako ćete upravljati svojim bitkoinima. Odabir postavke koja je u skladu sa vašim stilom života olakšaće stvari i pomoći vam da izbegnete nepotrebne komplikacije.
 
 
-**Ograničeno vreme ili interesovanje?** Odaberite jednostavna, automatizovana rešenja; kao što su zakazane kupovine koje se automatski prenose u sigurnu skladište.
+**Ograničeno vreme ili interesovanje?** Odaberite jednostavna, automatizovana rešenja; kao što su zakazane kupovine koje se automatski prenose u sigurno skladište.
 
 
-**Tehnički potkovani ili praktični?** Možda biste više voleli naprednija rešenja poput Multisig novčanika koji nude veću kontrolu i sigurnost.
+**Tehnički ste potkovani ili praktični?** Možda biste više voleli naprednija rešenja poput Multisig novčanika koji nude veću kontrolu i sigurnost.
 
 
-**Ulaganje za voljene ili buduće generacije?** Razmislite rano o nasledstvu. Postoje načini da osigurate da se vaši bitkoini mogu sigurno preneti ako vam se nešto dogodi.
+**Ulaganje za voljene osobe ili buduće generacije?** Razmislite rano o nasledstvu. Postoje načini da osigurate da se vaši bitkoini mogu sigurno preneti ako vam se nešto dogodi.
 
 
 **Zabrinuti za privatnost?** Neki načini kupovine zahtevaju lične informacije (KYC platforme), dok drugi (kao što su peer-to-peer ili Mining) nude više diskrecije.
@@ -1878,27 +1878,27 @@ Vaš svakodnevni život takođe igra veliku ulogu u tome kako ćete upravljati s
 #### Korišćenje vaših bitkoina
 
 
-Vaša strategija skladištenja i upravljanja treba da odražava kako nameravate da koristite vaš Bitcoin. Jasnoća u vezi s tim od početka će usmeriti vaše odluke.
+Vaša strategija skladištenja i upravljanja treba da odražava način na koji nameravate da koristite vaš bitkoin. Jasnoća u vezi s tim od početka će usmeriti vaše odluke.
 
 
 
-- **Dugoročna štednja**: Kupujete Bitcoin kao investiciju i ne planirate da ga koristite uskoro. U ovom slučaju, maksimalna sigurnost i minimizovan rizik pristupa su ključni.
-- **Postepeno akumuliranje**: Redovno kupujete male količine. Strategija poput Dollar Cost Averaging (DCA), u kombinaciji sa sigurnim Wallet, funkcioniše dobro.
-- **Dnevni troškovi**: ou koristite Bitcoin kao novac. Koristite mobilni Wallet za mala dnevna plaćanja (možda sa Lightning-om), a većinu svog Bitcoin čuvajte na sigurnijem mestu.
-- **Priprema za penziju ili prenos bogatstva**: Želite da prenesete svoj Bitcoin nekome kasnije. Koristite alate koji olakšavaju i osiguravaju prenos sredstava kada dođe pravo vreme. Strategije kao što su Multisig sa vremenskim zaključavanjem ili specifični planovi nasledstva mogu biti postavljeni kako bi se osiguralo da vaša sredstva ne budu izgubljena niti dostupna prerano.
+- **Dugoročna štednja**: Kupujete bitkoin kao investiciju i ne planirate da ga koristite uskoro. U ovom slučaju, maksimalna sigurnost i minimizovan rizik pristupa su ključni.
+- **Postepeno akumuliranje**: Redovno kupujete male količine. Strategija poput Dollar Cost Averaging (DCA), u kombinaciji sa sigurnim novčanikom, funkcioniše dobro.
+- **Dnevni troškovi**: koristite bitkoin kao novac. Koristite mobilni novčanik za mala dnevna plaćanja (možda sa Lightning-om), a većinu svog bitkoina čuvajte na sigurnijem mestu.
+- **Priprema za penziju ili prenos bogatstva**: Želite da prenesete svoj bitkoin nekome. Koristite alate koji olakšavaju i osiguravaju prenos sredstava kada dođe pravo vreme. Strategije kao što su Multisig sa vremenskim zaključavanjem ili specifični planovi nasledstva mogu biti postavljeni kako bi se osiguralo da vaša sredstva ne budu izgubljena niti dostupna prerano.
 
 
-Kada razmislite o svojim rizicima, načinu života i ciljevima, bićete spremni da donesete pametne odluke za vaše Bitcoin putovanje.
+Kada razmislite o svojim rizicima, načinu života i ciljevima, bićete spremni da donesete pametne odluke za vaše Bitkoin putovanje.
 
 
 Evo četiri ključne stvari koje treba odlučiti:
 
 
 
-- Koji Wallet koristiti
-- Kako osigurati svoj Bitcoin
-- Kako ćete kupiti Bitcoin
-- Koliko ćete transaktovati
+- Koji novčanik ćete koristiti
+- Kako ćete obezbediti svoj bitkoin
+- Kako ćete kupovati bitkoin
+- Koliko ćete transakcija obavljati
 
 
 ![image](assets/sr-Latn/069.webp)
@@ -1907,21 +1907,21 @@ Evo četiri ključne stvari koje treba odlučiti:
 ### Novčanici i strategije bezbednosti
 
 
-Osiguranje vaših privatnih ključeva(oni koji omogućavaju pristup vašim bitcoinima) je najvažniji deo posedovanja i korišćenja Bitcoin. Za razliku od tradicionalnog bankovnog računa, gde treća strana upravlja vašim sredstvima, Bitcoin vam daje potpunu kontrolu. Ali sa tom slobodom dolazi i odgovornost: ako izgubite svoje ključeve, vaš Bitcoin je zauvek izgubljen. Postoji nekoliko vrsta novčanika koje možete koristiti. Svaki ima svoje prednosti i mane u zavisnosti od vaših potreba i nivoa iskustva.
+Osiguranje vaših privatnih ključeva (onih koji omogućavaju pristup vašim bitkoinima) je najvažniji deo posedovanja i korišćenja bitkoina. Za razliku od tradicionalnog bankovnog računa, gde treća strana upravlja vašim sredstvima, bitkoin vam daje potpunu kontrolu. Ali sa tom slobodom dolazi i odgovornost: ako izgubite svoje ključeve, vaš bitkoin je zauvek izgubljen. Postoji nekoliko vrsta novčanika koje možete koristiti. Svaki ima svoje prednosti i mane u zavisnosti od vaših potreba i nivoa iskustva.
 
 
 ![image](assets/sr-Latn/070.webp)
 
 
-#### Hot Wallet
+#### Hot wallet (Vrući novčanik)
 
 
-Hot novčanici su aplikacije ili softver povezani na internet. Oni čuvaju vaše privatne ključeve na istom uređaju na kojem su instalirani. Ovi novčanici su odlični za svakodnevnu upotrebu ili čuvanje manjih količina Bitcoin.
+Hot novčanici su aplikacije ili softver povezani na internet. Oni čuvaju vaše privatne ključeve na istom uređaju na kojem su instalirani. Ovi novčanici su odlični za svakodnevnu upotrebu ili čuvanje manjih količina bitkoina.
 
 
-Primeri: Plava Wallet, Green Wallet, Sparrow wallet
+Primeri: Blue Wallet, Green Wallet, Sparrow wallet
 
-Sa podrškom za Lightning: Phoenix, Wallet od Satoshi, BitKit
+Sa podrškom za Lightning: Phoenix, Wallet of Satoshi, BitKit
 
 
 **Prednosti** :
@@ -1930,18 +1930,18 @@ Sa podrškom za Lightning: Phoenix, Wallet od Satoshi, BitKit
 
 - Lako za korišćenje i brz pristup vašim sredstvima.
 - Odlično za mala plaćanja i svakodnevnu upotrebu.
-- Neki podržavaju Lightning Network za brze i jeftine transakcije.
+- Neki podržavaju Lightning mrežu za brze i jeftine transakcije.
 
 
 **Nedostaci** :
 
 
 
-- Manje sigurno: vaši ključevi su na uređaju povezanom na internet, što povećava rizik od hakovanja.
-- Nije pogodno za dugoročno skladištenje velikih količina.
+- Manje sigurni: vaši ključevi su na uređaju povezanom na internet, što povećava rizik od hakovanja.
+- Nisu pogodni za dugoročno skladištenje velikih količina.
 
 
-Najbolje za: Početnike, male bilanse i česte transakcije.
+Najbolje za: Početnike, male iznose i česte transakcije.
 
 
 #### Hardverski novčanici
@@ -1958,7 +1958,7 @@ Primeri: Ledger, Trezor, Coldcard, Jade, BitBox
 
 
 - Ključevi su van mreže = mnogo teže za hakere da pristupe.
-- Dizajniran posebno za sigurnost.
+- Dizajnirani posebno za sigurnost.
 
 
 **Nedostaci** :
@@ -1975,7 +1975,7 @@ Najbolje za: Dugoročne vlasnike i svakoga ko osigurava veće iznose.
 #### Multisignature Novčanici
 
 
-Multisig(Multi-signature) novčanici zahtevaju više od jednog ključa za odobravanje transakcije. Zamislite to kao sef koji zahteva dve ili tri kombinacije da bi se otvorio. Ove postavke su idealne za napredne korisnike, preduzeća ili bilo koga ko traži vrhunsku sigurnost.
+Multisig (Multi-signature) novčanici zahtevaju više od jednog ključa za odobravanje transakcije. Zamislite to kao sef koji zahteva dve ili tri kombinacije da bi se otvorio. Ove postavke su idealne za napredne korisnike, preduzeća ili bilo koga ko traži vrhunsku sigurnost.
 
 
 Primeri: Liana, Casa, Specter, Sparrow
@@ -1996,20 +1996,20 @@ Primeri: Liana, Casa, Specter, Sparrow
 
 - Složenije za postavljanje i upravljanje.
 - Možda će biti potrebna koordinacija između više ljudi/uređaja.
-- Rizik od gubitka sredstava ako se Multisig loše upravlja ;
-- Veći početni trošak nabavke, što potencijalno zahteva kupovinu nekoliko hardverskih novčanika.
+- Rizik od gubitka sredstava ako se Multisig-om loše upravlja ;
+- Veći početni trošak nabavke, jer potencijalno zahteva kupovinu nekoliko hardverskih novčanika.
 
 
 Najbolje za: Napredne korisnike, porodice, kompanije i dugoročno skladištenje sa visokom sigurnošću.
 
 
-#### Skrbničke usluge i ETF-ovi
+#### Kastodijalne usluge i ETF-ovi
 
 
-Neki ljudi odlučuju da čuvaju Bitcoin kod trećih strana kao što su berze, kustosi ili ETF-ovi. Ovo vam omogućava da imate izloženost Bitcoin bez upravljanja privatnim ključevima sami. Ali to dolazi sa velikim kompromisima.
+Neki ljudi odlučuju da čuvaju bitkoin kod trećih strana kao što su menjačnice, treće strane ili ETF-ovi. Ovo vam omogućava da imate izloženost bitkoinu bez upravljanja privatnim ključevima sami. Ali to dolazi sa velikim kompromisima.
 
 
-Primeri: Berze kao što su Coinbase ili Binance, finansijski proizvodi kao što je BlackRock-ov Bitcoin ETF.
+Primeri: Menjačnice kao što su Coinbase ili Binance, finansijski proizvodi kao što je BlackRock-ov Bitcoin ETF.
 
 
 **Prednosti** :
@@ -2017,43 +2017,43 @@ Primeri: Berze kao što su Coinbase ili Binance, finansijski proizvodi kao što 
 
 
 - Lako za korišćenje; nema potrebe da sami rukujete ključevima ili novčanicima.
-- Korisno za ljude koji samo žele izloženost investicijama, a ne da direktno koriste Bitcoin.
+- Korisno za ljude koji samo žele izloženost investicijama, a ne da direktno koriste bitkoin.
 
 
 **Nedostaci** :
 
 
 
-- Vi zapravo ne posedujete svoj Bitcoin; staratelj ga poseduje. Ako oni propadnu, mogla bi i vaša sredstva (samo pitajte korisnike Mt. Gox ili FTX).
+- Vi zapravo ne posedujete svoj bitkoin; staratelj ga poseduje. Ako oni propadnu, mogla bi i vaša sredstva (samo pitajte korisnike Mt. Gox ili FTX).
 - Potencijalno veće naknade i manje privatnosti.
-- Zavisnost od pouzdane treće strane, što znači odricanje od suvereniteta, jedna od glavnih prednosti Bitcoin;
-- Ne dobijate sve prednosti Bitcoin u smislu privatnosti i finansijskog suvereniteta.
+- Zavisnost od pouzdane treće strane, što znači odricanje od suvereniteta, jedna od glavnih prednosti Bitkoina;
+- Ne dobijate sve prednosti Bitkoina u smislu privatnosti i finansijskog suvereniteta.
 
 
 **Pravilo: Nisu tvoji ključevi, nisu tvoji novčići.**
 
 
-Ne preporučujemo usluge čuvanja čak ni za početnike. Mnogo je bolje odvojiti vreme da naučite kako pravilno osigurati svoj Bitcoin nego rizikovati da sve izgubite jer je neko drugi pogrešio. Ali ako ste ovde, čitajući o novčanicima i upravljanju ključevima, verovatno ste već shvatili zašto je taj princip važan.
+Ne preporučujemo usluge čuvanja čak ni za početnike. Mnogo je bolje odvojiti vreme da naučite kako pravilno osigurati svoj bitkoin nego rizikovati da sve izgubite jer je neko drugi pogrešio. Ali ako ste ovde, čitajući o novčanicima i upravljanju ključevima, verovatno ste već shvatili zašto je taj princip važan.
 
 
 ![image](assets/sr-Latn/071.webp)
 
 
-Izbor Wallet i metode bezbednosti zavisi od toga koliko skladištite, vašeg nivoa stručnosti i potencijalnih rizika koje uočavate. Međutim, hibridni pristup može biti pametna opcija:
+Izbor novčanika i metode bezbednosti zavisi od toga koliko skladištite, vašeg nivoa stručnosti i potencijalnih rizika koje uočavate. Međutim, hibridni pristup može biti pametna opcija:
 
 
 
-- Koristite Hot Walleton telefon ili Lightning Wallet za svakodnevne transakcije;
-- Koristite Hardware Wallet za osiguranje većine vaših bitkoina, koji su namenjeni za dugoročne uštede.
+- Koristite Hot novčanik na telefonu ili Lightning novčanik za svakodnevne transakcije;
+- Koristite hardverski novčanik za osiguranje većine vaših bitkoina, koji su namenjeni za dugoročne uštede.
 
 
-Ako vaš Hot Wallet akumulira previše bitcoina, možete preneti deo na vašu Cold skladište. S druge strane, ako vam je potrebno više bitcoina za dnevnu potrošnju, možete povući sa vašeg Cold Wallet.
+Ako vaš Hot novčanik akumulira previše bitkoina, možete preneti deo na vaše Cold skladište. S druge strane, ako vam je potrebno više bitkoina za dnevnu potrošnju, možete povući sa vašeg Cold novčanika.
 
 
 ![image](assets/sr-Latn/072.webp)
 
 
-Na kraju, bezbednost u velikoj meri zavisi od toga kako koristite alate. Hardware Wallet vam neće mnogo pomoći ako izgubite, izložite ili kompromitujete Mnemonic frazu. Oprez i disciplina su vaša najbolja zaštita protiv gubitka bitkoina. Za više o ovome, toplo preporučujem da pročitate ovaj članak:
+Na kraju, bezbednost u velikoj meri zavisi od toga kako koristite alate. Hardverski novčanik vam neće mnogo pomoći ako izgubite, izložite ili kompromitujete Mnemonic frazu. Oprez i disciplina su vaša najbolja zaštita protiv gubitka bitkoina. Za više o ovome, toplo preporučujem da pročitate ovaj članak:
 
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
@@ -2067,10 +2067,10 @@ Postoji više načina za sticanje bitkoina, u zavisnosti od toga koliko privatno
 ![image](assets/sr-Latn/073.webp)
 
 
-#### Sticanje uz verifikaciju identiteta (KYC)
+#### Kupovina uz verifikaciju identiteta (KYC)
 
 
-Regulisane platforme obično zahtevaju da verifikujete svoj identitet pre kupovine Bitcoin. To znači da ćete morati da dostavite zvanična dokumenta (pasoš, ličnu kartu, dokaz o Address, itd.) kako biste kreirali nalog i pristupili uslugama kupovine i prodaje.
+Regulisane platforme obično zahtevaju da verifikujete svoj identitet pre kupovine bitkoina. To znači da ćete morati da dostavite zvanična dokumenta (pasoš, ličnu kartu, dokaz o adresi, itd.) kako biste kreirali nalog i pristupili uslugama kupovine i prodaje.
 
 
 **Prednosti** :
@@ -2078,7 +2078,7 @@ Regulisane platforme obično zahtevaju da verifikujete svoj identitet pre kupovi
 
 
 - Jednostavan proces kupovine, često pogodan za početnike;
-- Mogućnost kupovine velikih količina odjednom;
+- Mogućnost kupovine velikih iznosa odjednom;
 - Pristup dodatnim uslugama (DCA, automatska konverzija, lako povlačenje fiat sredstava) ;
 - Visoka likvidnost sa malom razlikom između kupovnih i prodajnih cena.
 
@@ -2092,16 +2092,16 @@ Regulisane platforme obično zahtevaju da verifikujete svoj identitet pre kupovi
 - Glavni problemi privatnosti.
 
 
-Najveći nedostatak KYC berzi je rizik po privatnost, što može uticati i na vašu ličnu sigurnost. KYC omogućava berzama da povežu vaš pravi identitet sa vašim Bitcoin adresama za povlačenje. Ove informacije postaju idealna početna tačka za Blockchain analizu. Kada je Address identifikovan, moguće je pratiti sve povezane transakcije, što ugrožava vašu On-Chain privatnost. Bez dodatnih zaštitnih mera, sva vaša Bitcoin aktivnost može biti praćena do vas.
+Najveći nedostatak KYC berzi je rizik po privatnost, što može uticati i na vašu ličnu sigurnost. KYC omogućava berzama da povežu vaš pravi identitet sa vašim bitkoin adresama za povlačenje. Ove informacije postaju idealna početna tačka za Blockchain analizu. Kada je adresa identifikovan, moguće je pratiti sve povezane transakcije, što ugrožava vašu privatnost na mreži. Bez dodatnih zaštitnih mera, sva vaša bitkoin aktivnost može dovesti do vas.
 
 
-Još jedan veliki rizik je da vlada, sa pristupom bazama podataka regulisanih platformi, može lako identifikovati pojedince koji su kupili BTC. Iako ovo danas može delovati bezopasno, moglo bi postati problem ako se uvedu ekonomska ili politička ograničenja. Štaviše, regulisane platforme moraju prijaviti sve sumnjive transakcije, što povećava šanse za ciljano nadgledanje od strane javnih vlasti.
+Još jedan veliki rizik je da vlada, sa pristupom bazama podataka regulisanih menjačnica, može lako identifikovati pojedince koji su kupili BTC. Iako ovo danas može delovati bezopasno, moglo bi postati problem ako se uvedu ekonomska ili politička ograničenja. Štaviše, regulisane platforme moraju prijaviti sve sumnjive transakcije, što povećava šanse za ciljano nadgledanje od strane javnih vlasti.
 
 
-Takođe, KYC platforme čuvaju mnogo osetljivih podataka, uključujući ID-ove i dokaz o Address. Ovi podaci se često prepuštaju trećim stranama koje se bave proverom identiteta. Ako platforma bude hakovana ili dođe do njenog kvara, ove informacije mogu biti izložene i korišćene za fišing, pokušaje iznude ili čak fizičku krađu. Za razliku od drugih curenja podataka, curenja povezana sa Bitcoin su posebno rizična jer mogu otkriti da posedujete vrednu imovinu.
+Takođe, KYC platforme čuvaju mnogo osetljivih podataka, uključujući lične dokumente i dokaz o adresi. Ovi podaci se često prepuštaju trećim stranama koje se bave proverom identiteta. Ako platforma bude hakovana ili dođe do njenog pada, ove informacije mogu biti izložene i korišćene za fišing, pokušaje iznude ili čak fizičku krađu. Za razliku od drugih curenja podataka, curenja povezana sa bitkoinom su posebno rizična jer mogu otkriti da posedujete vrednu imovinu.
 
 
-Dakle, važno je razumeti da prolazak kroz KYC nije samo manji korak; **utiče na vašu ličnu sigurnost**. Vlade koje zahtevaju ove provere identiteta ne samo da krše vaša prirodna prava već vas i izlažu rizicima. Iako korišćenje ovih platformi može pomoći da započnete sa Bitcoin, trebali biste biti svesni uključenih rizika i razmotriti istraživanje metoda bez KYC-a za sticanje Bitcoin kasnije.
+Dakle, važno je razumeti da prolazak kroz KYC nije samo manji korak; **utiče na vašu ličnu sigurnost**. Vlade koje zahtevaju ove provere identiteta ne samo da krše vaša prirodna prava već vas i izlažu rizicima. Iako korišćenje ovih platformi može pomoći da započnete sa bitkoinom, trebali biste biti svesni uključenih rizika i razmotriti istraživanje metoda bez KYC-a za sticanje bitkoina kasnije.
 
 
 #### Sticanje Bez Provere Identiteta (No-KYC)
@@ -2111,21 +2111,21 @@ Kupovina Bitcoin bez otkrivanja vašeg identiteta je opcija za one koji daju pre
 
 
 
-- **Peer-to-peer (P2P) između privatnih pojedinaca**: Kupovina direktno u gotovini od osobe kojoj verujete (prijatelji, porodica, lokalna mreža, okupljanja...) izbegava bilo kakve zvanične evidencije transakcija i drži vas van bankarskog sistema. Iako je ovo verovatno najbolji način za sticanje ili prodaju Bitcoin, dolazi sa rizikom fizičkog napada jer je to lični Exchange.
-- **P2P Platforms**: Platforme kao što su Bisq, RoboSats i Peach omogućavaju razmenu između privatnih pojedinaca bez potrebe za verifikacijom identiteta, koristeći escrow sisteme za osiguranje transakcija. Ove platforme i dalje nose rizik od krađe ako druga strana ne sarađuje, ali je rizik minimiziran zahvaljujući escrow uslugama.
-- **Bitcoin Automatske mašine za novac (bankomati)**: Neki bankomati (kiosci) omogućavaju kupovinu Bitcoin gotovinom, iako su naknade obično visoke, a neki zahtevaju verifikaciju identiteta za veće transakcije.
-- **Platforme Exchange bez KYC-a**: Neke platforme, posebno u Švajcarskoj, omogućavaju kupovinu malih količina Bitcoin bez potrebe za verifikacijom identiteta.
-- **Mining**: Pojedinci mogu rudati Bitcoin. Starije ili manje mašine su dostupne, pružajući netradicionalan način za sticanje Bitcoin bez KYC. Pridruživanjem Mining pool, možete ostvariti redovne isplate, čak i sa osnovnom opremom. Za više informacija, [pogledajte naše Mining tutorijale](https://planb.academy/tutorials/mining).
-- **Plaćanja / Plata u bitkoinima**: Ako vodite posao, možete prihvatiti Bitcoin kao plaćanje. Ako ste zaposleni, u zavisnosti od vaše jurisdikcije, možda ćete moći da tražite da budete plaćeni u Bitcoin. Ove metode vam omogućavaju da nabavite Bitcoin bez KYC.
+- **Peer-to-peer (P2P) između privatnih pojedinaca**: Kupovina direktno u gotovini od osobe kojoj verujete (prijatelji, porodica, lokalna mreža, okupljanja...) izbegava bilo kakve zvanične evidencije transakcija i drži vas van bankarskog sistema. Iako je ovo verovatno najbolji način za sticanje ili prodaju bitkoina, dolazi sa rizikom fizičkog napada jer jerazmena licem u lice.
+- **P2P platforme**: Platforme kao što su Bisq, RoboSats i Peach omogućavaju razmenu između privatnih pojedinaca bez potrebe za verifikacijom identiteta, koristeći escrow sisteme za osiguranje transakcija. Ove platforme i dalje nose rizik od krađe ako druga strana ne sarađuje, ali je rizik minimiziran zahvaljujući escrow uslugama.
+- **Bitkoin bankomati (bankomati)**: Neki bankomati (kiosci) omogućavaju kupovinu bitkoina gotovinom, iako su naknade obično visoke, a neki zahtevaju verifikaciju identiteta za veće transakcije.
+- **Menjačnice bez KYC-a**: Neke platforme, posebno u Švajcarskoj, omogućavaju kupovinu malih količina bitkoina bez potrebe za verifikacijom identiteta.
+- **Rudarenje**: Pojedinci mogu rudati bitkoin. Starije ili manje mašine su dostupne, pružajući netradicionalan način za sticanje bitkoina bez KYC. Pridruživanjem rudarskom bazenu, možete ostvariti redovne isplate, čak i sa osnovnom opremom. Za više informacija, [pogledajte naše Mining tutorijale](https://planb.academy/tutorials/mining).
+- **Plaćanje / Plata u bitkoinima**: Ako vodite posao, možete prihvatiti bitkoin kao način plaćanja. Ako ste zaposleni, u zavisnosti od vaše jurisdikcije, možda ćete moći da tražite da budete plaćeni u bitkoinu. Ove metode vam omogućavaju da nabavite bitkoin bez KYC.
 
 
 **Prednosti** :
 
 
 
-- U zavisnosti od metode, pomaže u očuvanju vaše privatnosti ograničavanjem veza između vašeg identiteta i vaše Bitcoin aktivnosti;
-- Smanjuje rizik od cenzure, zamrzavanja sredstava ili državnog mešanja.
-- Omogućava pristup Bitcoin čak i u visoko regulisanim okruženjima.
+- U zavisnosti od metode, pomaže u očuvanju vaše privatnosti ograničavanjem veza između vašeg identiteta i vaše bitkoin aktivnosti;
+- Smanjuje rizik od cenzure, zamrzavanja sredstava ili državne intervencije.
+- Omogućava pristup bitkoinu čak i u visoko regulisanim okruženjima.
 
 
 **Nedostaci** :
@@ -2135,19 +2135,19 @@ Kupovina Bitcoin bez otkrivanja vašeg identiteta je opcija za one koji daju pre
 - Obično komplikovanije od KYC platformi;
 - Niža likvidnost i manje transakcija;
 - Kupovina P2P često dolazi s premijom;
-- Veći rizik od druge ugovorne strane u razmenama između privatnih lica (prevare, obmane, napadi, itd.).
+- Veći rizik od prevare kod razmena između privatnih osoba (prevare, obmane, napadi, itd.).
 
 
-### 4 vrste korisnika Bitcoin
+### 4 vrste korisnika bitkoina
 
 
-Na osnovu kriterijuma koje smo diskutovali, možemo identifikovati nekoliko tipičnih profila korisnika Bitcoin. Ovi profili su fleksibilni i mogu se razvijati, ali pomažu u razjašnjavanju strategija pogodnih za svaki tip i vode vas u odabiru pravih alata.
+Na osnovu kriterijuma koje smo diskutovali, možemo identifikovati nekoliko tipičnih profila korisnika bitkoina. Ovi profili su fleksibilni i mogu se razvijati, ali pomažu u razjašnjavanju strategija pogodnih za svaki tip i vode vas u odabiru pravih alata.
 
 
-#### 1. The Hodler
+#### 1. The Hodler - Čuvar
 
 
-Hodler je investitor koji kupuje Bitcoin sa dugoročnom vizijom i ne planira da ga dira nekoliko godina. Za razliku od Stackera, koji kupuje redovno tokom vremena, Hodler obično pravi veće, povremene kupovine i zatim jednostavno drži svoj Bitcoin.
+Hodler je investitor koji kupuje bitkoin sa dugoročnom vizijom i ne planira da ga dira nekoliko godina. Za razliku od Stacker-a (Sakupljača), koji kupuje redovno tokom vremena, Hodler obično pravi veće, povremene kupovine i zatim jednostavno drži svoj bitkoin.
 
 
 
@@ -2157,17 +2157,17 @@ Preferirana strategija :
 
 
 - Kupovina putem KYC ili non-KYC platforme u zavisnosti od njihovih potreba za privatnošću;
-- Skladištenje na Hardware Wallet ili korišćenje multisignature rešenja za dodatnu sigurnost;
-- retke transakcije, minimizirajući interakciju sa Bitcoin ekosistemom.
+- Skladištenje na hardverskom novčaniku ili korišćenje multisignature rešenja za dodatnu sigurnost;
+- retke transakcije, minimizirajući interakciju sa bitkoin ekosistemom.
 
 
-Hodler vidi Bitcoin kao čuvara vrednosti, slično investitoru u fizičko zlato. Njihov glavni izazov je sigurno skladištenje njihovog Bitcoin i osiguranje da ga mogu preneti na naslednike.
+Hodler vidi bitkoin kao čuvara vrednosti, slično investitoru u fizičko zlato. Njihov glavni izazov je sigurno čuvanje njihovog bitkoina i osiguranje da ga mogu preneti na naslednike.
 
 
-#### 2. Staker
+#### 2. Staker - Sakupljač
 
 
-Stacker je osoba koja pristupa postepeno i dosledno. Oni redovno kupuju Bitcoin, često kroz strategiju prosečnog dolara (DCA). Njihov cilj je da rasporede svoju kupovnu cenu tokom vremena i smanje uticaj volatilnosti Bitcoin.
+Stacker je osoba koja pristupa postepeno i dosledno. Oni redovno kupuju bitkoin, često kroz strategiju Dollar-Cost Averaging (DCA). Njihov cilj je da rasporede svoju kupovnu cenu tokom vremena i smanje uticaj volatilnosti bitkoina.
 
 
 Preferirana strategija :
@@ -2175,49 +2175,49 @@ Preferirana strategija :
 
 
 - Koristite automatizovanu kupovinu putem KYC platforme koja nudi DCA;
-- Redovan transfer sredstava na Hardware Wallet za sigurno skladištenje ;
+- Redovan transfer sredstava na hardverski novčanik za sigurno skladištenje ;
 - Umjereno osetljiv na privatnost, ali daje prednost sigurnosti i lakoći akumulacije.
 
 
-Stacker se ne fokusira na kratkoročnu spekulaciju ili često korišćenje svog Bitcoin. Oni posmatraju Bitcoin kao dugoročni plan štednje, koji traje godinama ili čak decenijama. Ono što izdvaja Stackera od Hodlera je njihov metod akvizicije i obim transakcija.
+Stacker se ne fokusira na kratkoročnu spekulaciju ili često korišćenje svog bitkoina. Oni posmatraju bitkoin kao dugoročni plan štednje, koji traje godinama ili čak decenijama. Ono što izdvaja Stackera od Hodlera je njihov metod akvizicije i obim transakcija.
 
 
 #### 3. Aktivni korisnik
 
 
-Aktivni korisnik gleda na Bitcoin uglavnom kao na sredstvo Exchange, a ne samo kao skladište vrednosti. Oni ga redovno koriste za transakcije, plaćanja ili kao deo kružne ekonomije.
+Aktivni korisnik gleda na bitkoin uglavnom kao na sredstvo razmene, a ne samo kao skladište vrednosti. Oni ga redovno koriste za transakcije, plaćanja ili kao deo kružne ekonomije.
 
 
 Preferirana strategija :
 
 
 
-- Koristite Hot Wallet na mobilnom ili desktop uređaju za dnevne transakcije;
-- Koristite Lightning Network za brza i jeftina plaćanja;
-- Održavajte hibridni pristup, koristeći mobilni Wallet za trošenje i Hardware Wallet za štednju;
+- Koristite Hot novčanik na mobilnom ili desktop uređaju za dnevne transakcije;
+- Koristite Lightning mrežu za brza i jeftina plaćanja;
+- Održavajte hibridni pristup, koristeći mobilni novčanik za trošenje i hardverski novčanik za štednju;
 - Osetljivost na privatnost varira u zavisnosti od specifičnih potreba.
 
 
-Aktivni korisnik može biti preduzetnik, frilenser ili neko ko živi u okruženju pogodnom za Bitcoin gde je korišćenje Bitcoin za svakodnevna plaćanja uobičajeno. Njihov glavni prioritet je pogodnost, sa ciljem da postignu ravnotežu između sigurnosti i pristupačnosti.
+Aktivni korisnik može biti preduzetnik, frilenser ili neko ko živi u okruženju pogodnom za bitkoin gde je korišćenje bitkoina za svakodnevna plaćanja uobičajeno. Njihov glavni prioritet je pogodnost, sa ciljem da postignu ravnotežu između sigurnosti i pristupačnosti.
 
 
 #### 4. Paranoični
 
 
-Paranoidni korisnik je napredna osoba koja daje prioritet privatnosti i sigurnosti. Oni vide Bitcoin kao alat za ličnu slobodu i žele da minimiziraju izloženost poverenju trećih strana i regulaciji.
+Paranoidni korisnik je napredna osoba koja daje prioritet privatnosti i sigurnosti. Oni vide bitkoin kao alat za ličnu slobodu i žele da minimiziraju izloženost poverenju trećih strana i regulaciji.
 
 
 Preferirana strategija :
 
 
 
-- Nabavite Bitcoin samo putem kanala bez KYC-a;
+- Kupite bitkoin samo putem kanala bez KYC-a;
 - Koristite novčanike poboljšane sa BIP39 lozinkama i multisignature postavkama;
-- Skladišti Bitcoin na više fizičkih uređaja na različitim lokacijama;
+- Čuvajte bitkoin na više fizičkih uređaja na različitim lokacijama;
 - Izbegavajte centralizovane usluge koje bi mogle ugroziti privatnost.
 
 
-Ovaj profil je posebno pogodan za ljude koji žive u okruženjima neprijateljskim prema Bitcoin, gde posedovanje ili korišćenje BTC-a može rezultirati sankcijama. To je složeniji pristup, koji zahteva određeni stepen tehničke stručnosti i strogu disciplinu kako bi se izbegao bilo kakav gubitak pristupa sredstvima.
+Ovaj profil je posebno pogodan za ljude koji žive u okruženjima neprijateljskim prema bitkoinu, gde posedovanje ili korišćenje BTC-a može rezultirati sankcijama. To je složeniji pristup, koji zahteva određeni stepen tehničke stručnosti i strogu disciplinu kako bi se izbegao bilo kakav gubitak pristupa sredstvima.
 
 
 ![image](assets/sr-Latn/074.webp)
@@ -2226,13 +2226,13 @@ Ovaj profil je posebno pogodan za ljude koji žive u okruženjima neprijateljski
 ### Koji profil je pravi za vas?
 
 
-Imajte na umu da ovi profili nisu međusobno isključivi. Možda ćete se poistovetiti sa više od jednog, a vaš pristup bi mogao evoluirati tokom vremena. Na primer, možete početi kao "stacker" i postepeno preći u aktivnijeg korisnika ili čak usvojiti paranoičan pristup bezbednosti. Možete biti dugoročni "hodler" dok i dalje koristite Bitcoin u svakodnevnom životu.
+Imajte na umu da ovi profili nisu međusobno isključivi. Možda ćete se poistovetiti sa više od jednog, a vaš pristup bi mogao evoluirati tokom vremena. Na primer, možete početi kao "stacker" i postepeno preći u aktivnijeg korisnika ili čak usvojiti paranoičan pristup bezbednosti. Možete biti dugoročni "hodler" dok i dalje koristite bitkoin u svakodnevnom životu.
 
 
 **Ono što je najvažnije je usklađivanje vaše strategije sa vašom trenutnom situacijom i dugoročnom vizijom.**
 
 
-U narednim poglavljima, detaljno ćemo istražiti svaki od ovih profila kako biste mogli da utvrdite koji vam najbolje odgovara; i primenite pristup koji ima najviše smisla za vaše ciljeve. Takođe ćemo pokriti alate koji odgovaraju svakom profilu, dajući vam osnovu za izgradnju sopstvenog plana akvizicije i bezbednosti.
+U narednim poglavljima, detaljno ćemo istražiti svaki od ovih profila kako biste mogli da utvrdite koji vam najbolje odgovara; i primenite pristup koji ima najviše smisla za vaše ciljeve. Takođe ćemo pokriti alate koji odgovaraju svakom profilu, dajući vam osnovu za izgradnju sopstvenog plana za sticanje bitkoina i bezbednost.
 
 
 ## Hodler: Ulaganje na duži rok
@@ -2244,22 +2244,22 @@ U narednim poglavljima, detaljno ćemo istražiti svaki od ovih profila kako bis
 :::video id=3f4e5d6c-7b8a-9c0d-1e2f-3a4b5c6d7e8f:::
 
 
-U zajednici Bitcoin, termin "hodler" odnosi se na nekoga ko ima dugoročan pristup investiranju. Reč je nastala iz poznate greške u kucanju reči "hold" na Bitcoin Talk forumu pre nekoliko godina i od tada je postala simbol Commitment: držite se svojih Bitcoin bez obzira na sve, bez stresa zbog kratkoročnih tržišnih oscilacija.
+U bitkoin zajednici, termin "hodler" odnosi se na nekoga ko ima dugoročan pristup investiranju. Reč je nastala iz poznate greške u kucanju reči "hold" na Bitcoin Talk forumu pre nekoliko godina i od tada je postala simbol posvećenosti: drži svoj bitkoin bez obzira na sve, bez stresa zbog kratkoročnih tržišnih oscilacija.
 
 
 ![image](assets/sr-Latn/075.webp)
 
 
-Hodleri veruju u vrednosnu ponudu Bitcoin. Sa fiksnim Supply od 21 milion novčića, vide Bitcoin kao dugoročno skladište vrednosti (digitalno zlato).
+Hodleri veruju u vrednost bitkoina. Sa fiksnom ponudom od 21 milion novčića, vide bitkoin kao dugoročni čuvar vrednosti (digitalno zlato). 
 
 
 ### Zašto izabrati strategiju hodlovanja?
 
 
-Istorijski gledano, hodlovanje je bilo najprofitabilniji pristup za većinu neprofesionalnih investitora. Ono uklanja potrebu za tempiranjem tržišta, što je notorno teško i emocionalno iscrpljujuće. Jednostavnim kupovanjem i držanjem, hodleri izbegavaju stres trgovanja i loše odluke koje često dolaze sa emocionalnim reakcijama.
+Istorijski gledano, hodlovanje je bilo najprofitabilniji pristup za većinu neprofesionalnih investitora. Ono uklanja potrebu za tempiranjem tržišta, što je notorno teško i emocionalno iscrpljujuće. Jednostavnom kupovinom i držanjem, hodleri izbegavaju stres trgovanja i loše odluke koje često dolaze sa emocionalnim reakcijama.
 
 
-Bitcoin ima tendenciju da se kreće u ciklusima; veliki bikovski trendovi praćeni oštrim korekcijama, zatim dugi periodi tišine. Između 2013. i 2025. godine, Bitcoin je doživeo više ovakvih ciklusa, ponekad gubeći i do 80% svoje vrednosti tokom medveđih tržišta. Ove faze mogu testirati strpljenje hodlera, ali oni koji ostanu na kursu uglavnom su bili nagrađeni tokom vremena.
+Bitkoin ima tendenciju da se kreće u ciklusima; veliki bikovski trendovi praćeni oštrim korekcijama, zatim dugi periodi tišine. Između 2013. i 2025. godine, bitkoin je doživeo više ovakvih ciklusa, ponekad gubeći i do 80% svoje vrednosti tokom medveđih tržišta. Ove faze mogu testirati strpljenje hodlera, ali oni koji ostanu na kursu uglavnom su bili nagrađeni tokom vremena.
 
 
 Razumevanje ovih ciklusa pomaže u upravljanju emocijama. Iskusni hodleri znaju da je gubitnička igra pokušavati prodati na vrhuncu ili kupiti na dnu. Umesto toga, disciplinovano dugoročno držanje se pokazalo kao pobednička strategija.
