@@ -2268,16 +2268,16 @@ Razumevanje ovih ciklusa pomaže u upravljanju emocijama. Iskusni hodleri znaju 
 ### Plan ulaganja za Hodlera
 
 
-Hodleri primenjuju jednostavan, dugoročan pristup: nabaviti Bitcoin, pravilno ga osigurati i ostaviti ga na miru. Oni ne trguju niti troše svoje kovanice. Njihov cilj je akumulirati i zaštititi svoje posede uz minimalno upravljanje.
+Hodleri primenjuju jednostavan, dugoročan pristup: nabaviti bitkoin, pravilno ga osigurati i ostaviti ga na miru. Oni ne trguju niti troše svoje koine. Njihov cilj je akumulirati i zaštititi svoju imovinu uz minimalno upravljanje.
 
 
 Evo solidnog plana za hodlera:
 
 
-#### 1. Izaberite i postavite Hardware Wallet
+#### 1. Izaberite i postavite hardverski novčanik
 
 
-Prvo i najvažnije: sigurnost. Hardware Wallet je obavezan. Čuva vaše privatne ključeve van mreže, štiteći vaša sredstva od napada putem interneta.
+Prvo i najvažnije: bezbednost. Hardverski novčanik je obavezan. On čuva vaše privatne ključeve van mreže, štiteći vaša sredstva od napada putem interneta.
 
 Evo nekoliko tutorijala za novčanike koji su odlični za hodlere:
 
@@ -2294,7 +2294,7 @@ https://planb.academy/tutorials/wallet/hardware/passport-74e53858-3fa2-43f9-b866
 
 https://planb.academy/tutorials/wallet/hardware/bitbox02-6af8940f-e19b-4008-8c83-81017032608c
 
-Jednom kada postavite svoj Wallet, obavezno napravite rezervnu kopiju svoje 12- ili 24-reči fraze za oporavak na izdržljivom fizičkom medijumu. Da biste saznali više o tome koji medijum da izaberete za svoju frazu, pratite ovaj vodič:
+Jednom kada postavite svoj novčanik, obavezno napravite rezervnu kopiju svoje 12 ili 24 reči fraze za oporavak na izdržljivom fizičkom medijumu. Da biste saznali više o tome koji medijum da izaberete za svoju frazu, pratite ovaj vodič:
 
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
@@ -2302,13 +2302,13 @@ https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a
 Za dodatni mir, možete dodati slojeve zaštite kao što su:
 
 
-- Višestruki potpis Wallet sa vremenskim zaključavanjem:
+- Višestruki potpis novčanika sa vremenskim zaključavanjem:
 
 
 https://planb.academy/tutorials/wallet/desktop/liana-306ef457-700c-4fdd-b07a-8fb7a8a29f04
 
 
-- A BIP39 passphrase:
+- BIP39 passphrase:
 
 
 https://planb.academy/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
@@ -2316,13 +2316,13 @@ https://planb.academy/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14
 ![image](assets/sr-Latn/076.webp)
 
 
-#### 2. Kupi Bitcoin i povuci ga
+#### 2. Kupi Bitkoin i povuci ga sa menjačnice
 
 
-Hodlers nikada ne ostavljaju svoje kovanice na berzama. Platforme mogu biti hakovane, bankrotirati ili biti zaplenjene. Kada kupite, premestite svoj Bitcoin direktno na svoj Hardware Wallet.
+Hodlers nikada ne ostavljaju svoje koine na berzama. Menjačnice mogu biti hakovane, bankrotirati ili biti zaplenjene. Kada kupite, premestite svoj bitkoin direktno na svoj hardverski novčanik.
 
 
-Zato što hodleri obično ulažu veće iznose, potrebne su im berze sa snažnom likvidnošću. Evo nekoliko koje ispunjavaju te kriterijume:
+Zato što hodleri obično ulažu veće iznose, potrebne su im menjačnice sa snažnom likvidnošću. Evo nekoliko koje ispunjavaju te kriterijume:
 
 
 https://planb.academy/tutorials/exchange/centralized/bitfinex-dc306d39-bd96-4ab9-a278-a322316716db
@@ -2339,17 +2339,17 @@ https://planb.academy/tutorials/exchange/centralized/bull-bitcoin-europe-0ccf713
 Neki hodleri takođe usvajaju hibridni pristup koristeći DCA (Dollar Cost Averaging)—kupovinom malih količina redovno kako bi ublažili tržišnu volatilnost.
 
 
-#### 3. Postavljanje plana sukcesije
+#### 3. Postavljanje plana nasledstva
 
 
-Ovo se često zanemaruje. Ali Bitcoin ne prašta; ako izgubite privatne ključeve, vaši novčići su zauvek izgubljeni. Planiranje za nesposobnost ili smrt je ključno.
+Ovo se često zanemaruje. Ali Bitkoin je neumoljiv; ako izgubite privatne ključeve, vaši novčići su zauvek izgubljeni. Planiranje za slučaj nesposobnosti ili smrti je važno.
 
 
 Ključni koraci:
 
 
 
-- Napišite detaljan vodič kako pristupiti vašem Bitcoin ako niste u mogućnosti;
+- Napišite detaljan vodič kako pristupiti vašem bitkoinu ako niste u mogućnosti;
 - Koristite multisignature podešavanje da obezbedite pristup uz smanjenje rizika od gubitka;
 - Podelite ključne informacije sa nekim kome verujete.
 
@@ -2367,13 +2367,13 @@ Nekoliko najboljih praksi:
 
 
 
-- Povremeno proveravajte svoj Wallet; ali ne prečesto. Konstantno praćenje dovodi do emocionalnih odluka;
+- Povremeno proveravajte svoj novčanik; ali ne prečesto. Konstantno praćenje dovodi do emocionalnih odluka;
 - Ne paničite i ne prodajte tokom padova na tržištu. Korekcije su deo igre;
-- Ostanite informisani o razvoju Bitcoin, ali izbegavajte medijsku pompu, posebno tokom padova;
-- Povremeno proveravajte integritet vaše fraze za oporavak. Proverite da li koverta nije bila otvorena i da li je medijum i dalje čitljiv. Ako nešto izgleda sumnjivo, generate napravite novu rezervnu kopiju sa vašeg Wallet;
+- Ostanite informisani o razvoju Bitkoina, ali izbegavajte medijsku pompu, posebno tokom padova;
+- Povremeno proveravajte stanje vaše fraze za oporavak. Proverite da li je koverta netaknuta i da li je medijum i dalje čitljiv. Ako nešto izgleda sumnjivo, napravite novu rezervnu kopiju;
 
 
-Da biste pratili svoja sredstva bez ugrožavanja privatnih ključeva, razmislite o korišćenju Watch-only wallet. Omogućava vam praćenje stanja i transakcija koristeći samo vaše javne ključeve.
+Da biste pratili stanje svojih sredstava bez ugrožavanja privatnih ključeva, razmislite o korišćenju Watch-only (samo za posmatranje) novčanika. Omogućava vam praćenje stanja i transakcija koristeći samo vaše javne ključeve.
 
 
 https://planb.academy/tutorials/wallet/mobile/blockstream-app-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
@@ -2393,22 +2393,22 @@ Ako se prepoznaješ u ovim osobinama ličnosti, verovatno si prirodni Hodler:
 
 
 
-- **Strpljenje**: Hodler pokazuje izuzetno strpljenje. Spremni su da drže Bitcoin godinama (ponekad decenijama) bez uznemiravanja zbog dnevnih oscilacija cena. Razumeju da se Bitcoin kreće u ciklusima i ne paniče kada cena padne. Korekcije su samo deo igre. Za hodlere, vrednost se meri ne u mesecima, već na duži rok.;
-- **Dugoročna vizija**: Hodler razmišlja daleko izvan kratkoročnih profita. Oni veruju u strukturni rast Bitcoin i postepeno globalno usvajanje. Uprkos volatilnosti, vide uzlaznu putanju; jednu od ekspanzije praćene konsolidacijom. Za njih, Bitcoin je dugotrajan resurs, zaštita od inflacije i ključni deo veće monetarne revolucije;
-- **Samodisciplina**: Mentalna disciplina je suština hodler mentaliteta. Paradoksalno, njihov najveći izazov je ne delovati. Oni se odupiru porivu da prodaju tokom skokova cena i ne podležu strahu tokom padova. Razumeju da je Bitcoin preživeo mnoge brutalne medveđe tržišne periode; i da oni koji izdrže kroz bol često imaju najviše koristi;
-- **Emocionalna otpornost**: Cena Bitcoin može pasti za 50% ili više u roku od nekoliko nedelja; i ipak, hodler ostaje smiren. Oni su internalizovali ideju da volatilnost ne potkopava osnove Bitcoin. Ova emocionalna čvrstina im omogućava da zadrže hladnu glavu tokom nesigurnosti i održe racionalan pogled kada drugi paniče;
-- **Vera u tehnologiju**: Hodleri ne vide Bitcoin samo kao spekulativnu imovinu. Oni veruju u njegovu tehnologiju i njen disruptivni potencijal. Za mnoge, nije reč samo o novcu; reč je o slobodi. Bitcoin se posmatra kao otporna, apolitična valuta i prava alternativa tradicionalnom bankarstvu, osnažujući pojedince sa većim finansijskim suverenitetom.
+- **Strpljenje**: Hodler pokazuje izuzetno strpljenje. Spremni su da drže bitkoin godinama (ponekad decenijama) bez uznemiravanja zbog dnevnih oscilacija cena. Razumeju da se bitkoin kreće u ciklusima i ne paniče kada cena padne. Korekcije su samo deo igre. Za hodlere, vrednost se meri ne u mesecima, već na duži rok;
+- **Dugoročna vizija**: Hodler razmišlja daleko izvan kratkoročnih profita. Oni veruju u strukturni rast bitkoina i postepeno globalno usvajanje. Uprkos volatilnosti, vide uzlaznu putanju; faze ekspanzije praćene konsolidacijom. Za njih, bitkoin je dugoročna imovina, zaštita od inflacije i ključni deo veće monetarne revolucije;
+- **Samodisciplina**: Mentalna disciplina je suština hodler mentaliteta. Paradoksalno, njihov najveći izazov je ne delovati. Oni se odupiru porivu da prodaju tokom skokova cena i ne podležu strahu tokom padova. Razumeju da je Bitkoin preživeo mnoge medveđe tržišne periode; i da oni koji izdrže kroz bol često imaju najviše koristi;
+- **Emocionalna otpornost**: Cena bitkoina može pasti za 50% ili više u roku od nekoliko nedelja; i ipak, hodler ostaje smiren. Oni su internalizovali ideju da volatilnost ne potkopava osnove Bitkoina. Ova emocionalna čvrstina im omogućava da zadrže hladnu glavu tokom nesigurnosti i održe racionalan pogled kada drugi paniče;
+- **Vera u tehnologiju**: Hodleri ne vide Bitkoin samo kao spekulativnu imovinu. Oni veruju u njegovu tehnologiju i njen disruptivni potencijal. Za mnoge, nije reč samo o novcu; reč je o slobodi. Bitkoin se posmatra kao otporna, apolitična valuta i prava alternativa tradicionalnom bankarstvu, osnažujući pojedince sa većim finansijskim suverenitetom.
 
 
 ![image](assets/sr-Latn/079.webp)
 
 
-Hodling je jednostavno, efikasno i dostupno; čak i za početnike.
+Hodl-ovanje je jednostavno, efikasno i dostupno; čak i za početnike.
 
-U sledećem poglavlju, istražićemo sličan, ali aktivniji profil: slagalica.
+U sledećem poglavlju, istražićemo sličan, ali aktivniji profil: Stacker.
 
 
-## The Stacker: Akumuliranje Satošija
+##  Stacker: Akumuliranje Satošija
 
 
 <chapterId>0daf450d-1b91-5d99-9c31-b52ab52a5e21</chapterId>
@@ -2417,10 +2417,10 @@ U sledećem poglavlju, istražićemo sličan, ali aktivniji profil: slagalica.
 :::video id=4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b:::
 
 
-U ekosistemu Bitcoin, steker je osoba koja primenjuje dosledan, dugoročan pristup akumuliranju satoshija (ili "Sats"), najmanje jedinice Bitcoin. Umesto da investira veliku sumu odjednom, steker redovno kupuje male količine Bitcoin, bez obzira na tržišne uslove.
+U Bitkoin ekosistemu, stacker je osoba koja primenjuje dosledan, dugoročan pristup akumuliranju satošija (ili "Sats"), najmanje jedinice bitkoina. Umesto da investira veliku sumu odjednom, steker redovno kupuje male količine bitkoina, bez obzira na tržišne uslove.
 
 
-Ideja je jednostavna: uvek će postojati samo oko 21 milion bitkoina, i svaki deo je važan. Misija sakupljača je da postepeno akumulira što više Sats jedinica.
+Ideja je jednostavna: uvek će postojati samo oko 21 milion bitkoina, i svaki deo je važan. Misija sakupljača je da postepeno akumulira što više satošija
 
 
 ![image](assets/sr-Latn/080.webp)
@@ -2429,36 +2429,36 @@ Ideja je jednostavna: uvek će postojati samo oko 21 milion bitkoina, i svaki de
 ### Zašto izabrati strategiju slaganja?
 
 
-Složeno ulaganje je veoma efikasna investiciona strategija za one koji žele da smanje svoju izloženost tržišnoj volatilnosti dok postepeno grade poziciju u Bitcoin. Za razliku od jednokratnog ulaganja ili spekulativnog tempiranja tržišta, složeni investitori obično koriste tehniku koja se zove prosečno troškovno ulaganje (Dollar-Cost Averaging - DCA); ulažući fiksni iznos u redovnim intervalima (dnevno, nedeljno, mesečno...), bez obzira na trenutnu cenu Bitcoin.
+Složeno ulaganje je veoma efikasna investiciona strategija za one koji žele da smanje svoju izloženost tržišnoj volatilnosti dok postepeno grade svoju bitkoin poziciju. Za razliku od jednokratnog ulaganja ili spekulativnog tempiranja tržišta, stackeri obično koriste tehniku koja se zove prosečno troškovno ulaganje (Dollar-Cost Averaging - DCA); ulažući fiksni iznos u redovnim intervalima (dnevno, nedeljno, mesečno...), bez obzira na trenutnu cenu bitkoina.
 
 
-Prednosti slaganja :
+Prednosti stacking strategije :
 
 
 
-- **Smanjena volatilnost**: Redovne kupovine pomažu u izravnavanju fluktuacija cena, jer kupujete više Sats kada su cene niske i manje kada su visoke; prosečno smanjujući vašu osnovu troškova i smanjujući emocionalni stres.
+- **Smanjena volatilnost**: Redovne kupovine pomažu u ublažavanju fluktuacija cena, jer kupujete više satošija kada su cene niske i manje kada su visoke; prosečno smanjujući vašu osnovu troškova i smanjujući emocionalni stres.
 - **Pristupačnost**: Ne treba vam veliki početni kapital. Možete početi sa samo €10 mesečno i vremenom povećavati svoj DCA iznos.
-- **Disciplina i automatizacija**: Stackers izbegavaju donošenje odluka na osnovu emocija. Automatizovane ponavljajuće kupovine obezbeđuju doslednost i smanjuju rizik od impulsivnih poteza.
+- **Disciplina i automatizacija**: Stacker-i izbegavaju donošenje odluka na osnovu emocija. Automatizovane ponavljajuće kupovine obezbeđuju doslednost i smanjuju rizik od impulsivnih poteza.
 - **Dugoročna strategija**: Postepeno investiranje povećava šanse za ostvarivanje koristi od bikovskih tržišta, dok smanjuje rizik tokom padova.
 
 
 Ova metoda je posebno **dobro prilagođena za početnike**; uklanja pritisak tempiranja tržišta i omogućava postepeno, pasivno akumuliranje.
 
 
-### Stackerov investicioni plan
+### Stacker-ov investicioni plan
 
 
-Cilj je izgraditi održivu, automatizovanu i sigurnu strategiju za akumulaciju Bitcoin tokom dužeg vremenskog perioda. Evo ključnih koraka za implementaciju vašeg plana ulaganja u stacker:
+Cilj je izgraditi održivu, automatizovanu i sigurnu strategiju za akumulaciju bitkoina tokom dužeg vremenskog perioda. Evo ključnih koraka za implementaciju stacker plana ulaganja:
 
 
-#### 1. Odabir pravog tipa Wallet
+#### 1. Odabir pravog tipa novčanika
 
 
-Stackeru je potreban Wallet setup koji balansira jednostavnost korišćenja sa dugoročnom sigurnošću.
+Stackeru je potrebnon podešavanje koje balansira jednostavnost korišćenja sa dugoročnom bezbednošću.
 
 
 
-- **Hot Wallet**: Idealno za početnike, mobilni ili desktop novčanici omogućavaju vam lako primanje Sats i vršenje plaćanja. Međutim, najbolje su prilagođeni za manje iznose. On-Chain novčanici su preferirani za skladištenje u odnosu na Lightning novčanike zbog boljeg upravljanja UTXO. Preporučeni softverski novčanici: Green Wallet, Blue Wallet, Sparrow wallet, Bitkit, Nunchuk, Aqua, Proton
+- **Hot Wallet (Vrući novčanik)**: Idealno za početnike, mobilni ili desktop novčanici omogućavaju vam lako primanje satošija i vršenje plaćanja. Međutim, najbolji su za manje iznose. On-Chain novčanici su preferirani za skladištenje u odnosu na Lightning novčanike zbog boljeg upravljanja UTXO-ovima. Preporučeni softverski novčanici: Green Wallet, Blue Wallet, Sparrow wallet, Bitkit, Nunchuk, Aqua, Proton
 
 
 https://planb.academy/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
@@ -2479,7 +2479,7 @@ https://planb.academy/tutorials/wallet/desktop/sparrow-c674e2ac-d46f-4c82-92a7-7
 
 
 
-- **Hardware Wallet**: Kako vaša Bitcoin imovina raste, osiguranje vaših sredstava sa Cold Wallet je neophodno kako bi se smanjio rizik od krađe. Ozbiljni sakupljači redovno prebacuju sredstva sa svog Hot Wallet na Hardware Wallet. Primeri: Bitbox02, Trezor, Ledger, Coldcard, Jade...
+- **Hardware Wallet (hardverski novčanik)**: Kako vaša bitkoin štednja raste, osiguranje vaših sredstava sa Cold Wallet-om (hladnim novčanikom) je neophodno kako bi se smanjio rizik od krađe. Ozbiljni sakupljači redovno prebacuju sredstva sa svog Hot novčanika na hardverski novčanik. Primeri: Bitbox02, Trezor, Ledger, Coldcard, Jade...
 
 
 https://planb.academy/tutorials/wallet/hardware/coldcard-q-73e86d1a-6fe6-4d8b-bb15-8690298020e3
@@ -2494,7 +2494,7 @@ https://planb.academy/tutorials/wallet/hardware/passport-74e53858-3fa2-43f9-b866
 
 https://planb.academy/tutorials/wallet/hardware/bitbox02-6af8940f-e19b-4008-8c83-81017032608c
 
-Najefikasniji pristup je koristiti oba: Hot Wallet za svakodnevno slaganje i Hardware Wallet za dugoročno Cold skladištenje. Hot Wallet je jednostavan i praktičan za korišćenje. Omogućava vam brzo preuzimanje vaših bitkoina, umesto da ih ostavljate na platformi gde bi mogli biti izloženi riziku. Međutim, u poređenju sa Hardware Wallet, Hot Wallet nudi mnogo manje sigurnosti. Stoga, staker mora redovno prebacivati svoja sredstva na svoj Cold Wallet kako bi osigurao svoju dugoročnu štednju i izbegao držanje previše sredstava u Hot Wallet. Periodično, staker konsoliduje UTXO-e prilikom prebacivanja u Cold skladište; spajajući male ulaze kako bi optimizovao buduće naknade za transakcije.
+Najefikasniji pristup je koristiti oba: softverski novčanik za svakodnevno slaganje i hardverski novčanik za dugoročno hladno skladištenje. Softverski novčanik je jednostavan i praktičan za korišćenje. Omogućava vam brzo preuzimanje kontrole nad vašim bitkoinom, umesto da ih ostavljate na platformi gde bi mogli biti izloženi riziku. Međutim, u poređenju sa hardverskim novčanikom, softverski nudi mnogo manje sigurnosti. Stoga, staker mora redovno prebacivati svoja sredstva na svoj Cold (hardverski) novčanik kako bi osigurao svoju dugoročnu štednju i izbegao držanje previše sredstava u softverskom novčaniku. Periodično, staker konsoliduje UTXO-e prilikom prebacivanja u hardverski novčanik; spajajući male ulaze kako bi optimizovao buduće naknade za transakcije.
 
 
 ![image](assets/sr-Latn/081.webp)
@@ -2503,7 +2503,7 @@ Najefikasniji pristup je koristiti oba: Hot Wallet za svakodnevno slaganje i Har
 #### 2. Postavite plan kupovine DCA
 
 
-Dollar-Cost Averaging (DCA) je investiciona strategija gde kupujete male količine Bitcoin u redovnim intervalima, bez obzira na njegovu cenu. Da biste postavili efikasan DCA plan, potrebno je da definišete dva ključna Elements:
+Dollar-Cost Averaging (DCA) je investiciona strategija gde kupujete male količine bitkoina u redovnim intervalima, bez obzira na njegovu cenu. Da biste postavili efikasan DCA plan, potrebno je da definišete dva ključna elementa:
 
 
 
@@ -2511,7 +2511,7 @@ Dollar-Cost Averaging (DCA) je investiciona strategija gde kupujete male količi
 
 
 
-Dalje, imate dve opcije za postavljanje vašeg DCA: automatizovati ga ili upravljati njime ručno. Većina regulisanih trgovačkih platformi sada nudi opciju automatizacije vašeg DCA. Sa dovoljno fiat sredstava na vašem računu, platforma će automatski izvršavati vaše naloge za kupovinu na osnovu parametara koje ste postavili. Takođe postoji sve veći broj platformi posvećenih automatizaciji DCA, koje nude dodatne usluge kao što su automatska povlačenja na vaš lični Wallet ili zaokruživanje vaših dnevnih troškova. Ako koristite regulisanu platformu, toplo preporučujem automatizaciju vašeg DCA za veći mir u svakodnevnom upravljanju.
+Dalje, imate dve opcije za postavljanje vašeg DCA: automatizovati ga ili upravljati njime ručno. Većina regulisanih trgovačkih platformi sada nudi opciju automatizacije vašeg DCA. Sa dovoljno fiat sredstava na vašem računu, platforma će automatski izvršavati vaše naloge za kupovinu na osnovu parametara koje ste postavili. Takođe postoji sve veći broj platformi posvećenih automatizaciji DCA, koje nude dodatne usluge kao što su automatska povlačenja na vaš lični novčanik ili zaokruživanje vaših dnevnih troškova. Ako koristite regulisanu menjačnicu, toplo preporučujem automatizaciju vašeg DCA za veći mir u svakodnevnom upravljanju.
 
 
 ![image](assets/sr-Latn/082.webp)
@@ -2539,7 +2539,7 @@ https://planb.academy/tutorials/exchange/centralized/kraken-1ef03e25-9b42-49bd-a
 
 https://planb.academy/tutorials/exchange/centralized/paymium-92603f76-b985-49ce-81e5-f4fa0df776e5
 
-Stackers možda takođe žele da poboljšaju svoju privatnost, čak i ako im to nije primarni cilj. U tom slučaju, trebalo bi da razmotre korišćenje P2P metode akvizicije, van regulisanih platformi. Za razliku od automatizovanih DCA kupovina, ove metode zahtevaju da sami upravljate svojom strategijom kupovine, tako da je disciplina ključna za ostanak na pravom putu.
+Stacker-i možda takođe žele da poboljšaju svoju privatnost, čak i ako im to nije primarni cilj. U tom slučaju, trebalo bi da razmotre korišćenje P2P metode kupovine, van regulisanih platformi. Za razliku od automatizovanih DCA kupovina, ove metode zahtevaju da sami upravljate svojom strategijom kupovine, tako da je disciplina ključna za ostanak na pravom putu.
 
 
 https://planb.academy/tutorials/exchange/peer-to-peer/bisq-v2-c1c6a702-6c16-4101-8b90-62c424017b80
@@ -2555,13 +2555,13 @@ https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-429
 #### 3. Povlačenje i osiguranje bitkoina
 
 
-Jednom kada vaša strategija kupovine bude uspostavljena, jednostavno povucite vaš Bitcoin iz Exchange i redovno ga prebacujte na vaš Hardware Wallet. Ovo osigurava punu samostalnu kontrolu i dugoročnu zaštitu.
+Jednom kada vaša strategija kupovine bude uspostavljena, jednostavno povucite vaš bitkoin sa menjačnice i redovno ga prebacujte na vaš hardverski novčanik. Ovo osigurava punu samostalnu kontrolu i dugoročnu zaštitu.
 
 
 #### 4. Čekanje nekoliko ciklusa
 
 
-Stackers misle u godinama, ne mesecima. Kao i hodleri, moraju se odupreti panici tokom tržišnih padova ili euforiji tokom bikovskih tržišta.
+Stacker-i misle u godinama, ne mesecima. Kao i hodleri, moraju se odupreti panici tokom tržišnih padova ili euforiji tokom bikovskih tržišta.
 
 
 Ključne navike:
@@ -2570,14 +2570,14 @@ Ključne navike:
 
 - Ne proveravajte često svoje novčanike da biste izbegli stres;
 - Nikada ne prodaj u padu; korekcije su normalne;
-- Ostanite informisani o razvoju tehnologije Bitcoin;
-- Periodično proveravajte svoje seed rezervne kopije i status Hardware Wallet: Sada kada su vaši novčanici postavljeni, važno je postaviti redovno praćenje. Periodično proveravajte da li je vaša Mnemonic fraza i dalje prisutna na mestu skladištenja i da li njena neprovidna koverta nije otvorena. Tokom ovih provera, možete takođe otvoriti kovertu da pregledate stanje medija. Uverite se da nije oštećen i da je rečenica i dalje savršeno čitljiva. Ako postoje bilo kakvi znaci oštećenja, najbolje je napraviti novu kopiju sa vašeg Hardware Wallet. Takođe možete redovno proveravati svoje hardverske novčanike.
+- Ostanite informisani o razvoju Bitkoin tehnologije;
+- Periodično proveravajte svoje seed rezervne kopije i stanje hardverskog novčanika: Sada kada su vaši novčanici postavljeni, važno je postaviti redovno praćenje. Periodično proveravajte da li je vaša Mnemonic fraza i dalje prisutna na mestu skladištenja i da li njena neprovidna koverta nije otvorena. Tokom ovih provera, možete takođe otvoriti kovertu da pregledate stanje medija. Uverite se da nije oštećen i da je rečenica i dalje savršeno čitljiva. Ako postoje bilo kakvi znaci oštećenja, najbolje je napraviti novu kopiju sa vašeg hardverskog novčanika. Takođe možete redovno proveravati svoje hardverske novčanike.
 
 
 ![image](assets/sr-Latn/083.webp)
 
 
-Za lako praćenje bez ugrožavanja bezbednosti, postavite Watch-only wallet za praćenje stanja koristeći javni ključ.
+Za lako praćenje bez ugrožavanja bezbednosti, postavite Watch-only novčanik za praćenje stanja koristeći javni ključ.
 
 
 https://planb.academy/tutorials/wallet/mobile/blockstream-app-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
@@ -2585,27 +2585,27 @@ https://planb.academy/tutorials/wallet/mobile/blockstream-app-watch-only-66c3bc5
 ### Proceni svoj profil slagalice
 
 
-Uspešni stakeri pokazuju ove osobine:
+Uspešni staker-i pokazuju ove osobine:
 
 
 
-- **Organizacija**: Ostanite u okviru budžeta, pridržavajte se svog plana. Stackers moraju osigurati da je njihov plan akumulacije održiv tokom nekoliko godina.
-- **Disciplina**: Pratite svoj raspored bez reagovanja na buku sa tržišta. Pravilnost ima prednost nad impulsivnim prilagođavanjima. Ipak, i dalje je moguće napraviti razumna prilagođavanja.
-- **Strpljenje**: Nagrade slaganja nisu trenutne. Ova strategija se razvija tokom dugih perioda, ponekad trajući godinama, pre nego što donese opipljive rezultate. Oni koji uspeju su oni koji mogu ostati strpljivi, bez da ih kratkoročna volatilnost pokoleba.
-- **Finansijsko znanje**: Čvrsto razumevanje DCA, upravljanja rizikom i Bitcoin tržišnih osnova pomaže vam da investirate sa samopouzdanjem. Informisani investitor je bolje opremljen da se odupre sumnjama i izbegne donošenje impulsivnih odluka tokom perioda visoke volatilnosti.
-- **Dugoročna vizija**: Staker snažno veruje u tehnološki potencijal Bitcoin. Njihov fokus nije na kratkoročnim promenama cena, već na postepenom povećanju svojih poseda tokom godina.
+- **Organizovanost**: Ostanite u okviru budžeta, pridržavajte se svog plana. Stacker-i moraju osigurati da je njihov plan akumulacije održiv tokom nekoliko godina.
+- **Disciplina**: Pratite svoj raspored bez reagovanja na buku sa tržišta. Redovnost ima prednost nad impulsivnim prilagođavanjima. Ipak, i dalje je moguće napraviti razumna prilagođavanja.
+- **Strpljenje**: Nagrade stacking-a nisu trenutne. Ova strategija se razvija tokom dugih perioda, ponekad trajući godinama, pre nego što donese opipljive rezultate. Oni koji uspeju su oni koji mogu ostati strpljivi, bez da ih kratkoročna volatilnost pokoleba.
+- **Finansijsko znanje**: Čvrsto razumevanje DCA, upravljanja rizikom i osnovnih principa bitkoin tržišta pomaže vam da investirate sa samopouzdanjem. Informisani investitor je bolje opremljen da se odupre sumnjama i izbegne donošenje impulsivnih odluka tokom perioda visoke volatilnosti.
+- **Dugoročna vizija**: Staker snažno veruje u tehnološki potencijal Bitkoina. Njihov fokus nije na kratkoročnim promenama cena, već na postepenom povećanju svojih poseda tokom godina.
 
 
 ![image](assets/sr-Latn/084.webp)
 
 
-Ukratko, slaganje je idealno za one koji žele da izgrade Bitcoin poziciju tokom vremena, smanje rizike volatilnosti i zadrže pun suverenitet; bez potrebe da budu vezani za grafikone.
+Ukratko, stacking je idealan za one koji žele da izgrade bitkoin poziciju tokom vremena, smanje rizike volatilnosti i zadrže pun suverenitet; bez potrebe da budu vezani za grafikone.
 
 
 Dalje: istražićemo radikalno drugačiji profil bitkoinera; aktivnog korisnika.
 
 
-## Aktivni Bitcoin Korisnik: Integrisanje Bitcoin u Svakodnevni Život
+## Aktivni Bitkoin Korisnik: Integrisanje Bitkoina u Svakodnevni Život
 
 
 <chapterId>e0a022ab-207c-571f-b4ad-c432214a756c</chapterId>
