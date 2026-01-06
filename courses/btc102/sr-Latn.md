@@ -17,7 +17,7 @@ objectives:
 Ekosistem Bitkoina doživljava spektakularan i neviđen rast. Tehnološke, ekonomske i društvene transformacije pokrenute izumom Satošija Nakamoto-a se intenziviraju iz dana u dan i postepeno otvaraju vrata ka novom svetu, od kojeg sada možete u potpunosti imati koristi.
 
 
-Uronjavanje u "zečju rupu Bitcoina" je uzbudljiva intelektualna avantura koja će stimulisati vaše kritičko razmišljanje i izazvati mnoga vaša uverenja. Ovo istraživanje će vam ne samo pružiti duboko razumevanje kako Bitkoin funkcioniše, već i stvarnu priliku da povratite svoju ličnu slobodu, zaštitite svoju privatnost i postignete istinsku finansijsku suverenost.
+Uronjavanje u "zečju rupu Bitkoina" je uzbudljiva intelektualna avantura koja će stimulisati vaše kritičko razmišljanje i izazvati mnoga vaša uverenja. Ovo istraživanje će vam ne samo pružiti duboko razumevanje kako Bitkoin funkcioniše, već i stvarnu priliku da povratite svoju ličnu slobodu, zaštitite svoju privatnost i postignete istinsku finansijsku suverenost.
 
 
 Da bih vas efikasno vodio kroz ovo putovanje, kreirao sam ovaj potpuno besplatan kurs. Ovde je fokus isključivo na Bitkoinu. Nema nebitnih diskusija, nema pomena drugih kriptovaluta, samo jasan, precizan i direktan sadržaj.
@@ -2582,7 +2582,7 @@ Za lako praćenje bez ugrožavanja bezbednosti, postavite Watch-only novčanik z
 
 https://planb.academy/tutorials/wallet/mobile/blockstream-app-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
 
-### Proceni svoj profil slagalice
+### Proceni svoj profil stacker-a
 
 
 Uspešni staker-i pokazuju ove osobine:
@@ -2614,7 +2614,7 @@ Dalje: istražićemo radikalno drugačiji profil bitkoinera; aktivnog korisnika.
 :::video id=5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c:::
 
 
-Postati aktivni korisnik Bitcoin znači ići dalje od dugoročnih investicionih strategija. Za razliku od hodlera ili stackera koji prvenstveno štede bez trošenja, aktivni korisnik tretira Bitcoin kao pravi medijum **Exchange**. Koriste ga za plaćanje robe i usluga i aktivno učestvuju u kontra-ekonomiji.
+Postati aktivni Bitkoin korisnik znači ići dalje od dugoročnih investicionih strategija. Za razliku od hodlera ili stackera koji prvenstveno štede bez trošenja, aktivni korisnik tretira Bitkoin kao pravo sredstvo **razmene**. Koriste ga za plaćanje robe i usluga i aktivno učestvuju u kontra-ekonomiji.
 
 
 ![image](assets/sr-Latn/085.webp)
@@ -2623,28 +2623,28 @@ Postati aktivni korisnik Bitcoin znači ići dalje od dugoročnih investicionih 
 ### Zašto usvojiti strategiju aktivnog korisnika?
 
 
-Korišćenje Bitcoin svakodnevno nudi i individualne i kolektivne prednosti:
+Korišćenje bitkoina svakodnevno nudi i individualne i kolektivne prednosti:
 
 
 
-- Podržite ekosistem Bitcoin kroz **usvajanje**:
+- Podržite Bitkoin ekosistem kroz **usvajanje**:
 
 
-Svaka transakcija jača legitimitet Bitcoin kao valute i podstiče više trgovaca i usluga da je prihvate. Korišćenje Bitcoin je glasanje za njenu korisnost. Novac dobija svoju vrednost iz sposobnosti da olakša trgovinu; ne razmenu. Ako nijedan trgovac ne prihvata valutu, ona nema objektivnu vrednost. Što više robe i usluga možete kupiti njome, to postaje korisnija. Odabirom plaćanja u Bitcoin, usmeravate vrednost ka trgovcima koji je prihvataju. Ovo povećava njihove profite i može, tokom vremena, smanjiti profite za konkurente koji je odbijaju. U okviru zajednice, ova dinamika može podstaći šire prihvatanje Bitcoin i doprineti vrlom ciklusu usvajanja.
-
-
-
-- Iskoristite jedinstvene karakteristike **Bitcoin**:
-
-
-Bitcoin nudi nekoliko moćnih funkcija, kao što su brze transakcije putem Lightning Network, i slobodu od cenzure, finansijskog nadzora i seigniorage-a. Njegova osnovna vrednost leži u uklanjanju kontrole vlade nad novcem Supply i omogućavanju transakcija koje se ne mogu cenzurisati. Ako se ove prednosti poklapaju sa vašim ličnim potrebama i vrednostima, možda ćete otkriti da vam profil Aktivnog Korisnika dobro odgovara.
+Svaka transakcija jača legitimitet bitkoina kao valute i podstiče više trgovaca i usluga da je prihvate. Korišćenje bitkoina je glasanje za njenu korisnost. Novac dobija svoju vrednost iz sposobnosti da olakša trgovinu; ne razmenu. Ako nijedan trgovac ne prihvata valutu, ona nema objektivnu vrednost. Što više robe i usluga možete kupiti njome, to postaje korisnija. Odabirom plaćanja u bitkoinu, usmeravate vrednost ka trgovcima koji ga prihvataju. Ovo povećava njihove profite i može, tokom vremena, smanjiti profite za konkurente koji je odbijaju. U okviru zajednice, ova dinamika može podstaći šire prihvatanje bitkoina i doprineti vrlom ciklusu usvajanja.
 
 
 
-- **Uči kroz rad**:
+- Iskoristite jedinstvene karakteristike **Bitkoina**:
 
 
-Aktivno korišćenje Bitcoin pomaže vam da razvijete iskustvo iz stvarnog sveta. Postaćete upoznati sa tipovima Wallet, privatnošću plaćanja i upravljanjem UTXO. Svakodnevna upotreba postaje praktično okruženje za učenje.
+Bitkoin nudi nekoliko moćnih funkcija, kao što su brze transakcije putem Lightning mreže, sloboda od cenzure, finansijskog nadzora i seigniorage-a. Njegova osnovna vrednost leži u uklanjanju kontrole vlade nad ponudom novca i omogućavanju transakcija koje se ne mogu cenzurisati. Ako se ove prednosti poklapaju sa vašim ličnim potrebama i vrednostima, možda ćete otkriti da vam profil Aktivnog korisnika dobro odgovara.
+
+
+
+- **Učite kroz praksu**:
+
+
+Aktivno korišćenje bitkoina pomaže vam da razvijete iskustvo u stvarnom svetu. Upoznaćete se sa tipovima novčanika, privatnošću plaćanja i upravljanjem UTXO-ovima. Svakodnevna upotreba postaje praktično okruženje za učenje.
 
 
 Izazovi uključuju tehničku složenost, volatilnost cena i potrebu za dobrom bezbednosnom higijenom kako bi se sprečio gubitak sredstava.
@@ -2656,7 +2656,7 @@ Izazovi uključuju tehničku složenost, volatilnost cena i potrebu za dobrom be
 ### Plan ulaganja za aktivnog korisnika
 
 
-Usvajanje Bitcoin za svakodnevna plaćanja zahteva promišljen i strukturiran pristup. Za razliku od Hodlera ili Stackera, Aktivni Korisnik mora upravljati i dugoročnom sigurnošću svojih sredstava i praktičnošću dnevnih transakcija. Postizanje pravog balansa između sigurnog skladištenja Cold i lakog pristupa sredstvima za trošenje je ključno da bi ova strategija funkcionisala efikasno.
+Usvajanje bitkoina za svakodnevna plaćanja zahteva promišljen i strukturiran pristup. Za razliku od Hodlera ili Stackera, Aktivni Korisnik mora upravljati i dugoročnom sigurnošću svojih sredstava i praktičnošću dnevnih transakcija. Postizanje pravog balansa između sigurnog skladištenja i lakog pristupa sredstvima za trošenje je ključno da bi ova strategija funkcionisala efikasno.
 
 
 ![image](assets/sr-Latn/087.webp)
@@ -2669,7 +2669,7 @@ Aktivni korisnici treba da koriste dve različite vrste novčanika kako bi balan
 
 
 
-- A Cold Wallet (Hardware Wallet) za osiguranje dugoročnih ušteda.
+- A Cold Wallet - (Hardverski - hladni novčanik) za osiguranje dugoročnih ušteda.
 
 
 https://planb.academy/tutorials/wallet/hardware/coldcard-q-73e86d1a-6fe6-4d8b-bb15-8690298020e3
@@ -2693,7 +2693,7 @@ https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92
 https://planb.academy/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4a-2f2be1e7d5d2
 
 
-- Jedan ili više mobilnih Hot novčanika za dnevne transakcije. Tipično, aktivni korisnik će imati i On-Chain Hot Wallet i Lightning Wallet.
+- Jedan ili više mobilnih "Hot" novčanika za dnevne transakcije. Tipično, aktivni korisnik će imati i On-Chain Hot Wallet i Lightning Wallet.
 
 
 https://planb.academy/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
@@ -2720,13 +2720,13 @@ https://planb.academy/tutorials/wallet/mobile/wallet-of-satoshi-39149d86-e42b-4e
 
 https://planb.academy/tutorials/wallet/mobile/zeus-embedded-advanced-3e89603c-501d-439c-8691-d4a0d0de459b
 
-Razdvajanje vaših sredstava na ovaj način pomaže u smanjenju rizika u slučaju da Wallet korišćen za svakodnevna plaćanja bude ugrožen.
+Razdvajanje vaših sredstava na ovaj način pomaže u smanjenju rizika u slučaju da novčanik korišćen za svakodnevna plaćanja bude ugrožen.
 
 
 #### 2. Postavite svoj čvor
 
 
-Aktivni korisnici često nastoje smanjiti oslanjanje na pouzdane treće strane, u zavisnosti od ličnih okolnosti. Jedan od najefikasnijih načina da se to postigne je pokretanjem sopstvenog Bitcoin čvora. Ovo im omogućava da koriste mrežu nezavisno, dok poboljšavaju privatnost svojih transakcija.
+Aktivni korisnici često nastoje smanjiti oslanjanje na pouzdane treće strane, u zavisnosti od ličnih okolnosti. Jedan od najefikasnijih načina da se to postigne je pokretanjem sopstvenog Bitkoin čvora. Ovo im omogućava da koriste mrežu nezavisno, dok poboljšavaju privatnost svojih transakcija.
 
 
 https://planb.academy/tutorials/node/bitcoin/bitcoin-core-linux-568c13a6-8746-4d63-8e95-f4a61c5ae0ed
@@ -2741,25 +2741,25 @@ https://planb.academy/tutorials/node/bitcoin/mynode-a481fef3-2fd3-4df3-91c0-112c
 
 https://planb.academy/tutorials/node/bitcoin/start9-8c8b6827-8423-4929-bcba-89057670ed6a
 
-Za one koji redovno koriste Lightning Network, upravljanje sopstvenim LND, LDK, ili Core-Lightning čvorom može biti pametan potez. To im daje potpunu kontrolu nad otvaranjem i zatvaranjem kanala, povećava samostalnost i čak može pomoći u smanjenju transakcijskih naknada; posebno u poređenju sa automatizovanim rešenjima kao što je Phoenix, ili još gore, kustodijalnim Lightning novčanicima.
+Za one koji redovno koriste Lightning mrežu, upravljanje sopstvenim LND, LDK, ili Core-Lightning čvorom može biti pametan potez. To im daje potpunu kontrolu nad otvaranjem i zatvaranjem kanala, povećava samostalnost i čak može pomoći u smanjenju transakcijskih naknada; posebno u poređenju sa automatizovanim rešenjima kao što je Phoenix, ili još gore, kustodijalnim Lightning novčanicima.
 
 
 https://planb.academy/tutorials/node/lightning-network/alby-hub-62e6356c-6a6d-4134-8f22-c3b6afb9882a
 
-#### 3. Redovna Bitcoin Nabavka
+#### 3. Redovna kupovina bitkoina
 
 
-Aktivni korisnici treba da postignu ravnotežu između svojih dugoročnih ušteda i količine Bitcoin koju drže pri ruci za svakodnevnu upotrebu.
+Aktivni korisnici treba da postignu ravnotežu između svojih dugoročnih ušteda i količine bitkoina koju drže pri ruci za svakodnevnu upotrebu.
 
 
 ![image](assets/sr-Latn/088.webp)
 
 
-Postoji nekoliko načina da nabavite Bitcoin, u zavisnosti od nivoa privatnosti koji tražite:
+Postoji nekoliko načina da nabavite bitkoin, u zavisnosti od nivoa privatnosti koji tražite:
 
 
 
-- Tradicionalna kupovina putem regulisanih platformi kao što su Bitfinex ili Bull Bitcoin (idealno za dopunu vašeg Cold Wallet);
+- Tradicionalna kupovina putem regulisanih platformi kao što su Bitfinex ili Bull Bitcoin (idealno za dopunu vašeg Cold Wallet-a);
 
 
 https://planb.academy/tutorials/exchange/centralized/bitfinex-dc306d39-bd96-4ab9-a278-a322316716db
@@ -2779,7 +2779,7 @@ https://planb.academy/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d
 https://planb.academy/tutorials/exchange/centralized/stackinsat-5af6a380-f3c6-4246-9f81-9957a16ab066
 
 
-- Kupovina bez **KYC** putem peer-to-peer usluga kao što su Peach, Robosats ili Bitcoin bankomati; omogućava vam da dodate na svoj Wallet bez otkrivanja ličnih informacija.
+- Kupovina bez **KYC** putem peer-to-peer usluga kao što su Peach, Robosats ili bitkoin bankomati; omogućava vam dodavanje sredstava na vaš novčanik bez otkrivanja ličnih informacija.
 
 
 https://planb.academy/tutorials/exchange/peer-to-peer/bisq-v2-c1c6a702-6c16-4101-8b90-62c424017b80
@@ -2793,7 +2793,7 @@ https://planb.academy/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9
 https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
 
-- **Zarađivanje u Bitcoin**. Biti aktivan korisnik nije samo trošenje BTC-a; radi se i o zarađivanju. Ako vodite posao, razmislite o prihvatanju Bitcoin kao način plaćanja. Ako ste zaposleni, proverite da li vaš poslodavac nudi opciju da primate celu ili deo plate u BTC-u.
+- **Zarađivanje u bitkoinu**. Biti aktivan korisnik ne znači samo trošiti BTC; on ga i zarađuje. Ako imate biznis, razmislite o prihvatanju bitkoina kao sredstva plaćanja. Ako ste zaposleni, proverite da li vaš poslodavac nudi opciju da primate celu ili deo plate u BTC-u.
 
 
 https://planb.academy/tutorials/business/point-of-sale/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
@@ -2808,16 +2808,16 @@ https://planb.academy/tutorials/business/point-of-sale/btcpay-server-928eb01e-82
 #### 4. Aktivno upravljanje troškovima
 
 
-Izbor trošenja bitkoina često je predmet kritike. Neki korisnici Bitcoin radije troše fiat valute, koje smatraju manje kvalitetnim i stoga ih žele eliminisati, nego da troše bitkoine. Ali ovaj način razmišljanja ima dve ključne mane: prvo, zanemaruje prednosti Bitcoin kao sredstva plaćanja (pogledajte prethodni odeljak), i drugo, postavlja pitanje: zašto zadržavati fiat valutu, koja se smatra manje vrednom, za trošenje?
+Izbor trošenja bitkoina često je predmet kritike. Neki korisnici radije troše fiat valute, koje smatraju manje kvalitetnim i stoga ih žele eliminisati, nego da troše bitkoine. Ali ovaj način razmišljanja ima dva ključna nedostatka: prvo, zanemaruje prednosti bitkoina kao sredstva plaćanja (pogledajte prethodni odeljak), i drugo, postavlja pitanje: zašto čuvati fiat valutu, koja se smatra manje vrednom, za trošenje?
 
 
-Logičniji pristup je metoda "Potroši i Zameni". To znači trošenje Bitcoin iz svih prethodno navedenih razloga, a zatim, umesto da dozvolite da se vaša Bitcoin ušteđevina smanji, zamenjujete potrošeni Sats kupovinom novih sa fiat valutom.
+Logičniji pristup je metoda "Potroši i Zameni". To znači trošenje bitkoina iz svih prethodno navedenih razloga, a zatim, umesto da dozvolite da se vaša bitkoin ušteđevina smanji, zamenite potrošene satošije kupovinom novih sa fiat valutom.
 
 
-Da bi Bitcoin trošenje bilo lakše, dostupno je mnogo alata, kao što je [BTC Map](https://btcmap.org/), koji vam pokazuje trgovce širom sveta koji prihvataju Bitcoin. Neki od ovih trgovaca čak vam omogućavaju da naručite online i da vam proizvodi budu dostavljeni.
+Da bi trošenje bitkoina bilo lakše, dostupno je mnogo alata, kao što je [BTC Map](https://btcmap.org/), koji vam pokazuje trgovce širom sveta koji prihvataju bitkoin. Neki od ovih trgovaca čak vam omogućavaju da naručite online i da vam proizvodi budu dostavljeni.
 
 
-Pošto smo još uvek u fazi tranzicije gde svi dnevni trgovci ne prihvataju BTC, postoje neka jednostavna, ali efikasna rešenja. Na primer, kupovina poklon kartica sa Bitcoin je praktično rešenje, a mnogi provajderi kao što su Bitrefill, Coinsbee ili The Bitcoin Company nude ovu uslugu.
+Pošto smo još uvek u fazi tranzicije gde svi dnevni trgovci ne prihvataju BTC, postoje neka jednostavna, ali efikasna rešenja. Na primer, kupovina poklon kartica sa bitkoinom je praktično rešenje, a mnogi provajderi kao što su Bitrefill, Coinsbee ili The Bitcoin Company nude ovu uslugu.
 
 
 https://planb.academy/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
@@ -2825,38 +2825,38 @@ https://planb.academy/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465
 #### 5. Tehnološka Svest i Fleksibilnost
 
 
-Protokol Bitcoin, zajedno sa sistemima Layer-2 kao što su Lightning Network i cela aplikacija Layer povezana sa ovim ekosistemima, brzo se razvija. Kao aktivni korisnik, trebalo bi:
+Bitkoin Protokol, zajedno sa sistemima drugog sloja poput Lightning mreže i celim aplikacionim slojem povezanim sa ovim ekosistemima, brzo se razvija. Kao aktivni korisnik, trebalo bi da:
 
 
 
-- Ostanite u toku sa novim rešenjima koja olakšavaju svakodnevno usvajanje;
-- Redovno testirajte nove alate i usluge kako biste poboljšali korisničko iskustvo;
+- Ostanete u toku sa novim rešenjima koja olakšavaju svakodnevno usvajanje;
+- Redovno testirate nove alate i usluge kako biste poboljšali korisničko iskustvo;
 - Prilagodite svoju strategiju na osnovu tehnoloških napredaka i promena na tržištu.
 
 
 ### Proceni svoj profil aktivnog korisnika
 
 
-Da li ste spremni da budete aktivni korisnik Bitcoin? Ovde su ključne osobine koje definišu ovaj profil:
+Da li ste spremni da budete aktivni korisnik bitkoina? Ovde su ključne osobine koje definišu ovaj profil:
 
 
 
-- **Pragmatizam i Commitment:** Motivisani ste da integrišete Bitcoin u svoj svakodnevni život i igrate aktivnu ulogu u rastu njegovog ekosistema. Prepoznajete i prednosti i izazove koji dolaze s tim.
-- **Tehnička stručnost:** Ili već imate solidno razumevanje kako Bitcoin novčanici i Lightning Network funkcionišu; ili ste željni da naučite. Udobno se snalazite u naprednim konceptima kao što je upravljanje UTXO.
-- **Fleksibilnost i prilagodljivost:** Otvoreni ste za isprobavanje novih alata, prelazak između rešenja i prilagođavanje svojih praksi kako se ekosistem Bitcoin razvija i vaše potrebe menjaju.
-- **Finansijska disciplina:** Pažljivo upravljate svojim Bitcoin troškovima i uštedama. Razumete važnost jasnog odvajanja sredstava za svakodnevne potrebe od dugoročnih ušteda.
+- **Pragmatizam i posvećenost:** Motivisani ste da integrišete bitkoin u svoj svakodnevni život i igrate aktivnu ulogu u rastu njegovog ekosistema. Prepoznajete i prednosti i izazove koji dolaze s tim.
+- **Tehnička stručnost:** Ili već imate solidno razumevanje kako Bitkoin novčanici i Lightning mreža funkcionišu; ili ste željni da naučite. Udobno se snalazite u naprednim konceptima kao što je upravljanje UTXO-ovima.
+- **Fleksibilnost i prilagodljivost:** Otvoreni ste za isprobavanje novih alata, prelazak na druga rešenja i prilagođavanje svojih praksi kako se ekosistem Bitkoina razvija i vaše potrebe menjaju.
+- **Finansijska disciplina:** Pažljivo upravljate trošenjem i štednjom bitkoina. Razumete važnost jasnog odvajanja sredstava za svakodnevne potrebe od dugoročnih ušteda.
 
 
 ![image](assets/sr-Latn/090.webp)
 
 
-Zaključno, aktivni korisnik igra direktnu ulogu u unapređenju ekosistema Bitcoin. Uključivanjem Bitcoin u svoje svakodnevne navike, ne samo da podržavaju njegovo usvajanje već i razvijaju sopstvenu stručnost.
+Zaključno, aktivni korisnik igra direktnu ulogu u unapređenju Bitkoin ekosistema. Uključivanjem Bitkoina u svoje svakodnevne navike, ne samo da podržavaju njegovo usvajanje već i razvijaju sopstvenu stručnost.
 
 
-U sledećem poglavlju, istražićemo poslednji i možda najintrigantniji korisnički profil Bitcoin: paranoični korisnik.
+U sledećem poglavlju, istražićemo poslednji i možda najintrigantniji korisnički profil Bitkoinera: paranoični korisnik.
 
 
-## Paranoidni Bitkoiner: Privatnost Iznad Svega
+## Paranoični Bitkoiner: Privatnost Iznad Svega
 
 
 <chapterId>5c624acd-662e-5134-ab7a-fb75cde7c3f8</chapterId>
@@ -2865,10 +2865,10 @@ U sledećem poglavlju, istražićemo poslednji i možda najintrigantniji korisni
 :::video id=6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d:::
 
 
-Za paranoičnog Bitcoinera, privatnost nije opcionalna; ona je esencijalna. U svetu gde je skoro svaki finansijski potez praćen, oni vide zaštitu svog identiteta i istorije transakcija kao neophodan deo korišćenja Bitcoin. Obično su veoma svesni rizika povezanih sa izlaganjem ličnih podataka (posebno kada koriste berze koje su u skladu sa KYC zahtevima i zahtevaju verifikaciju identiteta).
+Za paranoičnog Bitkoinera, privatnost nije opcionalna; ona je esencijalna. U svetu gde je skoro svaki finansijski potez praćen, oni vide zaštitu svog identiteta i istorije transakcija kao neophodan deo korišćenja bitkoina. Obično su veoma svesni rizika povezanih sa izlaganjem ličnih podataka (posebno kada koriste berze koje su u skladu sa KYC zahtevima i zahtevaju verifikaciju identiteta).
 
 
-Za njih, svaka akcija je bitna. Svaka transakcija, svako podešavanje Wallet, i svaka interakcija sa mrežom se pažljivo razmatra. Jedna greška mogla bi otkriti osetljive informacije koje povezuju njihov identitet sa njihovim Bitcoin sredstvima. Njihov krajnji cilj? Koristiti Bitcoin na način koji čuva njihov identitet, lokaciju i finansijsku situaciju potpuno privatnim.
+Za njih, svaka akcija je bitna. Svaka transakcija, svako podešavanje novčanika, i svaka interakcija sa mrežom se pažljivo razmatra. Jedna greška mogla bi otkriti osetljive informacije koje povezuju njihov identitet sa njihovim bitkoin sredstvima. Njihov krajnji cilj? Koristiti Bitkoin na način koji čuva njihov identitet, lokaciju i finansijsku situaciju potpuno privatnim.
 
 
 ![image](assets/sr-Latn/091.webp)
@@ -2881,14 +2881,14 @@ Odabir načina razmišljanja koji stavlja privatnost na prvo mesto nudi nekoliko
 
 
 
-- **Finansijska autonomija:** Držeći se van radara banaka, vlada i korporacija, štitite se od nadzora i neželjenog mešanja.
-- **Zaštita imovine:** Ako ekonomski ili politički uslovi postanu nestabilni, mnogo je teže za treće strane da prate ili zaplene vaš Bitcoin ako nije povezan sa vašim identitetom.
-- **Poboljšana lična bezbednost:** Ljudi za koje se zna da poseduju velike količine Bitcoin mogu postati mete. Održavanje vašeg identiteta skrivenim smanjuje rizik od toga da budete meta.
+- **Finansijska autonomija:** Držeći se van radara banaka, vlada i korporacija, štitite se od nadzora i neželjenih intervencija.
+- **Zaštita imovine:** Ako ekonomski ili politički uslovi postanu nestabilni, mnogo je teže za treće strane da prate ili zaplene vaš bitkoin ako nije povezan sa vašim identitetom.
+- **Poboljšana lična bezbednost:** Ljudi za koje se zna da poseduju velike količine bitkoina mogu postati mete. Održavanje vašeg identiteta skrivenim smanjuje rizik od toga da budete meta.
 - **Sloboda od diskriminacije**: Neke usluge ili vlade mogu blokirati transakcije ili naloge na osnovu vaše prethodne aktivnosti ili ko ste vi. Privatnost drži tu moć pod kontrolom.
-- Ostajući veran korenima **Bitcoin:** Bitcoin je dizajniran kao oblik novca otporan na cenzuru i bez dozvole. Zaštita vaše privatnosti je deo poštovanja te originalne misije.
+- **Ostaju verni korenima Bitkoina:** Bitkoin je dizajniran kao oblik novca otporan na cenzuru i bez dozvole. Zaštita vaše privatnosti je deo poštovanja te originalne misije.
 
 
-To je pametan, proračunat odgovor na vrlo stvarne pretnje koje postoje u današnjem digitalnom i finansijskom okruženju. Da, ovaj pristup zahteva više truda. Potrebno je vreme, tehničko znanje i disciplina. Ali za one koji biraju ovaj put, nije reč samo o korišćenju Bitcoin; reč je o ponovnom preuzimanju kontrole nad svojim novcem, svojim identitetom i svojom slobodom.
+To je pametan, proračunat odgovor na vrlo stvarne pretnje koje postoje u današnjem digitalnom i finansijskom okruženju. Da, ovaj pristup zahteva više truda. Potrebno je vreme, tehničko znanje i disciplina. Ali za one koji biraju ovaj put, nije reč samo o korišćenju bitkoina; reč je o ponovnom preuzimanju kontrole nad svojim novcem, svojim identitetom i svojom slobodom.
 
 Oni nisu samo investitori ili korisnici; oni se odlučuju za izlazak iz sistema koji zahteva da zna sve o njima.
 
@@ -2896,7 +2896,7 @@ Oni nisu samo investitori ili korisnici; oni se odlučuju za izlazak iz sistema 
 ### Paranoični investicioni plan
 
 
-Paranoični Bitcoiner prati strogu strategiju izgrađenu oko dva osnovna cilja: očuvanje anonimnosti i maksimiziranje sigurnosti. Ova vrsta korisnika nastoji izbeći izloženost regulisanim platformama (posebno onima koje zahtevaju KYC), eliminisati mogućnost praćenja transakcija i zaštititi svoja sredstva od nadzora, konfiskacije i drugih spoljašnjih pretnji.
+Paranoični Bitkoiner prati strogu strategiju izgrađenu oko dva osnovna cilja: očuvanje anonimnosti i maksimiziranje sigurnosti. Ova vrsta korisnika nastoji izbeći izloženost regulisanim platformama (posebno onima koje zahtevaju KYC), eliminisati mogućnost praćenja transakcija i zaštititi svoja sredstva od nadzora, konfiskacije i drugih spoljašnjih pretnji.
 
 
 ![image](assets/sr-Latn/092.webp)
@@ -2905,11 +2905,11 @@ Paranoični Bitcoiner prati strogu strategiju izgrađenu oko dva osnovna cilja: 
 #### 1. Postavljanje novčanika i čvorova
 
 
-Paranoični korisnik nikada ne meša sredstva na osnovu porekla ili upotrebe. Umesto toga, oni razdvajaju svoj Bitcoin prema svrsi, koristeći više specijalizovanih novčanika:
+Paranoični korisnik nikada ne meša sredstva na osnovu porekla ili upotrebe. Umesto toga, oni razdvajaju svoj bitkoin prema svrsi, koristeći više specijalizovanih novčanika:
 
 
 
-- **A Cold Wallet (air-gapped and/or DIY)** Dugoročna sredstva se čuvaju u visoko sigurnim, izolovanim ili DIY novčanicima. To su obično uređaji otvorenog koda ili oni sa proverljivim kodom, kao što su Jade, Coldcard, SeedSigner, Portal ili Passport... Kad god je moguće, nabavljaju ove uređaje anonimno; bilo plaćanjem gotovinom ili korišćenjem Bitcoin u fizičkoj prodavnici, ili naručivanjem putem interneta sa diskretnim opcijama isporuke i BTC plaćanjima. U Francuskoj, na primer, [Bitcoin Bazar](https://bitcoinbazar.fr/) je jedna takva prodavnica. Možete potražiti slične provajdere u vašem regionu.
+- **A Cold Wallet- hladni novčanik (air-gapped and/or DIY)** Dugoročna sredstva se čuvaju u visoko sigurnim, izolovanim ili DIY novčanicima. To su obično uređaji otvorenog koda ili oni sa proverljivim kodom, kao što su Jade, Coldcard, SeedSigner, Portal ili Passport... Kad god je moguće, nabavljaju ove uređaje anonimno; bilo plaćanjem gotovinom ili korišćenjem bitkoina u fizičkoj prodavnici, ili naručivanjem putem interneta sa diskretnim opcijama isporuke i BTC plaćanjima. U Francuskoj, na primer, [Bitcoin Bazar](https://bitcoinbazar.fr/) je jedna takva prodavnica. Možete potražiti slične provajdere u vašem regionu.
 
 
 https://planb.academy/tutorials/wallet/hardware/jade-plus-sparrow-938abf16-e10a-4618-860d-cd771373a262
@@ -2921,7 +2921,7 @@ https://planb.academy/tutorials/wallet/hardware/passport-74e53858-3fa2-43f9-b866
 https://planb.academy/tutorials/wallet/hardware/portal-bd6e83f0-0100-4689-aeb3-513cca944ace
 
 
-- **Hot Wallet za svakodnevne transakcije**, Za redovno trošenje, paranoični korisnici biraju novčanike fokusirane na privatnost kao što su Ashigaru, Wasabi Wallet ili Sparrow wallet. Ovi novčanici podržavaju napredne funkcije kao što su: mini-CoinJoin transakcije trošenja, payjoins, potencijalno CoinJoin alati, kontrola novčića, UTXO označavanje, ili mogućnost povezivanja putem sopstvenog Bitcoin čvora.
+- **Hot Wallet za svakodnevne transakcije**, Za redovno trošenje, paranoični korisnici biraju novčanike fokusirane na privatnost kao što su Ashigaru, Wasabi Wallet ili Sparrow wallet. Ovi novčanici podržavaju napredne funkcije kao što su: mini-CoinJoin transakcije trošenja, payjoins, potencijalno CoinJoin alati, kontrola novčića, UTXO označavanje, ili mogućnost povezivanja putem sopstvenog Bitkoin čvora.
 
 
 https://planb.academy/tutorials/wallet/desktop/sparrow-c674e2ac-d46f-4c82-92a7-7d1b0e262f5d
@@ -2933,7 +2933,7 @@ https://planb.academy/tutorials/wallet/desktop/wasabi-a0b51540-32d2-4ed2-98aa-80
 
 
 
-- Pokretanje sopstvenog **Bitcoin čvora** je od suštinskog značaja. To osigurava potpunu kontrolu nad emitovanjem transakcija i izbegava oslanjanje na infrastrukturu trećih strana. Takođe štiti privatnost, sprečava cenzuru i omogućava im da nezavisno verifikuju pravila Bitcoin protokola. Bilo da je na Linux-u, Windows-u, macOS-u, ili putem plug-and-play podešavanja kao što su RaspiBlitz, myNode, ili Start9, paranoični korisnik tretira svoj čvor kao neupitni stub suvereniteta.
+- Pokretanje sopstvenog **Bitkoin čvora** je od suštinskog značaja. To osigurava potpunu kontrolu nad emitovanjem transakcija i izbegava oslanjanje na infrastrukturu trećih strana. Takođe štiti privatnost, sprečava cenzuru i omogućava im da nezavisno verifikuju pravila Bitkoin protokola. Bilo da je na Linux-u, Windows-u, macOS-u, ili putem plug-and-play podešavanja kao što su RaspiBlitz, myNode, ili Start9, paranoični korisnik tretira svoj čvor kao neupitni stub suvereniteta.
 
 
 https://planb.academy/tutorials/node/bitcoin/bitcoin-core-linux-568c13a6-8746-4d63-8e95-f4a61c5ae0ed
@@ -2949,7 +2949,7 @@ https://planb.academy/tutorials/node/bitcoin/mynode-a481fef3-2fd3-4df3-91c0-112c
 https://planb.academy/tutorials/node/bitcoin/start9-8c8b6827-8423-4929-bcba-89057670ed6a
 
 
-- Da bi obavljali transakcije preko **Lightning Network** uz zadržavanje istog nivoa kontrole i diskrecije, oni takođe upravljaju sopstvenim Lightning čvorom. Ovo im omogućava da direktno upravljaju kanalima i troše na način koji minimizira nadzor ili zavisnost od uslužnih servisa.
+- Da bi obavljali transakcije preko **Lightning mreže** uz zadržavanje istog nivoa kontrole i diskrecije, oni takođe pokreću sopstveni Lightning čvor. Ovo im omogućava da direktno upravljaju kanalima i troše na način koji minimizira nadzor ili zavisnost od uslužnih servisa.
 
 
 https://planb.academy/tutorials/node/lightning-network/alby-hub-62e6356c-6a6d-4134-8f22-c3b6afb9882a
@@ -2957,7 +2957,7 @@ https://planb.academy/tutorials/node/lightning-network/alby-hub-62e6356c-6a6d-41
 ![image](assets/sr-Latn/094.webp)
 
 
-Sigurnost se tu ne zaustavlja. Za pravljenje rezervnih kopija fraza seed, paranoični korisnik koristi metalne kopije u kombinaciji sa zapečaćenim kovertama koje pokazuju pokušaje neovlašćenog pristupa. Redovno proveravaju da li su rezervne kopije ostale nekompromitovane i testiraju procedure oporavka Wallet kako bi bili spremni za svaku nepredviđenu situaciju.
+Sigurnost se tu ne zaustavlja. Za pravljenje rezervnih kopija fraza seed, paranoični korisnik koristi metalne kopije u kombinaciji sa zapečaćenim kovertama koje pokazuju pokušaje neovlašćenog pristupa. Redovno proveravaju da li su rezervne kopije ostale nekompromitovane i testiraju procedure oporavka nočanika kako bi bili spremni za svaku nepredviđenu situaciju.
 
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
@@ -2969,15 +2969,15 @@ Kada je reč o obezbeđivanju ušteđevine, mogu implementirati sofisticiranije 
 
 https://planb.academy/tutorials/wallet/desktop/liana-306ef457-700c-4fdd-b07a-8fb7a8a29f04
 
-Ove konfiguracije smanjuju rizike. Dodavanje BIP39 passphrase u seed frazu dodaje još jedan Layer zaštite i osigurava da pristup njihovim sredstvima ne može biti ugrožen jednim otkrićem.
+Ove konfiguracije smanjuju rizike. Dodavanje BIP39 passphrase u seed frazu dodaje još jedan sloj zaštite i osigurava da pristup njihovim sredstvima ne može biti ugrožen jednim otkrićem.
 
 
 https://planb.academy/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
 
-Paranoični Bitcoiner će, naravno, imati dobro osmišljen plan nasleđivanja za svoje bitcoine. Ova važna tema biće detaljno obrađena u sledećem delu kursa.
+Paranoični Bitkoiner će, naravno, imati dobro osmišljen plan nasleđivanja za svoje bitkoine. Ova važna tema biće detaljno obrađena u sledećem delu kursa.
 
 
-Šire gledano, ovaj tip korisnika primenjuje napredan pristup računarstvu koji je svestan privatnosti u celini. Oni se oslanjaju na open-source, sigurne alate koji poštuju privatnost korisnika u svakom Layer njihovog digitalnog života:
+Šire gledano, ovaj tip korisnika primenjuje napredan pristup računarstvu koji je svestan privatnosti u celini. Oni se oslanjaju na open-source, sigurne alate koji poštuju privatnost korisnika u svakom sloju njihovog digitalnog života:
 
 
 
@@ -3032,11 +3032,11 @@ https://planb.academy/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 #### 2. Kupovina bitkoina anonimno
 
 
-Osnovni princip za paranoičnog investitora je da nabavi Bitcoin bez povezivanja sa njihovim stvarnim identitetom. Da bi izbegli KYC platforme i sprečili On-Chain otisak prsta, koriste nekoliko strategija:
+Osnovni princip za paranoičnog investitora je da nabavi bitkoin bez povezivanja sa njihovim stvarnim identitetom. Da bi izbegli KYC platforme i sprečili On-Chain otisak prsta, koriste nekoliko strategija:
 
 
 
-- **P2P buying platforms** such as Bisq, Robosat, LNP2PBot, Peach, HODL HODL, etc. ;
+- **P2P platforme za kupovinu** kao što su Bisq, Robosat, LNP2PBot, Peach, HODL HODL, etc. ;
 
 
 https://planb.academy/tutorials/exchange/peer-to-peer/bisq-v2-c1c6a702-6c16-4101-8b90-62c424017b80
@@ -3050,15 +3050,15 @@ https://planb.academy/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9
 https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
 
-- **Lični keš poslovi**, na primer na lokalnim Bitcoin okupljanjima;
+- **Gotovinske transakcije uživo**, na primer na lokalnim Bitkoin okupljanjima;
 
 
 https://planb.academy/courses/1c643dc9-a15f-4f9e-93b6-cb3c58b4ee35
 
 
-- **Bitcoin Bankomati**;
-- **Zarađivanje Sats** pružanjem robe ili usluga u Exchange za Bitcoin;
-- Mining **bitcoins**.
+- **Bitkoin Bankomati**;
+- **Zarađivanje satošija** prodajom robe ili pružanjem usluga u zamenu za bitkoin;
+- **Rudarenjem bitkoina**.
 
 
 https://planb.academy/tutorials/mining/hardware/attakai-0d177e6b-e167-4b25-8e38-4ec74213d1fb
@@ -3073,7 +3073,7 @@ Centralizovane berze se u potpunosti izbegavaju zbog rizika koje predstavljaju; 
 ![image](assets/sr-Latn/095.webp)
 
 
-#### 3. Sprečavanje praćenja na lancu
+#### 3. Sprečavanje praćenja na blockchain-u
 
 
 Čak i nakon anonimne kupovine novčića, i dalje je moguće otkriti lične podatke On-Chain ako niste pažljivi. Paranoični korisnik preduzima dodatne korake kako bi zaštitio privatnost na nivou transakcije:
