@@ -3076,13 +3076,13 @@ Centralizovane berze se u potpunosti izbegavaju zbog rizika koje predstavljaju; 
 #### 3. Sprečavanje praćenja na blockchain-u
 
 
-Čak i nakon anonimne kupovine novčića, i dalje je moguće otkriti lične podatke On-Chain ako niste pažljivi. Paranoični korisnik preduzima dodatne korake kako bi zaštitio privatnost na nivou transakcije:
+Čak i nakon anonimne kupovine novčića, i dalje je moguće otkriti lične podatke na blockchain-u ako niste pažljivi. Paranoični korisnik preduzima dodatne korake kako bi zaštitio privatnost na nivou transakcija:
 
 
 
-- Izbegavanje ponovne upotrebe **Address**, bilo ručno ili korišćenjem naprednih alata kao što su Silent Payments ili BIP47 ;
-- **Označavanje vaših UTXO-a**;
-- **Vežbanje kontrole uglova prilikom trošenja**;
+- **Izbegavanje ponovne upotrebe adresa**, bilo ručno ili korišćenjem naprednih alata kao što su Silent Payments ili BIP47 ;
+- **Označavanje svojih UTXO-a**;
+- **Vežbanje kontrole novčića prilikom trošenja**;
 - **Izbegavanje konsolidacije UTXO-ova**;
 - **Korišćenje struktura transakcija koje štite privatnost**: coinjoins, payjoins, ricochets, i mini-payment coinjoins...
 
@@ -3090,7 +3090,7 @@ Centralizovane berze se u potpunosti izbegavaju zbog rizika koje predstavljaju; 
 Oni su takođe upoznati sa osnovama Blockchain nadzora i znaju kako kompanije prate aktivnosti. Razumevanjem heuristike i obrazaca koje koriste firme za analizu lanaca, mogu preduzeti aktivne korake kako bi izbegli upadanje u poznate zamke.
 
 
-Za one koji žele dublje da istraže privatnost i otpornost na nadzor On-Chain, nudimo naprednu obuku druge godine o praksama privatnosti Bitcoin:
+Za one koji žele dublje da istraže privatnost i otpornost na nadzor On-Chain-a, nudimo naprednu obuku druge godine o praksama privatnosti u Bitkoinu:
 
 
 https://planb.academy/courses/65c138b0-4161-4958-bbe3-c12916bc959c
@@ -3098,15 +3098,15 @@ https://planb.academy/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 #### 4. Ostanite budni i ažurirajte svoju strategiju
 
 
-Protokol Bitcoin, Lightning Network, i povezani alati neprestano se razvijaju. Paranoični korisnik ostaje budan i prilagodljiv:
+Bitkoin Protokol, Lightning mreža, i povezani alati neprestano se razvijaju. Paranoični korisnik ostaje oprezan i prilagodljiv:
 
 
 
 - Ostati informisan o novim tehnikama privatnosti i sigurnosnim alatima
-- Redovno testiranje novih alata i usluga kako bi njihov operativni setup bio oštar
+- Redovno testiranje novih alata i usluga kako bi njihov operativni sistem bio efikasan
 - Redovno proveravanje da li su hardverski novčanici i čvorovi ažurirani i da li funkcionišu ispravno
-- Periodično proveravanje da li rezervne kopije (npr. zapečaćene koverte Mnemonic) nisu bile falsifikovane
-- Praćenje regulatornih dešavanja radi prilagođavanja njihove strategije u realnom vremenu
+- Periodično proveravanje da li rezervne kopije (npr. zapečaćene koverte sa mnemoničkim frazama) nisu kompromitovane
+- Praćenje regulatornih promena radi prilagođavanja njihove strategije u realnom vremenu
 
 
 ### Procena vašeg paranoidnog profila
@@ -3120,11 +3120,11 @@ Evo ključnih osobina paranoičnog bitkoinera:
 
 
 
-- **Budni i Bezbednosno-Svesni**: Pridajete ogromnu vrednost svojoj privatnosti i spremni ste da preduzmete dodatne mere predostrožnosti kako biste sprečili bilo kakvo curenje ličnih informacija. Finansijski nadzor smatrate ozbiljnom pretnjom i aktivno tražite načine da se zaštitite od njega.
-- **Independent**: Odbijate da se oslanjate na bilo koju uslugu treće strane za skladištenje, upravljanje ili prenos vaših bitkoina. Spremni ste da hostujete sopstvene Bitcoin i Lightning čvorove, koristite složene novčanike i preuzmete punu odgovornost za upravljanje vašim rezervnim kopijama i privatnim ključevima.
+- **Budni i bezbednosno-svesni**: Pridajete ogromnu vrednost svojoj privatnosti i spremni ste da preduzmete dodatne mere predostrožnosti kako biste sprečili bilo kakvo curenje ličnih informacija. Finansijski nadzor smatrate ozbiljnom pretnjom i aktivno tražite načine da se zaštitite od njega.
+- **Nezavisan**: Odbijate da se oslanjate na bilo koju uslugu treće strane za skladištenje, upravljanje ili prenos vaših bitkoina. Spremni ste da hostujete sopstvene Bitkoin i Lightning čvorove, koristite složene novčanike i preuzmete punu odgovornost za upravljanje vašim rezervnim kopijama i privatnim ključevima.
 - **Nepoverljiv**: Aktivno izbegavate KYC platforme i preferirate anonimne metode nabavke P2P, čak i ako to znači da ćete platiti premiju za njih. Razumete da bilo koji lični podaci koji se podele jednog dana mogu biti iskorišćeni protiv vas.
-- **Znanje i Disciplina**: Imate strast za sajber bezbednost i tehnologije koje unapređuju privatnost. Odvajate vreme da proučite dostupna rešenja, testirate alate, edukujete se o najboljim praksama i primenjujete stroge metodologije kako biste minimizirali rizike.
-- **Pragmatičan i Realističan**: Razumete da je potpuna anonimnost gotovo nemoguća, ali se trudite da smanjite svoju izloženost koliko god je to moguće, dok balansirate privatnost, sigurnost i upotrebljivost. Vaš pristup se kontinuirano razvija kao odgovor na nove pretnje i tehnološke razvoje.
+- **Znatiželja i disciplina**: Imate strast prema sajber bezbednosti i tehnologijama koje unapređuju privatnost. Odvajate vreme da proučite dostupna rešenja, testirate alate, edukujete se o najboljim praksama i primenjujete stroge metodologije kako biste minimizirali rizike.
+- **Pragmatičan i realističan**: Razumete da je potpuna anonimnost gotovo nemoguća, ali se trudite da smanjite svoju izloženost koliko god je to moguće, dok balansirate privatnost, sigurnost i upotrebljivost. Vaš pristup se kontinuirano razvija kao odgovor na nove pretnje i tehnološke promene.
 
 
 Ako su vam ove osobine poznate, ova strategija je verovatno dobar izbor za vas. Zahteva mnogo i traži dosledan trud, ali pruža visok nivo finansijskog suvereniteta i zaštitu od nadzora, zaplene ili praćenja vaših sredstava.
@@ -3137,8 +3137,8 @@ Ovaj pristup je posebno relevantan ako vi:
 
 
 
-- Držite značajne količine Bitcoin,
-- Živeti pod autoritarnim režimom,
+- Držite značajne količine bitkoina,
+- Živite pod autoritarnim režimom,
 - trebate zaštititi svoju anonimnost iz ličnih, profesionalnih ili ideoloških razloga.
 
 
@@ -3160,35 +3160,35 @@ U sledećem delu kursa, razgovaraćemo o ključnoj temi koja se često zanemaruj
 :::video id=7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e:::
 
 
-Osiguravanje prenosa vaših bitkoina je odgovornost koja se često zanemaruje, ali je ključna. Finansijski suverenitet koji nudi Bitcoin takođe dolazi sa potrebom za pažljivim upravljanjem imovinom. Bez toga, vaši naslednici bi mogli da se nađu u situaciji da ne mogu da pristupe sredstvima zarađenim putem Hard. U ovom poglavlju ćemo istražiti osnove planiranja imovine kako se odnosi na Bitcoin.
+Osiguravanje prenosa vaših bitkoina je odgovornost koja se često zanemaruje, ali je ključna. Finansijski suverenitet koji nudi Bitkoin takođe dolazi sa potrebom za pažljivim upravljanjem nasledstvom. Bez toga, vaši naslednici bi mogli da se nađu u situaciji da ne mogu da pristupe vašim teško stečenim sredstvima. U ovom poglavlju ćemo istražiti osnove planiranja imovine kako se primenjuju na Bitkoin.
 
 
-### Zašto je neophodno pripremiti Bitcoin plan sukcesije?
+### Zašto je neophodno pripremiti Bitkoin plan nasledstva?
 
 
-Zamislite iznenadni događaj (nesreću ili nepredviđenu okolnost) i više niste ovde. Vaša porodica, već u žalosti, sada se suočava sa još jednim izazovom: pristupom vašim bitcoinima. Možda su vas čuli kako govorite o privatnim ključevima, Mnemonic frazama i nepovratnosti transakcija, ali ti koncepti im mogu biti nejasni. Ostavljeni su da to sami pokušaju da shvate.
+Zamislite iznenadni događaj (nesreću ili nepredviđenu okolnost) i više niste ovde. Vaša porodica, već u žalosti, sada se suočava sa još jednim izazovom: pristupom vašim bitkoinima. Možda su vas čuli kako govorite o privatnim ključevima, Mnemonic frazama i nepovratnosti transakcija, ali ti pojmovi im mogu biti nejasni. Ostavljeni su da to sami pokušaju da shvate.
 
 
 Zatim imate dve opcije:
 
 
 
-- Odvojiti vreme za postavljanje jasnog, strukturiranog plana koji će omogućiti vašim voljenima da lako i sigurno pristupe vašim bitcoinima;
-- Ne radeći ništa, nadajući se da će sami shvatiti. Ali ako naprave grešku, izgube pristup Wallet ili slučajno pošalju sredstva na pogrešan Address, vaše bogatstvo bi moglo biti zauvek izgubljeno.
+- Odvojiti vreme za postavljanje jasnog, strukturiranog plana koji će omogućiti vašim voljenima da lako i sigurno pristupe vašim bitkoinima;
+- Ne radeći ništa, nadajući se da će sami shvatiti. Ali ako naprave grešku, izgube pristup novčaniku ili slučajno pošalju sredstva na pogrešnu adresu, vaše bogatstvo bi moglo biti zauvek izgubljeno.
 
 
-Provođenje samo 15 minuta do sat vremena na plan nasleđa može napraviti veliku razliku. To nije samo pitanje opreza, već i način da pokažete odgovornost prema onima koji se možda oslanjaju na vas.
+Potrošiti samo 15 minuta do sat vremena na plan nasleđa može napraviti veliku razliku. To nije samo pitanje opreza, već i način da pokažete odgovornost prema onima koji se možda oslanjaju na vas.
 
 
-### Ciljevi plana sukcesije Bitcoin
+### Ciljevi plana nasledstva bitkoin
 
 
 Pamela Morgan, u svojoj knjizi *[Cryptoasset Inheritance Planning](https://www.amazon.com/gp/product/1947910116/)*, iznosi četiri ključna cilja za solidan plan nasleđivanja:
 
 
 
-- Osigurajte da vaši naslednici mogu pristupiti vašim bitcoinima u pravo vreme(ali ne pre);
-- Minimizujte rizik od krađe ili kompromitovanja pre nego što naslede bitkoine;
+- Osigurajte da vaši naslednici mogu pristupiti vašim bitkoinima u pravo vreme (ali ne pre toga);
+- Smanjite rizik od krađe ili kompromitovanja pre nego što naslede bitkoine;
 - Uverite se da vaši naslednici znaju kako da dugoročno osiguraju bitkoine ako to žele;
 - Izbegnite porodične sporove i ograničite pravne komplikacije prilikom prenosa kripto-imovine.
 
@@ -3196,16 +3196,16 @@ Pamela Morgan, u svojoj knjizi *[Cryptoasset Inheritance Planning](https://www.a
 Dobro osmišljen plan nije samo o prenosu bogatstva; takođe se radi o zaštiti vaših voljenih od uobičajenih grešaka i potencijalnih pretnji.
 
 
-Ovo poglavlje je inspirisano radom [Pamele Morgan](https://x.com/pamelawjd). [Njena knjiga](https://www.amazon.com/gp/product/1947910116/) i dok njena knjiga nudi detaljan i stručno potvrđen metod za kreiranje Bitcoin plana nasledstva, **ovaj sadržaj ne predstavlja pravni savet**. To je dokazan pristup, ali svaka osoba treba da sprovede sopstveno istraživanje i prilagodi preporuke svojoj ličnoj situaciji i jurisdikciji.
+Ovo poglavlje je inspirisano radom [Pamele Morgan](https://x.com/pamelawjd). [Njena knjiga](https://www.amazon.com/gp/product/1947910116/) i dok njena knjiga nudi detaljan i stručno potvrđen metod za kreiranje Bitkoin plana nasledstva, **ovaj sadržaj ne predstavlja pravni savet**. To je dokazan pristup, ali svaka osoba treba da sprovede sopstveno istraživanje i prilagodi preporuke svojoj ličnoj situaciji i jurisdikciji.
 
 
-[Pamela Morgan](https://x.com/pamelawjd) je velikodušno odobrila korišćenje [njenog rada](https://www.amazon.com/gp/product/1947910116/) za ovaj kurs, i pratićemo njen pristup kako bismo kreirali konkretan Bitcoin plan nasledstva. U ovom poglavlju, fokusiraćemo se na prvi deo njene knjige.
+[Pamela Morgan](https://x.com/pamelawjd) je velikodušno odobrila korišćenje [njenog rada](https://www.amazon.com/gp/product/1947910116/) za ovaj kurs, i pratićemo njen pristup kako bismo kreirali konkretan Bitkoin plan nasledstva. U ovom poglavlju, fokusiraćemo se na prvi deo njene knjige.
 
 
 ![image](assets/sr-Latn/097.webp)
 
 
-Da bismo bolje razumeli kako napraviti Bitcoin plan sukcesije, pogledaćemo primer Cédric-a, tipičnog korisnika Bitcoin koji treba da organizuje kako će njegovo bogatstvo biti preneseno ako se desi nešto neočekivano.
+Da bismo bolje razumeli kako napraviti Bitkoin plan nasledstva, pogledaćemo primer Cédric-a, tipičnog korisnika Bitkoina koji treba da organizuje kako će njegovo bogatstvo biti preneseno ako se desi nešto neočekivano.
 
 
 Njegov Profil:
@@ -3213,10 +3213,10 @@ Njegov Profil:
 
 
 - Dugoročni investitor koji ne trguje često;
-- Poseduje Hardware Wallet i mobilni Wallet za povremenu upotrebu;
-- Koristi jedinstvenu KYC Exchange platformu za kupovinu svojih bitkoina;
-- Upoznat sa Bitcoin od strane svog rođaka ;
-- Nema altcoine niti koristi Lightning Network.
+- Poseduje hardverski novčanik i mobilni novčanik za povremenu upotrebu;
+- Koristi jedinstvenu KYC platformu za kupovinu svojih bitkoina;
+- Upoznat sa Bitkoinom od strane svog rođaka;
+- Nema altcoine niti koristi Lightning mrežu.
 
 
 Naš cilj je da kreiramo jednostavan, efikasan plan prilagođen Cédricovom profilu pre nego što pređemo na složenije scenarije koji uključuju druge tipove korisnika.
@@ -3228,7 +3228,7 @@ Naš cilj je da kreiramo jednostavan, efikasan plan prilagođen Cédricovom prof
 ### Pre nego što počneš
 
 
-Odvojite 30 minuta svog vremena. Ne za sebe, već za one koji zavise od vas. Planiranje imovine je važan zadatak, ali onaj koji se često odlaže, zanemaruje ili čak ignoriše. Previše ljudi, čak i oni najoprezniji, odlažu to... dok ne bude prekasno. Hiljade bitkoina su već izgubljene zbog nedostatka predviđanja. Nemojte napraviti ovu grešku! Ovo je **ZAVRŠNI KORAK** na vašem putu ka finansijskoj suverenosti: osiguravanje vašeg Bitcoin bogatstva za vaše voljene.
+Odvojite 30 minuta svog vremena. Ne za sebe, već za one koji zavise od vas. Planiranje imovine je važan zadatak, ali onaj koji se često odlaže, zanemaruje ili čak ignoriše. Previše ljudi, čak i oni najoprezniji, odlažu to... dok ne bude prekasno. Hiljade bitkoina su već izgubljene zbog nedostatka predviđanja. Nemojte napraviti ovu grešku! Ovo je **ZAVRŠNI KORAK** na vašem putu ka finansijskoj suverenosti: osiguravanje vašeg Bitkoin bogatstva za vaše voljene.
 
 
 #### Šta ti treba?
@@ -3238,10 +3238,10 @@ Pobrinite se da imate mirno okruženje bez ometanja, a zatim prikupite ove alate
 
 
 
-- 4 do 5 listova belog papira ;
+- 4 do 5 listova belog papira;
 - Olovka;
-- 2 koverte ;
-- Telefon ili Address knjiga;
+- 2 koverte;
+- Telefon ili adresar;
 - Računar (opciono).
 
 
@@ -3255,12 +3255,12 @@ Mnogi ljudi odlažu ovaj korak zbog zabluda koje ih sprečavaju da preduzmu akci
 
 
 
-- **"I need to hire a lawyer."** → **False**. Dok advokat može biti od pomoći za pravna pitanja, tehnički Bitcoin plan nasledstva može se postaviti bez njega. Najvažnije je imati jasna i dostupna uputstva;
+- **"Moram da angažujem advokata."** → **Netačno**. Dok advokat može biti od pomoći za pravna pitanja, tehnički Bitkoin plan nasledstva može se postaviti bez njega. Najvažnije je imati jasna i dostupna uputstva;
 - "**Moram da verujem trećoj strani.**" → **Netačno**. Vaš plan može biti dizajniran tako da minimizuje potrebu za poverenjem, kao što je distribucija informacija među više strana ili korišćenje rešenja sa više potpisa, sa ili bez vremenskog zaključavanja;
-- **"Planiranje će učiniti da moja imovina bude lako ukradena."** → **Netačno**. Dobro osmišljen plan štiti od pokušaja krađe dok osigurava da vaši naslednici mogu bezbedno povratiti vaša sredstva. Međutim, važno je napomenuti da nijedno rešenje nije nepogrešivo: plan nasledstva povećava rizik od krađe, u zavisnosti od toga koje informacije se dele. O tome ćemo detaljnije razgovarati kasnije;
-- "*Vrednost mojih bitkoina je suviše mala za planiranje.*" → **Netačno**. uvek je bolje planirati unapred. Vaši voljeni verovatno ne znaju tačan iznos Bitcoin koji posedujete, i to je dobra stvar. Ali ako vam se nešto desi, zar ne bi želeli da ga povrate, čak i ako ne znaju tačan iznos? Vrednost Bitcoin može značajno porasti tokom vremena, tako da je mudro olakšati im pristup vašim sredstvima, i izbeći davanje lažne nade o vrednosti ili ostavljanje da tragaju za nečim što možda ne postoji.
-- **"Moji naslednici će to sami shvatiti."** → **Netačno**. Bitcoin nije kao običan bankovni račun. Bez jasnih uputstava, vaši voljeni možda nikada neće moći da pristupe vašim sredstvima, ili će pronaći samo deo njih. Za razliku od bankovnih računa, gde finansijske institucije ili notari kontaktiraju članove porodice nakon smrti, ne postoji posrednik koji će obavestiti vašu porodicu o vašem Bitcoin Wallet. Stoga, na vama je da ga eksplicitno uključite u svoj plan imovine;
-- "**Smart contract može upravljati svime.**" → **Netačno**. Smart contract, kao što su multi-sig Wallet sa vremenskom bravom, može biti deo rešenja, ali nikada neće zameniti dobro strukturisan plan, posebno za ljude koji nisu upoznati sa Bitcoin. Oba rešenja su komplementarna.
+- **"Planiranje će učiniti da moja imovina bude lako ukradena."** → **Netačno**. Dobro osmišljen plan štiti od pokušaja krađe dok osigurava da vaši naslednici mogu bezbedno povratiti vaša sredstva. Međutim, važno je napomenuti da nijedno rešenje nije savršeno: plan nasledstva povećava rizik od krađe, u zavisnosti od toga koje informacije se dele. O tome ćemo detaljnije razgovarati kasnije;
+- **"Vrednost mojih bitkoina je suviše mala za planiranje."** → **Netačno**. uvek je bolje planirati unapred. Vaši voljeni verovatno ne znaju tačan iznos bitkoina koji posedujete, i to je dobra stvar. Ali ako vam se nešto desi, zar ne bi želeli da ga povrate, čak i ako ne znaju tačan iznos? Vrednost bitkoina može značajno porasti tokom vremena, tako da je mudro olakšati im pristup vašim sredstvima, i izbeći davanje lažne nade o vrednosti ili ostavljanje da tragaju za nečim što možda ne postoji.
+- **"Moji naslednici će to sami shvatiti."** → **Netačno**. Bitkoin nije kao običan bankovni račun. Bez jasnih uputstava, vaši voljeni možda nikada neće moći da pristupe vašim sredstvima, ili će pronaći samo deo njih. Za razliku od bankovnih računa, gde finansijske institucije ili notari kontaktiraju članove porodice nakon smrti, ne postoji posrednik koji će obavestiti vašu porodicu o vašem Bitkoin novčaniku. Stoga, na vama je da ga eksplicitno uključite u svoj plan nasledstva;
+- **"Pametni ugovor može upravljati svime."** → **Netačno**. Pametni ugovor, kao što su multi-sig novčanik sa vremenskom bravom, može biti deo rešenja, ali nikada neće zameniti dobro strukturisan plan, posebno za ljude koji nisu upoznati sa Bitkoinom. Oba rešenja su komplementarna.
 
 
 
@@ -3270,50 +3270,50 @@ Vreme je da preduzmete akciju. Provedite ovih 30 minuta postavljajući svoj plan
 ### Korak 1: Odaberite prave osobe koje će pomoći vašim naslednicima
 
 
-Kada je reč o prenošenju nasledstva u Bitcoin, vaši voljeni verovatno neće biti upoznati sa upravljanjem privatnim ključevima ili obnavljanjem novčanika. Biće im potrebna spoljašnja pomoć od strane kompetentnih i pouzdanih osoba. Idealni pristup je odabrati najmanje dve različite osobe:
+Kada je reč o prenošenju nasledstva u bitkoinu, vaši voljeni verovatno neće biti upoznati sa upravljanjem privatnim ključevima ili obnavljanjem novčanika. Biće im potrebna spoljašnja pomoć od strane kompetentnih i pouzdanih osoba. Idealni pristup je odabrati najmanje dve različite osobe:
 
 
 
-- **Pouzdani rođak**, koji će osigurati nesmetano izvršenje vašeg plana. Ne moraju nužno imati duboko znanje o Bitcoin, ali moraju biti osoba na koju vaši naslednici mogu da se oslone.
-- Iskusan korisnik **Bitcoin**, koji može pružiti tehničku podršku za oporavak sredstava, upravljanje novčanicima i razumevanje uključenih procesa.
+- **Pouzdani rođak**, koji će osigurati nesmetano izvršenje vašeg plana. Ne moraju nužno imati duboko znanje o Bitkoinu, ali moraju biti osoba na koju vaši naslednici mogu da se oslone.
+- **Iskusan korisnik Bitkoina**, koji može pružiti tehničku podršku za oporavak sredstava, upravljanje novčanicima i razumevanje uključenih procesa.
 
 
 Ljudi koje izaberete nikada ne bi trebalo da imaju direktan pristup vašim privatnim ključevima (ili vašoj Mnemonic frazi), ali treba da budu u mogućnosti da:
 
 
 
-- Vodi svoje naslednike u oporavku i osiguravanju sredstava;
-- Objasnite osnove Bitcoin novčanika, fraza za oporavak i transakcija;
-- Pomozite izbeći uobičajene greške.
+- Vodi vaše naslednike u oporavku i osiguravanju sredstava;
+- Objasne osnove Bitkoin novčanika, fraza za oporavak i transakcija;
+- Pomognu da se izbegnu uobičajene greške.
 
 
-Na papiru koji će postati vaš Bitcoin plan nasleđa, kreirajte tabelu poređenja potencijalnih kandidata, procenjujući njihov nivo poverenja, njihovo znanje o Bitcoin, i kako ih kontaktirati. Na primer:
+Na papiru koji će postati vaš Bitkoin plan nasleđa, kreirajte tabelu poređenja potencijalnih kandidata, procenjujući njihov nivo poverenja, njihovo znanje o Bitkoinu, i načine kako ih kontaktirati. Na primer:
 
 
-| Person               | Trust Level     | Bitcoin Knowledge   | Contact Methods         | Notes                                                                                                                   |
+| Osoba               | Nivo poverenja    | Znanje o Bitkoinu   | Načini kontaktiranja         | Napomene                                                                                                                   |
 |----------------------|-----------------|----------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------|
-| My brother Bob       | Very high       | Low                  | Phone & email            | Bob doesn't know Bitcoin well, but he's 100% reliable. He can ensure the process goes smoothly.                        |
-| My cousin Nathan     | High            | Medium               | Phone & Instagram        | Has some Bitcoin knowledge and can guide my heirs. Aware of the plan. #1 to talk to in case of need.                   |
-| Ricco (Bitcoiner friend) | Medium      | Very high            | Twitter, email & photo   | Very technically skilled, but should never have access to the funds. To be contacted for technical support.            |
-| Bitcoin YouTuber     | Low             | High                 | YouTube channel          | Good information source for learning, but cannot intervene directly.                                                   |
+| Moj brat Bob       | Veoma visok       | Nisko                  | Telefon & email            | Bob ne zna mnogo o Bitcoinu, ali je 100% pouzdan. Može osigurati da proces prođe glatko.                        |
+| Moj rođak Nathan     | Visok            | Srednje               | Telefon & Instagram        | Ima neko znanje o Bitcoinu i može voditi moje naslednike. Upoznat sa planom. #1 osoba za kontakt u slučaju potrebe.                   |
+| Ricco (prijatelj Bitkoiner) | Srednje      | Veoma visoko            | Twitter, email & foto   | Veoma tehnički vešt, ali nikada ne treba da ima pristup sredstvima. Kontaktirati za tehničku podršku.            |
+| Bitcoin YouTuber     | Nisko             | Visok                 | YouTube kanal          | Dobar izvor informacija za učenje, ali ne može direktno intervenisati.                                                   |
 
-Ako nemate pouzdanog ili kompetentnog člana porodice, možete razmotriti i angažovanje profesionalca, kao što je advokat specijalizovan za Bitcoin nasledstvo, ili specijalizovanu službu za planiranje imovine. Ključ je da vaši naslednici imaju pristup pouzdanoj tehničkoj pomoći uz očuvanje sigurnosti i poverljivosti vaših sredstava.
+Ako nemate pouzdanog ili kompetentnog člana porodice, možete razmotriti i angažovanje profesionalca, kao što je advokat specijalizovan za Bitkoin nasledstvo, ili specijalizovanu službu za planiranje nasledstva. Ključ je da vaši naslednici imaju pristup pouzdanoj tehničkoj pomoći uz očuvanje sigurnosti i poverljivosti vaših sredstava.
 
 
 ### Korak 2: Napravite brzi i jednostavni inventar
 
 
-Pre nego što razmislite o obezbeđivanju ili prenosu vaših bitkoina, važno je napraviti jasan inventar vaših Bitcoin sredstava. Ovaj inventar će služiti kao osnova za organizovanje vašeg plana nasledstva i pomoći će vašim naslednicima da razumeju gde se vaša sredstva nalaze i kako da im pristupe.
+Pre nego što razmislite o obezbeđivanju ili prenosu vaših bitkoina, važno je napraviti jasan inventar vaših Bitkoin sredstava. Ovaj inventar će služiti kao osnova za organizovanje vašeg plana nasledstva i pomoći će vašim naslednicima da razumeju gde se vaša sredstva nalaze i kako da im pristupe.
 
 
 Cilj ovde nije da odmah poboljšate svoju sigurnost, već samo da katalogizujete svoju trenutnu situaciju. To je snimak vaših bitkoina i sredstava za pristup njima. Možete prilagoditi i ojačati sigurnost kasnije, kada ovaj prvi inventar bude završen.
 
 
-Razmotrite sva mesta gde imate bitkoine ili fiat valutu povezanu sa Bitcoin. Ovo može uključivati:
+Razmotrite sva mesta gde imate bitkoine ili fiat valutu povezanu sa Bitkoinom. Ovo može uključivati:
 
 
 
-- **Exchange platforme**: Nalozi sa BTC ili fiat povezani sa vašim Bitcoin kupovinama.
+- **Menjačnice**: Nalozi sa BTC ili fiat sredstvima povezani sa vašim bitkoin kupovinama.
 - **Hot novčanici (mobilni ili desktop)**: Aplikacije instalirane na vašem telefonu, koriste se za svakodnevne transakcije;
 - **Hardverski novčanici**: Fizički uređaji koji čuvaju vaše privatne ključeve van mreže;
 - **Ostala rešenja**: Multisig, papirni novčanici, posebno čuvani privatni ključevi, itd.
@@ -3322,11 +3322,11 @@ Razmotrite sva mesta gde imate bitkoine ili fiat valutu povezanu sa Bitcoin. Ovo
 Koristite tabelu da strukturirate ovaj inventar. Ideja nije da se ovaj dokument čuva online, već da se drži na sigurnom mestu, idealno na papiru. Na primer:
 
 
-| General | Storage type | Assets held | Localization | Mnemonic backup | Password (PIN, passphrase...) | Notes |
+| Opšte | Tip skladišta | Sredstva | Lokacija | Mnemonic backup | Lozinka (PIN, passphrase...) | Napomene |
 | --------------------- | ---------------- | -------------- | --------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Bitfinex | BTC & Euros | Accessible online | None (custodial platform) | | Bitwarden & 2FA password manager with Authy app on my phone | I bought my BTC here. Funds must be withdrawn after purchase |
-| Physical wallet | Jade Plus | BTC | Personal safe at home | Copy at my Uncle Bob's and in a bank safe at BNP Paribas | passphrase stored at my mother's. PIN code stored on Bitwarden password manager. PIN code stored on Bitwarden password manager. | I use 2 separate wallets: a normal one with only the mnemonic phrase and one with a passphrase. |
-| Green Wallet | BTC | On my Iphone 15 | Copy of the seed in my safe at home | PIN code stored on the Bitwarden password manager. | The application is in hidden mode. | The application is in hidden mode |
+| Bitfinex | BTC & Evro | Dostupno online | Nema (custodial) | | Bitwarden & 2FA preko autentikatora na telefonu | Kupio sam BTC ovde. Sredstva povući nakon kupovine |
+| Fizički novčanik | Jade Plus | BTC | Lični sef kod kuće | Kopija kod ujaka Bob-a i u banci | Passphrase kod majke, PIN u Bitwarden | Koristim 2 odvojena novčanika: jedan samo sa mnemoničkom frazom i drugi sa passphrase |
+| Green novčanik | BTC | Na mom Iphone 15 | Kopija seed-a u sefu | PIN u Bitwarden | Aplikacija u skrivenom modu |
 
 U ovoj fazi, možda ćete osetiti potrebu da odmah prilagodite raspodelu sredstava, poboljšate svoju sigurnost ili čak kupite ili prodate više bitkoina. Nemojte još delovati! Cilj ovde nije preduzimanje akcije, već uspostavljanje trenutnog pregleda vaše situacije. Uvek možete kasnije poboljšati svoj plan, ali za sada se fokusirajte na što temeljitije završavanje inventara.
 
@@ -3343,7 +3343,7 @@ Kada se ovaj popis završi, biće mnogo lakše identifikovati slabe tačke i org
 Ključno je da vaš plan nasledstva bude jasan, čitljiv i siguran. Da biste to postigli, napišite pismo ručno, mastilom na papiru, i izbegavajte digitalne dokumente koji bi mogli biti ugroženi. Ovo pismo nije testament ili pravna izjava, već praktičan vodič koji će pomoći vašim voljenima da bezbedno povrate vaše bitkoine.
 
 
-Pismo treba da bude jednostavno, direktno i da sadrži sledeće osnovne Elements:
+Pismo treba da bude jednostavno, direktno i da sadrži sledeće ključne elemente:
 
 
 
@@ -3370,16 +3370,16 @@ Poštovani `Imena naslednika`,
 Ako čitaš ovo pismo, više nisam ovde. Pre svega, znaj da te volim i da sam odvojio vreme da pripremim ovaj dokument kako bih ti pomogao da upravljaš mojim bitkoinima, koji mogu imati vrednost. Ovo nije komplikovan zadatak, ali zahteva pažnju i oprez. Bitcoin je peer-to-peer sistem: nema povratka ako se napravi greška. Molim te, odvoji vreme da u potpunosti pročitaš ovo pismo pre nego što preduzmeš bilo kakvu akciju.
 
 
-#### 1. Kontaktirajte Pouzdane Osobe
+#### 1. Kontaktirajte pouzdane osobe
 
 
-Odredio sam nekoliko osoba da vam pomognu u razumevanju Bitcoin i povratu mojih sredstava. Oni nikada ne bi trebali imati direktan pristup sredstvima, ali vas mogu voditi kroz proces:
+Odredio sam nekoliko osoba da vam pomognu u razumevanju Bitkoina i povratu mojih sredstava. Oni nikada ne bi trebali imati direktan pristup sredstvima, ali vas mogu voditi kroz proces:
 
 
 
-- Moj brat Bob: +33 6 00 00 00 00; bobmybrother@supermail.com. Možete verovati Bob da će vam pomoći u ovom procesu. Iako nije najtehnički upućeniji o Bitcoin, on je prava osoba koja će sve preispitati i osigurati oprez kako bi garantovao vaš uspeh na siguran način.
-- Moj rođak Nathan: +33 6 00 00 00 00; nathandelacroix@supermail.com. Nathan me je upoznao sa Bitcoin. Veoma je vešt u računarstvu i može odgovoriti na većinu vaših pitanja. Takođe poseduje neke Bitcoin i može vas tehnički uputiti. Sreli ste ga na porodičnim okupljanjima, a ovde sam priložio njegovu fotografiju.
-- Ricco: @RiccoSuperBitcoiner na Twitteru; ricco425@supermail.com. Radio sam blisko sa Riccom godinama. Nikada ga niste sreli, pa se uverite da kontaktirate pravu osobu tako što ćete ga pitati "Kako se zove Cédricov pas?" Ako odgovori "12," to je on. Ricco je veoma prijateljski nastrojen i vešt Bitcoin stručnjak. Odgovoriće na sva vaša pitanja i možete verovati njegovom sudu o Bitcoin sigurnosti. Ne oklevajte da ga kontaktirate, ali nikada mu ne dajte direktan pristup sredstvima.
+- Moj brat Bob: +33 6 00 00 00 00; bobmybrother@supermail.com. Možete verovati Bob da će vam pomoći u ovom procesu. Iako nije najtehnički upućeniji o Bitkoinu, on je prava osoba koja će sve preispitati i osigurati oprez kako bi garantovao vaš uspeh na siguran način.
+- Moj rođak Nathan: +33 6 00 00 00 00; nathandelacroix@supermail.com. Nathan me je upoznao sa Bitkoinom. Veoma je vešt u računarstvu i može odgovoriti na većinu vaših pitanja. Takođe poseduje nešto bitkoina i može vas tehnički uputiti. Sreli ste ga na porodičnim okupljanjima, a ovde sam priložio njegovu fotografiju.
+- Ricco: @RiccoSuperBitcoiner na Twitteru; ricco425@supermail.com. Radio sam blisko sa Riccom godinama. Nikada ga niste sreli, pa se uverite da kontaktirate pravu osobu tako što ćete ga pitati "Kako se zove Cédricov pas?" Ako odgovori "12," to je on. Ricco je veoma prijateljski nastrojen i vešt Bitkoin stručnjak. Odgovoriće na sva vaša pitanja i možete verovati njegovom sudu o Bitkoin sigurnosti. Ne oklevajte da ga kontaktirate, ali nikada mu ne dajte direktan pristup sredstvima.
 
 Možda zvuči čudno, ali kontaktirajte ih sve. Pored toga, možete saznati više slušajući Andreasa Antonopoulosa na YouTube-u i kupovinom knjige *Cryptoasset Inheritance Planning* od Pamele Morgan.
 
@@ -3387,16 +3387,16 @@ Možda zvuči čudno, ali kontaktirajte ih sve. Pored toga, možete saznati viš
 Kontaktiraj sve ove ljude i proveri njihova mišljenja pre donošenja važnih odluka. **Ne veruj nikome slepo.**
 
 
-#### 2. Gde Su Moji Bitkoini?
+#### 2. Gde su moji bitkoini?
 
 Evo detaljan popis mojih poseda, njihove lokacije i kako im pristupiti.
 
 
 
-- Koristim svoj telefon (Samsung Galaxy S8) za pristup mom Samourai Wallet. Fraza za oporavak za ovaj Wallet je sačuvana u dva primerka: jedan je pohranjen u sefu banke, drugi kod ujaka Bob. PIN potreban za otključavanje i mog telefona i Wallet čuvam kod kuće i kod bake.
-- Pristupam online platformi Exchange Bitfinex putem mog Dell 2018 laptopa. Možda još uvek ima bitcoina ili dolara. Da biste povratili ova sredstva, moraćete ili direktno kontaktirati Bitfinex ili pokušati pristupiti mom nalogu. (**Budite oprezni, ovo može biti ilegalno—proverite lokalne zakone**)..
+- Koristim svoj telefon (Samsung Galaxy S8) za pristup mom Samourai novčaniku. Fraza za oporavak za ovaj novčanik je sačuvana u dva primerka: jedan je pohranjen u sefu banke, drugi kod ujaka Boba. PIN potreban za otključavanje i mog telefona i novčanika čuvam kod kuće i kod bake.
+- Pristupam online platformi za razmenu Bitfinex putem mog Dell 2018 laptopa. Možda još uvek ima bitkoina ili dolara. Da biste povratili ova sredstva, moraćete ili direktno kontaktirati Bitfinex ili pokušati pristupiti mom nalogu. (**Budite oprezni, ovo može biti ilegalno—proverite lokalne zakone**)..
 - Pristup mojim online nalozima osigurao sam koristeći menadžer lozinki. Rezervna kopija ovog menadžera je pohranjena u sefu u banci. Moj Bitfinex nalog je takođe zaštićen dvofaktorskom autentifikacijom, kojoj mogu pristupiti ili putem mog telefona (Samsung Galaxy S8, Authy aplikacija) ili koristeći rezervni kod koji sam čuvao kod kuće.
-- Imam Trezor Model One Hardware Wallet, kojem pristupam putem svog računara koristeći Sparrow wallet softver. Fraza za oporavak za ovaj Wallet je pohranjena u dva primerka: jedan u sefu banke, drugi kod ujaka Bob. PIN za ovaj Wallet je pohranjen kod mene kući i kod moje majke. Sam uređaj je verovatno pohranjen u sefu u mojoj kancelariji. Koristim BIP39 passphrase na svom Trezor Model One. Ovaj passphrase je ključan za pristup sredstvima na uređaju. Rezervna kopija ovog passphrase je pohranjena na dve lokacije: kod mene kući i kod moje majke.
+- Imam Trezor Model One hardverski novčanik, kojem pristupam putem svog računara koristeći Sparrow wallet softver. Fraza za oporavak za ovaj novčanik je pohranjena u dva primerka: jedan u sefu banke, drugi kod ujaka Boba. PIN za ovaj novčanik je pohranjen kod mene kući i kod moje majke. Sam uređaj je verovatno u sefu u mojoj kancelariji. Koristim BIP39 passphrase na svom Trezor Model One. Ovaj passphrase je ključan za pristup sredstvima na uređaju. Rezervna kopija ovog passphrase je pohranjena na dve lokacije: kod mene kući i kod moje majke.
 
 
 Preduzmite sve potrebne mere predostrožnosti pre nego što rukujete ovim sredstvima. Nikada ne otkrivajte celu frazu za oporavak jednoj osobi i delite ove detalje samo ako je apsolutno neophodno.
@@ -3406,11 +3406,11 @@ Preduzmite sve potrebne mere predostrožnosti pre nego što rukujete ovim sredst
 
 
 
-- Ne **žurite**. Odvojite vreme da naučite pre nego što delujete. Bitcoin je bezbedan kada se pravilno koristi.
-- Nikada ne daj 24-rečenicu samo jednoj osobi. Ako neko traži potpuni pristup, budi oprezan.
-- Ne povezujte moje novčanike sa nepoznatim računarom. Koristite sigurno okruženje, offline ako je moguće.
-- Čuvajte se **prevara**. Postoji mnogo prevara u vezi sa Bitcoin. Verujte samo osobama pomenutim u ovom pismu.
-- Sačuvaj sve što radiš. Beleži, zapiši važne korake i zaštiti pristup.
+- **Ne žurite**. Odvojite vreme da naučite pre nego što delujete. Bitkoin je bezbedan kada se pravilno koristi.
+- **Nikada ne dajte 24-rečenicu samo jednoj osobi.** Ako neko traži potpuni pristup, budite oprezni.
+- **Ne povezujte moje novčanike sa nepoznatim računarom.** Koristite sigurno okruženje, offline ako je moguće.
+- **Čuvajte se prevara**. Postoji mnogo prevara u vezi sa Bitkoinom. Verujte samo osobama pomenutim u ovom pismu.
+- **Sačuvajte sve što radite.** Beležite, zapišite važne korake i zaštitite pristup.
 
 
 #### 4. Pravne informacije i završna poruka
@@ -3419,7 +3419,7 @@ Preduzmite sve potrebne mere predostrožnosti pre nego što rukujete ovim sredst
 Kopiju mog testamenta naći ćeš u mom ličnom dosijeu i kod mog notara. Ovo pismo ne zamenjuje zvaničan testament, ali će te uputiti kako da upravljaš mojim bitkoinima.
 
 
-Čuvajte se i zapamtite da vas volim. Moja želja je da vam ova sredstva budu korisna i pomognu vam da napredujete s mirom u duši.
+Čuvajte se i zapamtite da vas volim. Moja želja je da vam ova sredstva budu korisna i pomognu vam da nastavite dalje sa mirom u duši.
 
 
 Rukopisni potpis
@@ -3435,23 +3435,23 @@ Datum
 Ovo je konkretan primer pisma o nasledstvu. Obavezno ga prilagodite svojoj ličnoj situaciji. Takođe je važno odlučiti koliko detalja uključiti u proces povraćaja. Ako se plašite da vaši naslednici neće moći da povrate vaše bitkoine sa ovim minimalnim informacijama, razmislite o pisanju vodiča korak po korak koji detaljno objašnjava proces.
 
 
-Štaviše, moraćete da balansirate koliko informacija otkrivate u ovom planu nasledstva. Što više delite o svojim metodama bezbednosti, to više rizikujete da ugrozite svoju bezbednost dok ste živi ako ovo pismo dospe u pogrešne ruke. Na primer, provalnik koji pronađe ovo pismo odmah bi znao gde da traži kritične informacije o Wallet. S druge strane, ako podelite premalo, izlažete svoje naslednike riziku da ne mogu da pristupe vašim bitkoinima. Stoga, morate pronaći sredinu.
+Štaviše, moraćete da balansirate koliko informacija otkrivate u ovom planu nasledstva. Što više delite o svojim metodama bezbednosti, to više rizikujete da ugrozite svoju bezbednost dok ste živi ako ovo pismo dospe u pogrešne ruke. Na primer, provalnik koji pronađe ovo pismo odmah bi znao gde da traži kritične informacije o novčaniku. S druge strane, ako podelite premalo, izlažete svoje naslednike riziku da ne mogu da pristupe vašim bitkoinima. Stoga, morate pronaći sredinu.
 
 
 U konačnici, dilema plana nasleđivanja odražava strategije bezbednosti: uvek se radi o balansiranju rizika od gubitka sa rizikom od krađe. Nedovoljno dokumentovanje informacija povećava rizik da vaši naslednici izgube pristup bitkoinima, dok deljenje previše informacija može povećati rizik od krađe sada.
 
 
-### Korak 4: Pregledajte i Sačuvajte Vaše Pismo
+### Korak 4: Pregledajte i sačuvajte vaše pismo
 
 
 Pre nego što završite, uverite se da vaše pismo uključuje:
 
 
 
-- Jasna lista pouzdanih osoba sa njihovim kontakt informacijama
+- Jasnu listu pouzdanih osoba sa njihovim kontakt informacijama
 - Detaljan popis vaše imovine i gde je pronaći
 - Precizna uputstva u vezi sa pristupom i bezbednošću
-- Promišljena i saosećajna poruka vašim naslednicima
+- Promišljenu i saosećajnu poruku vašim naslednicima
 
 
 U zavisnosti od vaše lične situacije, napravite više rukom pisanih kopija ovog pisma i čuvajte ih na sigurnim mestima (u sefu, kod poverljive osobe, itd.). Obavestite svoje naslednike da ovaj plan nasledstva postoji, bez nužnog otkrivanja njegovog sadržaja odmah. Za dodatnu zaštitu, možda ćete želeti da stavite pismo u neprovidnu kovertu koja pokazuje pokušaj otvaranja kako biste osigurali da nije pristupljeno bez vaše dozvole.
@@ -3463,7 +3463,7 @@ U zavisnosti od vaše lične situacije, napravite više rukom pisanih kopija ovo
 Ako je potrebno, konsultujte se sa advokatom ili notarom kako biste formalno integrisali svoj plan u pravni okvir.
 
 
-**Čestitamo!** Završili ste ključni korak u osiguravanju vašeg Bitcoin bogatstva. Sada možete poboljšati svoj plan nasleđa redovnim pregledom i istraživanjem naprednijih rešenja kao što su smanjenje Multisig postavki sa vremenskim zaključavanjima:
+**Čestitamo!** Završili ste ključni korak u osiguravanju vašeg Bitkoin bogatstva. Sada možete poboljšati svoj plan nasleđa redovnim pregledom i istraživanjem naprednijih rešenja kao što su smanjenje Multisig postavki sa vremenskim zaključavanjima:
 
 
 https://planb.academy/tutorials/wallet/desktop/liana-306ef457-700c-4fdd-b07a-8fb7a8a29f04
@@ -3476,7 +3476,7 @@ Posebna zahvalnost [Pamela Morgan](https://x.com/pamelawjd) za njen rad i što j
 
 
 
-## Sada ste među 0,1% najspremnijih Bitcoiner-a
+## Sada ste među 0,1% najspremnijih Bitkoiner-a
 
 
 <chapterId>5f4cfab9-9af1-584b-a1fe-a0769a991f19</chapterId>
@@ -3485,19 +3485,19 @@ Posebna zahvalnost [Pamela Morgan](https://x.com/pamelawjd) za njen rad i što j
 :::video id=8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f:::
 
 
-Ako ste stigli ovako daleko, sada ste deo prosvetljene manjine! Veoma malo ljudi ide ovako daleko sa Bitcoin, i možete biti ponosni na to koliko ste daleko stigli. Možda ste pratili sve tutorijale ponuđene u ovom kursu obuke: Postavili svoj prvi Hardware Wallet, Osigurali svoju frazu za oporavak, Kreirali plan prosečne cene dolara (DCA), Nabavili Bitcoin sa i bez KYC, Čak planirali svoje nasleđe Bitcoin. Svaki korak koji ste preduzeli je skok ka pravom finansijskom suverenitetu.
+Ako ste stigli ovako daleko, sada ste deo prosvetljene manjine! Veoma malo ljudi ide ovako daleko sa Bitkoinom, i možete biti ponosni na to koliko ste daleko stigli. Možda ste pratili sve tutorijale ponuđene u ovom kursu obuke: Postavili svoj prvi hardverski novačnik, Osigurali svoju frazu za oporavak, kreirali plan prosečne dolarske kupovine (DCA), Nabavili bitkoin sa i bez KYC, Čak planirali svoje nasleđe bitkoina. Svaki korak koji ste preduzeli je skok ka pravom finansijskom suverenitetu.
 
 
-Čak i ako još niste sve to uradili, ali ste posvećeni da to uskoro uradite, već ste ispred drugih. Ta odlučnost da učite i preduzmete akciju je ono što zaista ima značaj. Sada razumete zašto Bitcoin predstavlja tako važnu promenu za našu individualnu i kolektivnu budućnost.
+Čak i ako još niste sve to uradili, ali ste posvećeni da to uskoro uradite, već ste ispred drugih. Ta odlučnost da učite i preduzmete akciju je ono što zaista ima značaj. Sada razumete zašto Bitkoin predstavlja tako važnu promenu za našu individualnu i kolektivnu budućnost.
 
 
-Otkako sam počeo edukovati ljude o Bitcoin, i ekosistem i ja smo značajno evoluirali. Ovaj kurs je potpuno ažuriran kako bi odražavao najbolje što Bitcoin danas nudi. Bilo je to pravo putovanje zajedno!
+Otkako sam počeo edukovati ljude o Bitkoinu, i ekosistem i ja smo značajno evoluirali. Ovaj kurs je potpuno ažuriran kako bi odražavao najbolje što Bitkoin danas nudi. Bilo je to pravo putovanje zajedno!
 
 
 ![image](assets/sr-Latn/101.webp)
 
 
-### Šta je sledeće za Bitcoin?
+### Šta je sledeće za Bitkoin?
 
 
 Ako pogledamo logaritamsku krivulju cena, jedna stvar postaje jasna: nikada ne znamo tačno gde se nalazimo u ciklusima. Možda čitate ovaj kurs upravo kada počinje nova faza rasta, ili ste možda usred medveđeg tržišta. Bez obzira na slučaj, ciklusi se nastavljaju, neizbežno isprekidani spektakularnim vrhuncima i ponekad brutalnim korekcijama.
