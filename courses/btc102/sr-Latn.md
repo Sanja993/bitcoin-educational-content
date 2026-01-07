@@ -89,7 +89,7 @@ Provešćemo vas kroz implementaciju strategije koja odgovara vašem profilu i p
 ![image](assets/sr-Latn/003.webp)
 
 
-Konačno, četvrti deo, "Zaštita vaših naslednika i imovine," pokriva ključnu temu koja se često zanemaruje: kako osigurati da vaš bitkoin bude prenet vašim voljenima u slučaju neočekivanog događaja. Naučićete kako da kreirate i postavite Bitcoin plan nasledstva, osiguravajući očuvanje vašeg bogatstva i nakon vašeg života.
+Konačno, četvrti deo, "Zaštita vaših naslednika i imovine," pokriva ključnu temu koja se često zanemaruje: kako osigurati da vaš bitkoin bude prenet vašim voljenima u slučaju neočekivanog događaja. Naučićete kako da kreirate i postavite Bitkoin plan nasledstva, osiguravajući očuvanje vašeg bogatstva i nakon vašeg života.
 
 
 ![image](assets/sr-Latn/004.webp)
@@ -128,7 +128,7 @@ Pre nego što nastavimo dalje, važno je jasno razlikovati dva suštinski razli�
 
 
 
-- **Bitcoin Ekosistem** je usredsređen na ideju zdravog novca, izgrađenog na snažnoj decentralizaciji, dugoročnoj otpornosti, privatnosti i individualnom suverenitetu. Od svog lansiranja 2009. godine, Bitkoin funkcioniše pouzdano i sigurno, podržan od strane globalne, posvećene zajednice programera. To nije prolazni trend, već stabilan i dobro uspostavljen protokol dizajniran da očuva vrednost tokom vremena.
+- **Bitkoin Ekosistem** je usredsređen na ideju zdravog novca, izgrađenog na snažnoj decentralizaciji, dugoročnoj otpornosti, privatnosti i individualnom suverenitetu. Od svog lansiranja 2009. godine, Bitkoin funkcioniše pouzdano i sigurno, podržan od strane globalne, posvećene zajednice programera. To nije prolazni trend, već stabilan i dobro uspostavljen protokol dizajniran da očuva vrednost tokom vremena.
 
 
 
@@ -259,7 +259,7 @@ Napadači često koriste lažne veb-sajtove, naloge na društvenim mrežama ili 
 Pre nego što kliknete na link ili preduzmete bilo kakvu akciju, uvek dvaput proverite identitet pošiljaoca. Kada ste u nedoumici, posetite sajt ručno umesto da koristite dati link. Najvažnije, nikada ne delite svoje privatne ključeve ili lozinke sa bilo kim.
 
 
-#### Bitcoin Hardfork-ovi
+#### Bitkoin Hardfork-ovi
 
 
 Tokom godina, Bitkoin je doživeo nekoliko *Hard forkova*, što je rezultiralo stvaranjem alternativnih verzija originalne kriptovalute. Jednostavno rečeno, *Hard Fork* je podela u mreži koja vodi do dve odvojene blokčejn mreže, obe deleći istu istoriju sve do trenutka podele. Ovi forkovi se obično dešavaju kada deo zajednice programera ili širi Bitkoin ekosistem želi da uvede velike promene u originalni protokol, ali ne može da postigne široki konsenzus. Umesto da odustanu od svojih ideja, odlučuju da pokrenu novu verziju Bitkoina (sa izmenjenim pravilima) u nadi da će korisnici i rudari odlučiti da prate njihov Fork umesto toga.
@@ -823,7 +823,7 @@ Prateći ove principe, moći ćete pristupiti ulaganju u Bitkoin sa više jasno�
 <partId>a42355a3-9dd8-57ed-b590-32a333fe09ea</partId>
 
 
-## Bitcoin za 5 minuta
+## Bitkoin za 5 minuta
 
 
 <chapterId>ae122ad9-9b4d-5229-9038-e1b99d5cfc83</chapterId>
@@ -876,7 +876,7 @@ Ideja digitalne valute koja funkcioniše nezavisno od bilo koje centralne vlasti
 Bitkoin nije se samo pojavio niotkuda. Stvoren je u vrlo specifičnom trenutku— odmah nakon globalne finansijske krize 2008. godine. Kolaps američkog tržišta nekretnina i kriza subprimarnih kredita uzrokovali su propast velikih banaka i uzdrmali poverenje ljudi u ceo finansijski sistem.
 
 
-U tom okruženju straha i nesigurnosti rodio se Bitcoin. Tvorac, poznat kao Satoshi Nakamoto, uključio je vrlo simboličnu poruku u prvi blok Bitkoin Blockchain-a, poznat kao Genesis blok. Poruka je bila:
+U tom okruženju straha i nesigurnosti rodio se Bitkoin. Tvorac, poznat kao Satoshi Nakamoto, uključio je vrlo simboličnu poruku u prvi blok Bitkoin Blockchain-a, poznat kao Genesis blok. Poruka je bila:
 
 
 > **"The Times 03/Jan/2009 Kancelar na ivici drugog paketa pomoći za banke"**
@@ -979,7 +979,7 @@ Jedna od najpotcenjenijih snaga Bitkoina je njegova deljivost. Svaki bitkoin mo�
 #### Javni protokol, proverljiv od strane svih
 
 
-Bitcoin radi na javnom, **open-source** protokolu (najpoznatiji kroz [Bitcoin Core](https://github.com/Bitcoin/Bitcoin)). To znači da je njegov kod slobodno dostupan svima za pregled, reviziju i poboljšanje. Nema skrivenih mehanizama ili zatvorenih sistema; sve o tome kako Bitkoin funkcioniše je javno dostupno.
+Bitkoin radi na javnom, **open-source** protokolu (najpoznatiji kroz [Bitcoin Core](https://github.com/Bitcoin/Bitcoin)). To znači da je njegov kod slobodno dostupan svima za pregled, reviziju i poboljšanje. Nema skrivenih mehanizama ili zatvorenih sistema; sve o tome kako Bitkoin funkcioniše je javno dostupno.
 
 Ovaj nivo transparentnosti čini izuzetno teškim uvođenje "zadnjih vrata" ili pravljenje tajnih izmena. Svako ko ima tehničke veštine može pokrenuti čvor, doprineti razvoju ili izgraditi kompatibilne alate. U Bitkoinu, poverenje se stiče na bazi koda i konsenzusa, a ne na centralizovanoj kontroli.
 
@@ -1479,7 +1479,7 @@ https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-429
 - **Platforme isključivo za Bitkoin**
 
 
-Ove platforme pristupaju korisnicima na jednostavan način, nudeći jednostavnu, transparentnu uslugu. One su isključivo fokusirane na Bitkoin. Često implementiraju rešenja za kupovinu bitkoina putem prosečne cene u dolarima (DCA) i nude automatska povlačenja na lični novčanik. Posebno su pogodne za početnike koji žele postepeno i sigurno da akumuliraju bitcoine. Primeri: Relai, Bull Bitcoin, StackinSat, Bitstack...
+Ove platforme pristupaju korisnicima na jednostavan način, nudeći jednostavnu, transparentnu uslugu. One su isključivo fokusirane na Bitkoin. Često implementiraju rešenja za kupovinu bitkoina putem prosečne cene u dolarima (DCA) i nude automatska povlačenja na lični novčanik. Posebno su pogodne za početnike koji žele postepeno i sigurno da akumuliraju bitkoine. Primeri: Relai, Bull Bitcoin, StackinSat, Bitstack...
 
 
 https://planb.academy/tutorials/exchange/centralized/bitstack-29fd71be-9570-42c6-8f6f-cd355d62e746
@@ -1573,7 +1573,7 @@ https://planb.academy/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 #### Razvoj u Bitkoin ekosistemu 
 
 
-U srcu tehničke evolucije Bitkoin nalazi se Bitcoin Core, najčešće korišćeni softverski klijent za pokretanje Bitkoin čvora. To je projekat otvorenog koda, potpuno transparentan i javno dostupan na GitHub-u: [https://github.com/Bitcoin/Bitcoin](https://github.com/Bitcoin/Bitcoin). gde svako može pregledati kod, pratiti diskusije i videti kako se protokol razvija. Iako se ažuriranja predlažu i raspravljaju, niko nije primoran da ih usvoji i korisnici ostaju u kontroli nad verzijom koju koriste.
+U srcu tehničke evolucije Bitkoina nalazi se Bitcoin Core, najčešće korišćeni softverski klijent za pokretanje Bitkoin čvora. To je projekat otvorenog koda, potpuno transparentan i javno dostupan na GitHub-u: [https://github.com/Bitcoin/Bitcoin](https://github.com/Bitcoin/Bitcoin). gde svako može pregledati kod, pratiti diskusije i videti kako se protokol razvija. Iako se ažuriranja predlažu i raspravljaju, niko nije primoran da ih usvoji i korisnici ostaju u kontroli nad verzijom koju koriste.
 
 
 Razvoj Bitkoina može se razumeti kroz nekoliko različitih grupa saradnika:
@@ -1585,7 +1585,7 @@ Razvoj Bitkoina može se razumeti kroz nekoliko različitih grupa saradnika:
 - **Nezavisni programeri**, Ovi programeri se fokusiraju na kreiranje alata i aplikacija za poboljšanje korisničkog iskustva, kao što su Mempool.space (vizuelni Interface za praćenje aktivnosti transakcija) ili Alby (alati za korišćenje Lightning plaćanja u pregledačima i aplikacijama).
 
 
-Svako može predložiti izmene za Bitcoin Core, ali je proces namerno rigorozan. Nove ideje često zahtevaju godine da se usavrše i zahtevaju duboko tehničko razumevanje, široko angažovanje zajednice i višeslojnu proveru. Predlozi se obično podnose u obliku **Bitcoin Predloga za Poboljšanje (BIPs- Bitcoin Improvement Proposal)**; neki od njih nikada ne budu implementirani.
+Svako može predložiti izmene za Bitcoin Core, ali je proces namerno rigorozan. Nove ideje često zahtevaju godine da se usavrše i zahtevaju duboko tehničko razumevanje, široko angažovanje zajednice i višeslojnu proveru. Predlozi se obično podnose u obliku **Bitkoin Predloga za Poboljšanje (BIPs- Bitcoin Improvement Proposal)**; neki od njih nikada ne budu implementirani.
 
 Inovacija je dobrodošla, ali samo kada je potkrepljena čvrstim razlozima, konsenzusom zajednice i pažljivim testiranjem.
 
@@ -1805,7 +1805,7 @@ Evo nekih faktora koje treba razmotriti kada pokušavate da utvrdite najbolji na
 
 - **Iznos koji želite da investirate**: Da li kupujete malu količinu samo da biste eksperimentisali i učili bez preuzimanja velikog rizika? Ili planirate značajniju investiciju koja je namenjena za dugoročno držanje?
 - **Vaša učestalost ulaganja**: Da li želite da izvršite jednokratnu kupovinu i odmah osigurate svoja sredstva, ili biste radije rasporedili svoje kupovine tokom vremena koristeći strategiju kao što je Dollar-Cost Averaging (DCA) kako biste ublažili volatilnost cena?
-- **Šta želite da radite sa svojim bitcoinima**: Da li ih držite isključivo kao dugoročnu štednju? Koristite li ih za svakodnevna plaćanja? Ili možda kombinujete oba pristupa?
+- **Šta želite da radite sa svojim bitkoinima**: Da li ih držite isključivo kao dugoročnu štednju? Koristite li ih za svakodnevna plaćanja? Ili možda kombinujete oba pristupa?
 - **Vaš stav o privatnosti**: Da li vam je prijatno da dajete lične informacije i koristite centralizovane platforme za kupovinu Bitkoina? Ili više volite metode koje prvo štite privatnost, kao što su peer-to-peer, no-KYC razmene?
 - **Vaš lični, pravni i geografski kontekst**: U zavisnosti od toga gde živite, pristup određenim menjačnicama može biti ograničen. Lokalni zakoni i poreska pravila takođe mogu uticati na način na koji čuvate i koristite vaš Bitkoin.
 
@@ -2107,7 +2107,7 @@ Dakle, važno je razumeti da prolazak kroz KYC nije samo manji korak; **utiče n
 #### Sticanje Bez Provere Identiteta (No-KYC)
 
 
-Kupovina Bitcoin bez otkrivanja vašeg identiteta je opcija za one koji daju prednost privatnosti. Ova metoda može uključivati nekoliko pristupa:
+Kupovina Bitkoina bez otkrivanja vašeg identiteta je opcija za one koji daju prednost privatnosti. Ova metoda može uključivati nekoliko pristupa:
 
 
 
@@ -3216,7 +3216,7 @@ Njegov Profil:
 - Poseduje hardverski novčanik i mobilni novčanik za povremenu upotrebu;
 - Koristi jedinstvenu KYC platformu za kupovinu svojih bitkoina;
 - Upoznat sa Bitkoinom od strane svog rođaka;
-- Nema altcoine niti koristi Lightning mrežu.
+- Nema altkoine niti koristi Lightning mrežu.
 
 
 Naš cilj je da kreiramo jednostavan, efikasan plan prilagođen Cédricovom profilu pre nego što pređemo na složenije scenarije koji uključuju druge tipove korisnika.
@@ -3292,10 +3292,10 @@ Na papiru koji će postati vaš Bitkoin plan nasleđa, kreirajte tabelu poređen
 
 | Osoba               | Nivo poverenja    | Znanje o Bitkoinu   | Načini kontaktiranja         | Napomene                                                                                                                   |
 |----------------------|-----------------|----------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Moj brat Bob       | Veoma visok       | Nisko                  | Telefon & email            | Bob ne zna mnogo o Bitcoinu, ali je 100% pouzdan. Može osigurati da proces prođe glatko.                        |
-| Moj rođak Nathan     | Visok            | Srednje               | Telefon & Instagram        | Ima neko znanje o Bitcoinu i može voditi moje naslednike. Upoznat sa planom. #1 osoba za kontakt u slučaju potrebe.                   |
+| Moj brat Bob       | Veoma visok       | Nisko                  | Telefon & email            | Bob ne zna mnogo o Bitkoinu, ali je 100% pouzdan. Može osigurati da proces prođe glatko.                        |
+| Moj rođak Nathan     | Visok            | Srednje               | Telefon & Instagram        | Ima neko znanje o Bitkoinu i može voditi moje naslednike. Upoznat sa planom. #1 osoba za kontakt u slučaju potrebe.                   |
 | Ricco (prijatelj Bitkoiner) | Srednje      | Veoma visoko            | Twitter, email & foto   | Veoma tehnički vešt, ali nikada ne treba da ima pristup sredstvima. Kontaktirati za tehničku podršku.            |
-| Bitcoin YouTuber     | Nisko             | Visok                 | YouTube kanal          | Dobar izvor informacija za učenje, ali ne može direktno intervenisati.                                                   |
+| Bitkoin YouTuber     | Nisko             | Visok                 | YouTube kanal          | Dobar izvor informacija za učenje, ali ne može direktno intervenisati.                                                   |
 
 Ako nemate pouzdanog ili kompetentnog člana porodice, možete razmotriti i angažovanje profesionalca, kao što je advokat specijalizovan za Bitkoin nasledstvo, ili specijalizovanu službu za planiranje nasledstva. Ključ je da vaši naslednici imaju pristup pouzdanoj tehničkoj pomoći uz očuvanje sigurnosti i poverljivosti vaših sredstava.
 
@@ -3367,7 +3367,7 @@ Evo model inspirisan planiranjem nasleđivanja kriptoimovine Pamele Morgan. Nara
 Poštovani `Imena naslednika`,
 
 
-Ako čitaš ovo pismo, više nisam ovde. Pre svega, znaj da te volim i da sam odvojio vreme da pripremim ovaj dokument kako bih ti pomogao da upravljaš mojim bitkoinima, koji mogu imati vrednost. Ovo nije komplikovan zadatak, ali zahteva pažnju i oprez. Bitcoin je peer-to-peer sistem: nema povratka ako se napravi greška. Molim te, odvoji vreme da u potpunosti pročitaš ovo pismo pre nego što preduzmeš bilo kakvu akciju.
+Ako čitaš ovo pismo, više nisam ovde. Pre svega, znaj da te volim i da sam odvojio vreme da pripremim ovaj dokument kako bih ti pomogao da upravljaš mojim bitkoinima, koji mogu imati vrednost. Ovo nije komplikovan zadatak, ali zahteva pažnju i oprez. Bitkoin je peer-to-peer sistem: nema povratka ako se napravi greška. Molim te, odvoji vreme da u potpunosti pročitaš ovo pismo pre nego što preduzmeš bilo kakvu akciju.
 
 
 #### 1. Kontaktirajte pouzdane osobe
