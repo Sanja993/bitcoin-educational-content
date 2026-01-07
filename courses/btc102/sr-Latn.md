@@ -3500,63 +3500,63 @@ Otkako sam počeo edukovati ljude o Bitkoinu, i ekosistem i ja smo značajno evo
 ### Šta je sledeće za Bitkoin?
 
 
-Ako pogledamo logaritamsku krivulju cena, jedna stvar postaje jasna: nikada ne znamo tačno gde se nalazimo u ciklusima. Možda čitate ovaj kurs upravo kada počinje nova faza rasta, ili ste možda usred medveđeg tržišta. Bez obzira na slučaj, ciklusi se nastavljaju, neizbežno isprekidani spektakularnim vrhuncima i ponekad brutalnim korekcijama.
+Ako pogledamo logaritamsku krivu cena, jedna stvar postaje jasna: nikada ne znamo tačno gde se nalazimo u ciklusima. Možda čitate ovaj kurs upravo kada počinje nova faza rasta, ili ste možda usred medveđeg tržišta. Bez obzira na slučaj, ciklusi se nastavljaju, neizbežno isprekidani spektakularnim vrhuncima i ponekad brutalnim korekcijama.
 
 
-Ali izvan cene, rast Bitcoin je zapanjujući. Ono što je počelo kao opskuran projekat među cypherpunk-ovima postalo je globalni pokret. Od Silk Roada do institucionalnog usvajanja, Bitcoin se čvrsto etablirao u globalnom finansijskom pejzažu. Više se ne posmatra kao marginalni eksperiment, već kao ozbiljna klasa imovine koju prihvataju institucije i milioni pojedinaca širom sveta.
+Ali izvan cene, rast Bitkoina je zapanjujući. Ono što je počelo kao nejasan projekat među cypherpunk-ovima postalo je globalni pokret. Od Silk Roada do institucionalnog usvajanja, Bitkoin se čvrsto etablirao u globalnom finansijskom pejzažu. Više se ne posmatra kao marginalni eksperiment, već kao ozbiljna klasa imovine koju prihvataju institucije i milioni pojedinaca širom sveta.
 
 
-Ova promena u percepciji dolazi uz kontinuirani tehnički napredak. Novčanici i infrastruktura se stalno unapređuju. Svake godine se pojavljuju nova rešenja koja čine Bitcoin sigurnijim, otpornijim i lakšim za korišćenje. Danas je Bitcoin decentralizovaniji, pristupačniji i bolje shvaćen nego ikada pre.
+Ova promena u percepciji dolazi uz kontinuirani tehnički napredak. Novčanici i infrastruktura se stalno unapređuju. Svake godine se pojavljuju nova rešenja koja čine Bitkoin sigurnijim, otpornijim i lakšim za korišćenje. Danas je Bitkoin decentralizovaniji, pristupačniji i bolje shvaćen nego ikada pre.
 
 
-Naravno, izazovi ostaju: regulativa, privatnost, šira primena i razvoj cirkularne ekonomije. Ali dokle god zajednica ostaje aktivna, radoznala i angažovana, Bitcoin će ostati moćna alternativa tradicionalnom finansijskom sistemu.
+Naravno, izazovi ostaju: regulativa, privatnost, šira primena i razvoj cirkularne ekonomije. Ali dokle god zajednica ostaje aktivna, radoznala i angažovana, Bitkoin će ostati moćna alternativa tradicionalnom finansijskom sistemu.
 
 
-Jedna stvar je sigurna: Bitcoin će nastaviti da postoji; proizvodeći novi blok otprilike svakih 10 minuta, neumorno, dan za danom, godina za godinom. Videćemo više korisnika, novčanika, berzi, a takođe i više regulativa, tehničkih prepreka, kriza i inovacija.
+Jedna stvar je sigurna: Bitkoin će nastaviti da postoji; proizvodeći novi blok otprilike svakih 10 minuta, neumorno, dan za danom, godinu za godinom. Videćemo više korisnika, novčanika, berzi, a takođe i više regulativa, tehničkih prepreka, kriza i inovacija.
 
 
 ![image](assets/sr-Latn/102.webp)
 
 
-Kako globalne krize traju i inflacija nagriza kupovnu moć fiat valuta, Bitcoin će prirodno privlačiti više ljudi, onih koji traže finansijsku slobodu i individualni suverenitet. Ova dinamika će nastaviti da jača Bitcoin i privlači nove talente za unapređenje njegovog protokola, slojeva skaliranja i svakodnevnih slučajeva upotrebe u smislu sigurnosti, privatnosti i korisnosti.
+Kako globalne krize traju i inflacija nagriza kupovnu moć fiat valuta, Bitkoin će prirodno privlačiti više ljudi, onih koji traže finansijsku slobodu i individualni suverenitet. Ova dinamika će nastaviti da jača Bitkoin i privlači nove talente za unapređenje njegovog protokola, slojeva skaliranja i svakodnevnih slučajeva upotrebe u smislu sigurnosti, privatnosti i korisnosti.
 
 
-### koji je tvoj sledeći potez?
+### koji je vaš sledeći potez?
 
 
-Ironično, najveća promena neće biti Bitcoin; bićeš to ti.
+Ironično, najveća promena neće biti Bitkoin; to ćete biti vi.
 
-Evoluiraćeš u načinu na koji koristiš, razumeš i odnosiš se prema Bitcoin. Možda ćeš razviti pravu strast prema tome, dovoljno da počneš podučavati druge, uključiš se u zajednicu ili jednostavno očuvaš svoje bogatstvo na duži rok. Koji god put odabrao, Bitcoin će promeniti tvoj pogled na svet; i verovatno tvoj odnos prema slobodi i finansijskoj odgovornosti.
+Evoluiraćete u načinu na koji koristite, razumete i odnosite se prema Bitkoinu. Možda ćete razviti pravu strast prema tome, dovoljno da počnete podučavati druge, uključite se u zajednicu ili jednostavno očuvate svoje bogatstvo na duži rok. Koji god put odaberete, Bitkoin će promeniti vaš pogled na svet; i verovatno vaš odnos prema slobodi i finansijskoj odgovornosti.
 
 
 Evo nekoliko pravaca koje možete slediti dalje:
 
 
-#### 1. Održi zamah
+#### 1. Održite zamah
 
 
 Ako vaša trenutna strategija funkcioniše, samo nastavite dalje.
 
-Nastavite redovno slagati Sats i održavati najbolje prakse za sigurnost. Već ste izgradili snažnu osnovu i nema potrebe da idete dalje ako je vaš glavni cilj jednostavno zaštititi vašu Bitcoin ušteđevinu.
+Nastavite da redovno "stackujete" satošije i održavate najbolje prakse za sigurnost. Već ste izgradili snažnu osnovu i nema potrebe da idete dalje ako je vaš glavni cilj jednostavno zaštititi vašu bitkoin ušteđevinu.
 
 
-Odvojite vreme da posmatrate evoluciju ekosistema, usavršite svoju strategiju i ojačajte svoj postavku po potrebi.
+Odvojite vreme da posmatrate evoluciju ekosistema, usavršite svoju strategiju i ojačajte svoj setup po potrebi.
 
 
 #### 2. Produbite svoje znanje
 
 
-Vaše putovanje se ovde ne završava. Bitcoin je svet koji se stalno razvija, i uvek ima još toga da se otkrije. Evo nekoliko pravaca koje biste možda želeli istražiti kako biste produbili svoje razumevanje Bitcoin:
+Vaše putovanje se ovde ne završava. Bitkoin je svet koji se stalno razvija, i uvek ima još toga da se otkrije. Evo nekoliko pravaca koje biste možda želeli istražiti kako biste produbili svoje razumevanje Bitkoina:
 
 
 
-- Da biste unapredili svoju digitalnu sigurnost, počnite sa našim uvodnim kursom sigurnosti:
+- Da biste unapredili svoju digitalnu sigurnost, počnite sa našim uvodnim kursom o bezbednosti:
 
 
 https://planb.academy/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 
-- Ako vas privlači ekonomska i filozofska strana Bitcoin, pogledajte ove detaljne kurseve:
+- Ako vas privlači ekonomska i filozofska strana Bitkoina, pogledajte ove detaljne kurseve:
 
 
 https://planb.academy/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
@@ -3566,19 +3566,19 @@ https://planb.academy/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 https://planb.academy/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
 
 
-- Vlasnici preduzeća zainteresovani za integraciju Bitcoin u svoju strategiju kompanije ne bi trebalo da propuste::
+- Vlasnici preduzeća zainteresovani za integraciju Bitkoina u svoju strategiju kompanije ne bi trebalo da propuste::
 
 
 https://planb.academy/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 
 
-- Da biste otkrili fascinantnu priču iza stvaranja Bitcoin i ranih godina sistema, toplo preporučujem ovaj kurs:
+- Da biste otkrili fascinantnu priču iza stvaranja Bitkoina i ranih godina ovog sistema, toplo preporučujem ovaj kurs:
 
 
 https://planb.academy/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 
 
-- Konačno, ako ste radoznali u vezi sa tehničkim aspektima Bitcoin i njegovog ekosistema, istražite ove kurseve obuke:
+- Konačno, ako ste radoznali u vezi sa tehničkim aspektima Bitkoina i njegovog ekosistema, istražite ove kurseve:
 
 
 https://planb.academy/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
@@ -3587,19 +3587,19 @@ https://planb.academy/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 
 https://planb.academy/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
-#### 3. Doprinite Bitcoin Ekosistemu
+#### 3. Doprinesite Bitkoin Ekosistemu
 
 
-Bitcoin je više od finansijskog alata; to je pokret. U zavisnosti od vaših veština i interesovanja, postoji mnogo načina na koje možete doprineti:
+Bitkoin je više od finansijskog alata; to je pokret. U zavisnosti od vaših veština i interesovanja, postoji mnogo načina na koje možete doprineti:
 
 
 
-- **Edukacija i podizanje svesti**: Pomozite svojim voljenima da razumeju Bitcoin, podelite svoje znanje i učestvujte u lokalnim diskusijama;
-- Razvijajte alate i aplikacije: Ako imate tehničke veštine, doprinos open-source alatima je odličan način da donesete vrednost Bitcoin;
-- **Pridružite se lokalnoj zajednici**: Učestvujte u događajima, okupljanjima i forumima kako biste upoznali druge bitkoinere i razmenite poglede na najnovija dešavanja.
+- **Edukacija i podizanje svesti**: Pomozite svojim voljenima da razumeju Bitkoin, podelite svoje znanje i učestvujte u lokalnim diskusijama;
+- **Razvijajte alate i aplikacije**: Ako imate tehničke veštine, doprinos open-source alatima je odličan način da donesete vrednost Bitkoinu;
+- **Pridružite se lokalnoj zajednici**: Učestvujte u događajima, okupljanjima i forumima kako biste upoznali druge bitkoinere i razmenili poglede na najnovija dešavanja.
 
 
-Ako želite pomoći u edukaciji drugih, Plan ₿ Academy uvek traži saradnike! Sav naš edukativni sadržaj je otvorenog koda i hostovan na GitHub-u. Pozivamo saradnike da pomognu u lekturi i prevođenju sadržaja na različite jezike; u Exchange za nekoliko Sats! Bilo sada ili kasnije u vašem Bitcoin putovanju, pozvani ste da se pridružite [našoj Telegram grupi za saradnike](https://t.me/PlanBNetwork_ContentBuilder) Plan ₿ Academy.
+Ako želite pomoći u edukaciji drugih, Plan ₿ Academy uvek traži saradnike! Sav naš edukativni sadržaj je otvorenog koda i hostovan na GitHub-u. Pozivamo saradnike da pomognu u lekturi i prevođenju sadržaja na različite jezike; u zamenu za nekoliko satošija! Bilo sada ili kasnije u vašem Bitkoin putovanju, pozvani ste da se pridružite [našoj Telegram grupi za saradnike](https://t.me/PlanBNetwork_ContentBuilder) Plan ₿ Academy.
 
 
 ### Završne reči
@@ -3608,7 +3608,7 @@ Ako želite pomoći u edukaciji drugih, Plan ₿ Academy uvek traži saradnike! 
 Hvala vam puno što ste pohađali kurs BTC102.
 
 
-Moje ime je Rogzy, osnivač Découvre Bitcoin i suosnivač Plan ₿ Academy; platforme omogućene zahvaljujući našim neverovatnim novim partnerima, Tether i Fulgur Ventures, i našoj zajedničkoj misiji da edukujemo što više ljudi o Bitcoin.
+Moje ime je Rogzy, osnivač Découvre Bitcoin i suosnivač Plan ₿ Academy; platforme omogućene zahvaljujući našim neverovatnim novim partnerima, Tether i Fulgur Ventures, i našoj zajedničkoj misiji da edukujemo što više ljudi o Bitkoinu.
 
 
 Vaše povratne informacije su izuzetno vredne. Slobodno ostavite komentare na platformi i javite nam šta mislite o ovoj ažuriranoj verziji kursa. Vaši predlozi nam pomažu da stalno unapređujemo kvalitet našeg sadržaja.
@@ -3620,15 +3620,15 @@ Sada ste spremni da polažete završni ispit; test sa 40 pitanja koji će potvrd
 Srećno!
 
 
-Nadam se da ćemo se uskoro ponovo videti na nekom drugom kursu na Plan ₿ Academy; bilo da je to jedan od mojih ili od nekog drugog sjajnog učitelja u zajednici. I ko zna, možda ćemo se čak sresti lično na nekoj konferenciji, događaju ili Bitcoin okupljanju.
+Nadam se da ćemo se uskoro ponovo videti na nekom drugom kursu na Plan ₿ Academy; bilo da je to jedan od mojih ili od nekog drugog sjajnog učitelja u zajednici. I ko zna, možda ćemo se čak sresti lično na nekoj konferenciji, događaju ili Bitkoin okupljanju.
 
 
 Još jednom, čestitam na tome koliko ste daleko stigli. I zapamtite; moj primarni cilj će uvek ostati isti:
 
-**Da pomognemo što većem broju ljudi da postignu finansijski suverenitet kroz Bitcoin.**
+**Da pomognemo što većem broju ljudi da postignu finansijski suverenitet kroz Bitkoin.**
 
 
-**Želim ti sve najbolje na tvom putovanju sa Bitcoin!**
+**Želim ti sve najbolje na tvom putovanju sa Bitkoinom!**
 
 
 # Završni Deo
